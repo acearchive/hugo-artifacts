@@ -6,42 +6,47 @@ files:
   - name: "Toby on Sally - Part 1"
     fileName: "toby-on-sally-part-1.mp4"
     mediaType: "video/mp4"
-    hash: "3b476b0c2206e3a42dd597d87e4d929bb9619bdaa597badadb8a442250031c6fa12a2af7d05ad6470f18ad7526ed3977e631bd37f7c86a66cf70b3f09ac9c5d0"
-    hashAlgorithm: "sha2-512"
-    storageKey: "artifacts/13403b476b0c2206e3a42dd597d87e4d929bb9619bdaa597badadb8a442250031c6fa12a2af7d05ad6470f18ad7526ed3977e631bd37f7c86a66cf70b3f09ac9c5d0"
+    hash: "953333ce17d9a527b564c916b233ed34ce55bb8c12119b2e8ca19396d0296395"
+    hashAlgorithm: "sha2-256"
+    storageKey: "artifacts/1220953333ce17d9a527b564c916b233ed34ce55bb8c12119b2e8ca19396d0296395"
     url: "https://files.acearchive.lgbt/artifacts/toby-on-sally/toby-on-sally-part-1.mp4"
+    hidden: false
     aliases: []
   - name: "Toby on Sally - Part 2"
     fileName: "toby-on-sally-part-2.mp4"
     mediaType: "video/mp4"
-    hash: "c8d90a7a86f941c4d2a63dd828be453db77190214b47237237789af259cd894d971df12861b071d5926e8b048395b8c9eb11d0766b31c7a1bb869a4a551ecc52"
-    hashAlgorithm: "sha2-512"
-    storageKey: "artifacts/1340c8d90a7a86f941c4d2a63dd828be453db77190214b47237237789af259cd894d971df12861b071d5926e8b048395b8c9eb11d0766b31c7a1bb869a4a551ecc52"
+    hash: "cf5b84b08a82cfe4918da35509b51061f270615881d8d455c14257c203d3fa0a"
+    hashAlgorithm: "sha2-256"
+    storageKey: "artifacts/1220cf5b84b08a82cfe4918da35509b51061f270615881d8d455c14257c203d3fa0a"
     url: "https://files.acearchive.lgbt/artifacts/toby-on-sally/toby-on-sally-part-2.mp4"
+    hidden: false
     aliases: []
   - name: "Toby on Sally - Part 3"
     fileName: "toby-on-sally-part-3.mp4"
     mediaType: "video/mp4"
-    hash: "f612b2006659da73b5c6f6ad5d36f9cd18d83beb736763936dd78e3da4f57cea318edd3ca8bd10ea5e000d165617dce8cfb65beb20f2e1aef8da5a6485408402"
-    hashAlgorithm: "sha2-512"
-    storageKey: "artifacts/1340f612b2006659da73b5c6f6ad5d36f9cd18d83beb736763936dd78e3da4f57cea318edd3ca8bd10ea5e000d165617dce8cfb65beb20f2e1aef8da5a6485408402"
+    hash: "89bfcae0387845535d460e1767e07d467a3ca0a8747970a557c188eabbaf49bc"
+    hashAlgorithm: "sha2-256"
+    storageKey: "artifacts/122089bfcae0387845535d460e1767e07d467a3ca0a8747970a557c188eabbaf49bc"
     url: "https://files.acearchive.lgbt/artifacts/toby-on-sally/toby-on-sally-part-3.mp4"
+    hidden: false
     aliases: []
   - name: "Toby on Sally - Part 4"
     fileName: "toby-on-sally-part-4.mp4"
     mediaType: "video/mp4"
-    hash: "aa805d4fe9c94694807c376dc0c577f2512ef668e937b70d335bdf2e786229af623a1abe06fb53589f2fb62f9d1bd53ac0a0ec59a5f79b6d967478bed3c292e5"
-    hashAlgorithm: "sha2-512"
-    storageKey: "artifacts/1340aa805d4fe9c94694807c376dc0c577f2512ef668e937b70d335bdf2e786229af623a1abe06fb53589f2fb62f9d1bd53ac0a0ec59a5f79b6d967478bed3c292e5"
+    hash: "a11b8a5e6dc599e99fb7348559381428f55ea74529e32a038f6cc4d70c21c135"
+    hashAlgorithm: "sha2-256"
+    storageKey: "artifacts/1220a11b8a5e6dc599e99fb7348559381428f55ea74529e32a038f6cc4d70c21c135"
     url: "https://files.acearchive.lgbt/artifacts/toby-on-sally/toby-on-sally-part-4.mp4"
+    hidden: false
     aliases: []
   - name: "Toby on Sally - Part 5"
     fileName: "toby-on-sally-part-5.mp4"
     mediaType: "video/mp4"
-    hash: "c53e105e0482e538627487dee779b014dd2e9430aacc2004d27d56a91c0391b0e76d908f3bbd2d9891a297f79940d8201bac9be14f0cbaff2ff0f0834bdef4a8"
-    hashAlgorithm: "sha2-512"
-    storageKey: "artifacts/1340c53e105e0482e538627487dee779b014dd2e9430aacc2004d27d56a91c0391b0e76d908f3bbd2d9891a297f79940d8201bac9be14f0cbaff2ff0f0834bdef4a8"
+    hash: "3cede90ae213d7401a03b1527ebece43a1cec0e3a004a3371500c78f43ca08a7"
+    hashAlgorithm: "sha2-256"
+    storageKey: "artifacts/12203cede90ae213d7401a03b1527ebece43a1cec0e3a004a3371500c78f43ca08a7"
     url: "https://files.acearchive.lgbt/artifacts/toby-on-sally/toby-on-sally-part-5.mp4"
+    hidden: false
     aliases: []
 links:
   - name: "YouTube Playlist"
