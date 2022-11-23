@@ -22,7 +22,7 @@ people:
 identities:
   - "asexual"
 fromYear: 1977
-toYear: 2021
+toYear: 2022
 decades:
   - 1970
   - 1980
