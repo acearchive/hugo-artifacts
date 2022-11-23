@@ -9,6 +9,7 @@ files:
     mediaType: "text/plain"
     hash: "83eda62b676d52936eeb3a4d9e50f4265655c2236e60370fadb983d541f94c99"
     hashAlgorithm: "sha2-256"
+    multihash: "122083eda62b676d52936eeb3a4d9e50f4265655c2236e60370fadb983d541f94c99"
     storageKey: "artifacts/122083eda62b676d52936eeb3a4d9e50f4265655c2236e60370fadb983d541f94c99"
     url: "https://files.acearchive.lgbt/artifacts/sennkestra-asexual-research-bibliography/asexual-research-bibliography.bib"
     hidden: false

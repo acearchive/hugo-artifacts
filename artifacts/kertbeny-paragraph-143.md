@@ -9,6 +9,7 @@ files:
     mediaType: "application/pdf"
     hash: "d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494"
     hashAlgorithm: "sha2-256"
+    multihash: "1220d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494"
     storageKey: "artifacts/1220d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494"
     url: "https://files.acearchive.lgbt/artifacts/kertbeny-paragraph-143/kertbeny-paragraph-143.pdf"
     hidden: false
@@ -18,6 +19,7 @@ files:
     mediaType: "text/plain"
     hash: "4e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c"
     hashAlgorithm: "sha2-256"
+    multihash: "12204e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c"
     storageKey: "artifacts/12204e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c"
     url: "https://files.acearchive.lgbt/artifacts/kertbeny-paragraph-143/kertbeny-paragraph-143.bib"
     hidden: false

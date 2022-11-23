@@ -9,6 +9,7 @@ files:
     mediaType: "application/pdf"
     hash: "1e7c16a8f3bd8e2ecde57f2b5a26585ce24dfc521d2fffc6b4005d3256a3a6e8"
     hashAlgorithm: "sha2-256"
+    multihash: "12201e7c16a8f3bd8e2ecde57f2b5a26585ce24dfc521d2fffc6b4005d3256a3a6e8"
     storageKey: "artifacts/12201e7c16a8f3bd8e2ecde57f2b5a26585ce24dfc521d2fffc6b4005d3256a3a6e8"
     url: "https://files.acearchive.lgbt/artifacts/hirschfeld-sappho-und-sokrates/hirschfeld-sappho-und-sokrates.pdf"
     hidden: false
@@ -18,6 +19,7 @@ files:
     mediaType: "text/plain"
     hash: "08dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb"
     hashAlgorithm: "sha2-256"
+    multihash: "122008dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb"
     storageKey: "artifacts/122008dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb"
     url: "https://files.acearchive.lgbt/artifacts/hirschfeld-sappho-und-sokrates/hirschfeld-sappho-und-sokrates.bib"
     hidden: false

@@ -9,6 +9,7 @@ files:
     mediaType: "application/zip"
     hash: "2e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89"
     hashAlgorithm: "sha2-256"
+    multihash: "12202e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89"
     storageKey: "artifacts/12202e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89"
     url: "https://files.acearchive.lgbt/artifacts/haven-for-the-human-amoeba/haven-for-the-human-amoeba.zip"
     hidden: false

@@ -9,6 +9,7 @@ files:
     mediaType: "application/pdf"
     hash: "4acba084bf09f15992feb79d17683e81e3581bc53a8fc5d60505c6244c68c4d2"
     hashAlgorithm: "sha2-256"
+    multihash: "12204acba084bf09f15992feb79d17683e81e3581bc53a8fc5d60505c6244c68c4d2"
     storageKey: "artifacts/12204acba084bf09f15992feb79d17683e81e3581bc53a8fc5d60505c6244c68c4d2"
     url: "https://files.acearchive.lgbt/artifacts/trosse-ein-weib/ein-weib.pdf"
     hidden: false
@@ -18,6 +19,7 @@ files:
     mediaType: "text/plain"
     hash: "d3a5fb76b8996029aaf101a6fb738dd933ba97a2aba5542c2feff5a402dfcad4"
     hashAlgorithm: "sha2-256"
+    multihash: "1220d3a5fb76b8996029aaf101a6fb738dd933ba97a2aba5542c2feff5a402dfcad4"
     storageKey: "artifacts/1220d3a5fb76b8996029aaf101a6fb738dd933ba97a2aba5542c2feff5a402dfcad4"
     url: "https://files.acearchive.lgbt/artifacts/trosse-ein-weib/ein-weib.bib"
     hidden: false

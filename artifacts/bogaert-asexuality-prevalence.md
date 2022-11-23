@@ -9,6 +9,7 @@ files:
     mediaType: "application/pdf"
     hash: "393368d7d235b00556ed22d0596581327e52496cae4117268f8981baaf98fcde"
     hashAlgorithm: "sha2-256"
+    multihash: "1220393368d7d235b00556ed22d0596581327e52496cae4117268f8981baaf98fcde"
     storageKey: "artifacts/1220393368d7d235b00556ed22d0596581327e52496cae4117268f8981baaf98fcde"
     url: "https://files.acearchive.lgbt/artifacts/bogaert-asexuality-prevalence/bogaert-asexuality-prevalence.pdf"
     hidden: false
@@ -18,6 +19,7 @@ files:
     mediaType: "text/plain"
     hash: "24e4ce1cbc200ec3e0496cc3d8430c5222d10d670adb7c8a676cb9740a4e1093"
     hashAlgorithm: "sha2-256"
+    multihash: "122024e4ce1cbc200ec3e0496cc3d8430c5222d10d670adb7c8a676cb9740a4e1093"
     storageKey: "artifacts/122024e4ce1cbc200ec3e0496cc3d8430c5222d10d670adb7c8a676cb9740a4e1093"
     url: "https://files.acearchive.lgbt/artifacts/bogaert-asexuality-prevalence/bogaert-asexuality-prevalence.bib"
     hidden: false

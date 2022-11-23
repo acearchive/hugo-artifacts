@@ -9,6 +9,7 @@ files:
     mediaType: "application/pdf"
     hash: "afd169afda0304854432635ad9ce7d8a172cf337116b8ac95aa4f6743e143da1"
     hashAlgorithm: "sha2-256"
+    multihash: "1220afd169afda0304854432635ad9ce7d8a172cf337116b8ac95aa4f6743e143da1"
     storageKey: "artifacts/1220afd169afda0304854432635ad9ce7d8a172cf337116b8ac95aa4f6743e143da1"
     url: "https://files.acearchive.lgbt/artifacts/johnson-asexual-and-autoerotic-women/asexual-and-autoerotic-women.pdf"
     hidden: false
@@ -18,6 +19,7 @@ files:
     mediaType: "text/html"
     hash: "f581b14f2ee9046ac0386e42fab23c97df3d9760c566b6d8a1639910d4c93055"
     hashAlgorithm: "sha2-256"
+    multihash: "1220f581b14f2ee9046ac0386e42fab23c97df3d9760c566b6d8a1639910d4c93055"
     storageKey: "artifacts/1220f581b14f2ee9046ac0386e42fab23c97df3d9760c566b6d8a1639910d4c93055"
     url: "https://files.acearchive.lgbt/artifacts/johnson-asexual-and-autoerotic-women/asexual-and-autoerotic-women-transcript/index.html"
     hidden: false
@@ -27,6 +29,7 @@ files:
     mediaType: "text/plain"
     hash: "28ec66f72197a92adc20bf2f437bf3760825bf90c4b07bce39111cb9a4b361e7"
     hashAlgorithm: "sha2-256"
+    multihash: "122028ec66f72197a92adc20bf2f437bf3760825bf90c4b07bce39111cb9a4b361e7"
     storageKey: "artifacts/122028ec66f72197a92adc20bf2f437bf3760825bf90c4b07bce39111cb9a4b361e7"
     url: "https://files.acearchive.lgbt/artifacts/johnson-asexual-and-autoerotic-women/the-sexually-oppressed.bib"
     hidden: false
