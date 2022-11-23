@@ -52,9 +52,9 @@ files:
   - name: "Off Our Backs, vol. 3, no. 6 (Citation)"
     fileName: "off-our-backs-vol-3-no-6.bib"
     mediaType: "text/plain"
-    hash: "acc6e7222f6e702036b41d9efb0d032314e41d0dfc1f217a00ea7fc634714601"
+    hash: "dc0270b4dc6056f5f145a6911cadd12d0032a9b24c9ba21168792a18127496ed"
     hashAlgorithm: "sha2-256"
-    storageKey: "artifacts/1220acc6e7222f6e702036b41d9efb0d032314e41d0dfc1f217a00ea7fc634714601"
+    storageKey: "artifacts/1220dc0270b4dc6056f5f145a6911cadd12d0032a9b24c9ba21168792a18127496ed"
     url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/off-our-backs-vol-3-no-6.bib"
     hidden: false
     aliases: []

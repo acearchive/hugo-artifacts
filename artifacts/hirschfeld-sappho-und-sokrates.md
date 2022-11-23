@@ -16,9 +16,9 @@ files:
   - name: "Citation"
     fileName: "hirschfeld-sappho-und-sokrates.bib"
     mediaType: "text/plain"
-    hash: "38e272c7761d87573adf4826b57aed5c220ddc2009fceb59e6dfb79075b943ca"
+    hash: "08dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb"
     hashAlgorithm: "sha2-256"
-    storageKey: "artifacts/122038e272c7761d87573adf4826b57aed5c220ddc2009fceb59e6dfb79075b943ca"
+    storageKey: "artifacts/122008dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb"
     url: "https://files.acearchive.lgbt/artifacts/hirschfeld-sappho-und-sokrates/hirschfeld-sappho-und-sokrates.bib"
     hidden: false
     aliases: []

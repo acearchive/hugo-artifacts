@@ -16,9 +16,9 @@ files:
   - name: "Citation"
     fileName: "bogaert-asexuality-prevalence.bib"
     mediaType: "text/plain"
-    hash: "7e555898127a315834085064187e2db68971b7f76b2c8ad252ad58fea7792a4a"
+    hash: "24e4ce1cbc200ec3e0496cc3d8430c5222d10d670adb7c8a676cb9740a4e1093"
     hashAlgorithm: "sha2-256"
-    storageKey: "artifacts/12207e555898127a315834085064187e2db68971b7f76b2c8ad252ad58fea7792a4a"
+    storageKey: "artifacts/122024e4ce1cbc200ec3e0496cc3d8430c5222d10d670adb7c8a676cb9740a4e1093"
     url: "https://files.acearchive.lgbt/artifacts/bogaert-asexuality-prevalence/bogaert-asexuality-prevalence.bib"
     hidden: false
     aliases: []
