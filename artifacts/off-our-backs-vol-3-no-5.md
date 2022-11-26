@@ -15,7 +15,7 @@ files:
     lang: "en"
     hidden: false
     aliases: []
-  - name: "Your Own Label"
+  - name: "Your Own Label (Digital Scan)"
     fileName: "your-own-label.png"
     mediaType: "image/png"
     hash: "823a05946383eca75eadb248b6fda315c218aa5435f094c5f8b1e1aa9a5b4dd2"
@@ -23,6 +23,7 @@ files:
     multihash: "1220823a05946383eca75eadb248b6fda315c218aa5435f094c5f8b1e1aa9a5b4dd2"
     storageKey: "artifacts/1220823a05946383eca75eadb248b6fda315c218aa5435f094c5f8b1e1aa9a5b4dd2"
     url: "https://files.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/your-own-label.png"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Your Own Label (Transcript)"
