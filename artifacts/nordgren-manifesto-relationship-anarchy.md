@@ -11,6 +11,7 @@ files:
     multihash: "1220fcf2a3624f8e86b818875ec7fd8f8c8ccc53cf530454a9c3abec3e4b379494be"
     storageKey: "artifacts/1220fcf2a3624f8e86b818875ec7fd8f8c8ccc53cf530454a9c3abec3e4b379494be"
     url: "https://files.acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy/short-instructional-manifesto-for-relationship-anarchy.pdf"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Standalone HTML"
@@ -21,6 +22,7 @@ files:
     multihash: "1220a53d3667e98e61a144ecd1c7247fcec1447b291251425b8c039d75b6e908c3a2"
     storageKey: "artifacts/1220a53d3667e98e61a144ecd1c7247fcec1447b291251425b8c039d75b6e908c3a2"
     url: "https://files.acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy/short-instructional-manifesto-for-relationship-anarchy.html"
+    lang: "en"
     hidden: false
     aliases: []
 links:

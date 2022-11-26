@@ -11,6 +11,7 @@ files:
     multihash: "122025b2257068c2992693217aba1128cccc0dcdbcb411ff928f9e66455686560d50"
     storageKey: "artifacts/122025b2257068c2992693217aba1128cccc0dcdbcb411ff928f9e66455686560d50"
     url: "https://files.acearchive.lgbt/artifacts/hinderliter-evolution-of-online-asexual-discourse/the-evolution-of-online-asexual-discourse.pdf"
+    lang: "en"
     hidden: false
     aliases: []
 links:

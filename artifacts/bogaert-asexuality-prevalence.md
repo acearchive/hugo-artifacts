@@ -12,6 +12,7 @@ files:
     multihash: "1220393368d7d235b00556ed22d0596581327e52496cae4117268f8981baaf98fcde"
     storageKey: "artifacts/1220393368d7d235b00556ed22d0596581327e52496cae4117268f8981baaf98fcde"
     url: "https://files.acearchive.lgbt/artifacts/bogaert-asexuality-prevalence/bogaert-asexuality-prevalence.pdf"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Citation"

@@ -12,6 +12,7 @@ files:
     multihash: "12204edd80bcd798d3b25d362a1b9fa28a66a65193e16780d462c565f5480f91094e"
     storageKey: "artifacts/12204edd80bcd798d3b25d362a1b9fa28a66a65193e16780d462c565f5480f91094e"
     url: "https://files.acearchive.lgbt/artifacts/krafft-ebing-psychopathia-sexualis/psychopathia-sexualis.pdf"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Fulltext OCR Transcript"
@@ -22,6 +23,7 @@ files:
     multihash: "1220c850bf003f2161c90be8ff6a3c38af137339c98ad9e584daeda27ba465381891"
     storageKey: "artifacts/1220c850bf003f2161c90be8ff6a3c38af137339c98ad9e584daeda27ba465381891"
     url: "https://files.acearchive.lgbt/artifacts/krafft-ebing-psychopathia-sexualis/psychopathia-sexualis-ocr-transcript.txt"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Citation"

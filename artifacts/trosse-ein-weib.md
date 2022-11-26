@@ -4,7 +4,7 @@ title: "*Ein Weib?*"
 summary: "An early academic paper on queer identities where the author self-identities as asexual"
 description: "An early academic paper on queer identities where the author discusses asexuality using the label *sinnlichkeitslosigkeit* (asensuality) and self-identifies as such"
 files:
-  - name: "Original Paper (Deutsch)"
+  - name: "Original Paper"
     fileName: "ein-weib.pdf"
     mediaType: "application/pdf"
     hash: "4acba084bf09f15992feb79d17683e81e3581bc53a8fc5d60505c6244c68c4d2"
@@ -12,6 +12,7 @@ files:
     multihash: "12204acba084bf09f15992feb79d17683e81e3581bc53a8fc5d60505c6244c68c4d2"
     storageKey: "artifacts/12204acba084bf09f15992feb79d17683e81e3581bc53a8fc5d60505c6244c68c4d2"
     url: "https://files.acearchive.lgbt/artifacts/trosse-ein-weib/ein-weib.pdf"
+    lang: "de"
     hidden: false
     aliases: []
   - name: "Citation"

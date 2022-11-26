@@ -12,6 +12,7 @@ files:
     multihash: "1220245053ca2b1263b8d3f4f3b59576b86c6cee51f4c7e434f8468b8b388f9c5942"
     storageKey: "artifacts/1220245053ca2b1263b8d3f4f3b59576b86c6cee51f4c7e434f8468b8b388f9c5942"
     url: "https://files.acearchive.lgbt/artifacts/dear-abby-happy-celibates/dear-abby-happy-celibates.png"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Transcript"
@@ -22,6 +23,7 @@ files:
     multihash: "1220b942621e003603f25db084c945c2db4e158774cfd896f50086f99083f43ca3dd"
     storageKey: "artifacts/1220b942621e003603f25db084c945c2db4e158774cfd896f50086f99083f43ca3dd"
     url: "https://files.acearchive.lgbt/artifacts/dear-abby-happy-celibates/dear-abby-happy-celibates-transcript/index.html"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Citation"

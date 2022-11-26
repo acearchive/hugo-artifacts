@@ -12,6 +12,7 @@ files:
     multihash: "12201ff999058ea3211ab21515060777cc88a9bedfaf320f954a2d8f3338089d1172"
     storageKey: "artifacts/12201ff999058ea3211ab21515060777cc88a9bedfaf320f954a2d8f3338089d1172"
     url: "https://files.acearchive.lgbt/artifacts/carroll-toby-an-asexual-person/toby-an-asexual-person.png"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Toby: An Asexual Person (Transcript)"
@@ -22,6 +23,7 @@ files:
     multihash: "122078300092dec761437958446965081f265a54b0aef1c274b8cc50297f9c6ac4ea"
     storageKey: "artifacts/122078300092dec761437958446965081f265a54b0aef1c274b8cc50297f9c6ac4ea"
     url: "https://files.acearchive.lgbt/artifacts/carroll-toby-an-asexual-person/toby-an-asexual-person-transcript/index.html"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Sexuality Now: Embracing Diversity (Citation)"

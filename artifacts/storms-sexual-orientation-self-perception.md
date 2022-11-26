@@ -11,6 +11,7 @@ files:
     multihash: "1220bb83c74308dabff59769208afca8203e654b36e292f3bb8139c5b26baafe8d6e"
     storageKey: "artifacts/1220bb83c74308dabff59769208afca8203e654b36e292f3bb8139c5b26baafe8d6e"
     url: "https://files.acearchive.lgbt/artifacts/storms-sexual-orientation-self-perception/sexual-orientation-and-self-perception.pdf"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Citation"

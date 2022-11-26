@@ -12,6 +12,7 @@ files:
     multihash: "1220afd169afda0304854432635ad9ce7d8a172cf337116b8ac95aa4f6743e143da1"
     storageKey: "artifacts/1220afd169afda0304854432635ad9ce7d8a172cf337116b8ac95aa4f6743e143da1"
     url: "https://files.acearchive.lgbt/artifacts/johnson-asexual-and-autoerotic-women/asexual-and-autoerotic-women.pdf"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Transcript"
@@ -22,6 +23,7 @@ files:
     multihash: "1220f581b14f2ee9046ac0386e42fab23c97df3d9760c566b6d8a1639910d4c93055"
     storageKey: "artifacts/1220f581b14f2ee9046ac0386e42fab23c97df3d9760c566b6d8a1639910d4c93055"
     url: "https://files.acearchive.lgbt/artifacts/johnson-asexual-and-autoerotic-women/asexual-and-autoerotic-women-transcript/index.html"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "The Sexually Oppressed (Citation)"

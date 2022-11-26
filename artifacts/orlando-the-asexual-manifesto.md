@@ -11,6 +11,7 @@ files:
     multihash: "1220f907ed09addad95bd17de1efe76c7a624ba8144f0e2165edaf832447cded5f54"
     storageKey: "artifacts/1220f907ed09addad95bd17de1efe76c7a624ba8144f0e2165edaf832447cded5f54"
     url: "https://files.acearchive.lgbt/artifacts/orlando-the-asexual-manifesto/the-asexual-manifesto.pdf"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Transcript"
@@ -21,6 +22,7 @@ files:
     multihash: "1220e05c26de2fdf10d31ec19935f4c048412b2d2fb8e7c6e866338d6f1253e64419"
     storageKey: "artifacts/1220e05c26de2fdf10d31ec19935f4c048412b2d2fb8e7c6e866338d6f1253e64419"
     url: "https://files.acearchive.lgbt/artifacts/orlando-the-asexual-manifesto/the-asexual-manifesto-transcript/index.html"
+    lang: "en"
     hidden: false
     aliases: []
 links:

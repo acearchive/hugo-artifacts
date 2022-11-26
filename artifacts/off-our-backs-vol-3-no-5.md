@@ -12,6 +12,7 @@ files:
     multihash: "1220917c7f13e4d19134885618bc8c194ef4d460ba0f186d4f9919f1ce79d996404e"
     storageKey: "artifacts/1220917c7f13e4d19134885618bc8c194ef4d460ba0f186d4f9919f1ce79d996404e"
     url: "https://files.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/off-our-backs-vol-3-no-5.pdf"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Your Own Label"
@@ -32,6 +33,7 @@ files:
     multihash: "12201b567c1f196a34a0352e09f747fa754c4bddc81a5fef15683568db6b3b6890c6"
     storageKey: "artifacts/12201b567c1f196a34a0352e09f747fa754c4bddc81a5fef15683568db6b3b6890c6"
     url: "https://files.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/your-own-label-transcript/index.html"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Citation"

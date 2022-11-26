@@ -4,7 +4,7 @@ title: "Kertbeny's pamphlets protesting Prussian sodomy laws"
 summary: "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\""
 description: "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\", as well as \"monosexual\""
 files:
-  - name: "Original Paper (Deutsch)"
+  - name: "Original Paper"
     fileName: "kertbeny-paragraph-143.pdf"
     mediaType: "application/pdf"
     hash: "d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494"
@@ -12,6 +12,7 @@ files:
     multihash: "1220d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494"
     storageKey: "artifacts/1220d631f2e0ca6ef8d7e7b6ce7da82757d2d005e608a2645d71a30cf6d8f5660494"
     url: "https://files.acearchive.lgbt/artifacts/kertbeny-paragraph-143/kertbeny-paragraph-143.pdf"
+    lang: "de"
     hidden: false
     aliases: []
   - name: "Citation"

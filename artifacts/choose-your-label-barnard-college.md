@@ -22,6 +22,7 @@ files:
     multihash: "12200dbc18818dd0d1001c367e6f22a1bdfa3ec4ff64c262f7f70b6f01c0df23e9e6"
     storageKey: "artifacts/12200dbc18818dd0d1001c367e6f22a1bdfa3ec4ff64c262f7f70b6f01c0df23e9e6"
     url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/index.html"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Photo"
@@ -52,6 +53,7 @@ files:
     multihash: "12200c90cbfe0a298589573ea87a1caa432e0cc1644ec16de9553c5153080c15a266"
     storageKey: "artifacts/12200c90cbfe0a298589573ea87a1caa432e0cc1644ec16de9553c5153080c15a266"
     url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/off-our-backs-vol-3-no-6.pdf"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Off Our Backs, vol. 3, no. 6 (Citation)"
