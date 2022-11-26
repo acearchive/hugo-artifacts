@@ -15,7 +15,7 @@ files:
     lang: "de"
     hidden: false
     aliases: []
-  - name: "Fulltext OCR Transcription"
+  - name: "Fulltext OCR Transcript"
     fileName: "hirschfeld-sexualpathologie.txt"
     mediaType: "text/plain"
     hash: "21ee92de2d6e0db2ee7afcc190d74f61eaa5febe6e80e74f5350043bdeaa8ce0"
