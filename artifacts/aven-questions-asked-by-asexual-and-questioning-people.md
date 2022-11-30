@@ -1,4 +1,5 @@
 ---
+id: "B3j5gcXWjam8"
 slug: "aven-questions-asked-by-asexual-and-questioning-people"
 title: "\"Questions Asked by Asexual and Questioning People\""
 summary: "An early version of the AVEN FAQ, written by Nat Titman"

@@ -1,4 +1,5 @@
 ---
+id: "GLYGvjpYITp4"
 slug: "kaz-a-slash-romanticism"
 title: "\"A/romanticism\""
 summary: "The terms \"queerplatonic\" and \"zucchini\" are coined in the comments of a blog post on aromanticism"

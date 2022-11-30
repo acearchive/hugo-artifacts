@@ -1,4 +1,5 @@
 ---
+id: "tqfVD2Tc8nVW"
 slug: "westphal-glad-to-be-asexual"
 title: "\"Glad to be asexual\""
 summary: "An in-depth article on asexuality published in *New Scientist* where the author meets David Jay."

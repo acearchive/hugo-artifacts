@@ -1,4 +1,5 @@
 ---
+id: "nXn2LQq3brJj"
 slug: "radford-no-sex-please"
 title: "\"No sex please, we're asexual\""
 summary: "An article in *The Guardian* about asexuality which mentions AVEN and quotes asexual people"

@@ -1,4 +1,5 @@
 ---
+id: "TgycQshRQMrl"
 slug: "worldpride-asexual-conference-titman-talk"
 title: "Nat Titman's talk at WorldPride Asexual Conference"
 summary: "A talk at WorldPride Asexual Conference 2012 on early asexual history"

@@ -1,4 +1,5 @@
 ---
+id: "FoSBpkAiYVFT"
 slug: "official-nonlibidoism-society"
 title: "The Official Nonlibidoism Society"
 summary: "A website dedicated to people with no libido"

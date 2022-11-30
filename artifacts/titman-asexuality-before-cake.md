@@ -1,4 +1,5 @@
 ---
+id: "vvnGEyez3JMj"
 slug: "titman-asexuality-before-cake"
 title: "\"Asexuality BC (Before Cake)\""
 summary: "A personal recounting of early asexual history by an early AVEN member"

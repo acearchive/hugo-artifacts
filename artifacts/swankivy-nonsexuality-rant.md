@@ -1,4 +1,5 @@
 ---
+id: "hIBipyJ9exSC"
 slug: "swankivy-nonsexuality-rant"
 title: "\"Nonsexuality Rant\""
 summary: "A blog post from the eaarly web where the author complains about people invalidating their asexuality"

@@ -1,4 +1,5 @@
 ---
+id: "6oFjN8eKkVAE"
 slug: "sinclair-intersex-blog"
 title: "Jim Sinclair's Articles About Intersexuality"
 summary: "A page on Jim Sinclair's personal blog dedicated to intersexuality"

@@ -1,4 +1,5 @@
 ---
+id: "D0FZFgtE8piq"
 slug: "hha-maxnova100-feelings-when-dating"
 title: "Coining of the term \"aromantic\""
 summary: "The term \"aromantic\" is used for the first time in an asexual message board"

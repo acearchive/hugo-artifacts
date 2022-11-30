@@ -1,4 +1,5 @@
 ---
+id: "6Sf4PzbuoYLh"
 slug: "trosse-ein-weib"
 title: "*Ein Weib?*"
 summary: "An early academic paper on queer identities where the author self-identities as asexual"

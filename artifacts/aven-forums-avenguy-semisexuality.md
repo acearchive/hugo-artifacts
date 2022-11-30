@@ -1,4 +1,5 @@
 ---
+id: "TJOxYmz9d2ke"
 slug: "aven-forums-avenguy-semisexuality"
 title: "\"Semisexuality\""
 summary: "An early discussion about aspec identities between allosexual and asexual"

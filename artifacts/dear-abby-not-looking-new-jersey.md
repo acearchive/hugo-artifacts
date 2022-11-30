@@ -1,4 +1,5 @@
 ---
+id: "iySYZcG1zAmw"
 slug: "dear-abby-not-looking-new-jersey"
 title: "Asexuality on *Dear Abby*"
 summary: "The term \"asexual\" is used in a response to a *Dear Abby* letter"

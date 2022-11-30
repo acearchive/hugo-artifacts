@@ -1,4 +1,5 @@
 ---
+id: "cmD6HyZzoISB"
 slug: "choose-your-label-barnard-college"
 title: "\"Choose Your Label\" Barnard College"
 summary: "A photo of activists at Barnard College inviting people to choose their own label"

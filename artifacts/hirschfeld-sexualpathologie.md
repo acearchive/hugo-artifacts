@@ -1,4 +1,5 @@
 ---
+id: "ih6XiwIOYsv0"
 slug: "hirschfeld-sexualpathologie"
 title: "*Sexualpathologie*"
 summary: "An early example of pathologization of asexual people in medical literature and use of the term \"asexual\""

@@ -1,4 +1,5 @@
 ---
+id: "Omh8r3LkwUJp"
 slug: "smidgen110-i-am-not-a-freak"
 title: "\"I Am Not a Freak!!!!\""
 summary: "A nonsexual person dispels some myths about their nonsexuality"

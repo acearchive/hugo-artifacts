@@ -1,4 +1,5 @@
 ---
+id: "358ST884WFQJ"
 slug: "dear-abby-happy-celibates"
 title: "\"Happy Celibates Want No Change\""
 summary: "An asexual *Dear Abby* letter writer responds to a statement Abby made about abstinence"

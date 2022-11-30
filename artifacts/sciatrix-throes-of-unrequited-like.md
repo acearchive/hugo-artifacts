@@ -1,4 +1,5 @@
 ---
+id: "Ogjb2qcK9CqY"
 slug: "sciatrix-throes-of-unrequited-like"
 title: "\"Writhing in the Throes of Unrequited Like\""
 summary: "The term \"WTFromantic\" is coined in a blog post"

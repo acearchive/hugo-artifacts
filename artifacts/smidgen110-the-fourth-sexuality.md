@@ -1,4 +1,5 @@
 ---
+id: "jeSJPu8ZOLWp"
 slug: "smidgen110-the-fourth-sexuality"
 title: "\"The Fourth Sexuality\""
 summary: "A blog post where the author identifies as nonsexual and talks about the invalidation they face"

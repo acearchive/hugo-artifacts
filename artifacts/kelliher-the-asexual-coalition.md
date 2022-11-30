@@ -1,4 +1,5 @@
 ---
+id: "JdSxCbpaNvrj"
 slug: "kelliher-the-asexual-coalition"
 title: "The Asexual Coalition"
 summary: "A site that defines asexuality as abstaining from romantic and sexual relationships"

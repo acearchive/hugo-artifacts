@@ -1,4 +1,5 @@
 ---
+id: "S4BHsMdFia0w"
 slug: "aven-forums-kspaz-gray-a"
 title: "\"Gray-A's\""
 summary: "The term \"gray-asexual\" is coined in an AVEN forum thread"

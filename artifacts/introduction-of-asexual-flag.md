@@ -1,4 +1,5 @@
 ---
+id: "0XPaZ7HyJVfM"
 slug: "introduction-of-asexual-flag"
 title: "Introduction of the asexual pride flag"
 summary: "The asexual pride flag is proposed, designed, voted on, and decided on across a series of AVEN forum threads."

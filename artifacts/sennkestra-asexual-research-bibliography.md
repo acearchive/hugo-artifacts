@@ -1,4 +1,5 @@
 ---
+id: "naURP0G5TYgD"
 slug: "sennkestra-asexual-research-bibliography"
 title: "Asexual Research Bibliography"
 summary: "A comprehensive bibliography of academic research on asexuality"

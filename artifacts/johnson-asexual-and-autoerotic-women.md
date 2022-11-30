@@ -1,4 +1,5 @@
 ---
+id: "eBfOdvW8kR86"
 slug: "johnson-asexual-and-autoerotic-women"
 title: "\"Asexual and Autoerotic Women: Two Invisible Groups\""
 summary: "One of the first academic papers on asexuality"

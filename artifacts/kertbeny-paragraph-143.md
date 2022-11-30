@@ -1,4 +1,5 @@
 ---
+id: "CVXPgQ7YrpDw"
 slug: "kertbeny-paragraph-143"
 title: "Kertbeny's pamphlets protesting Prussian sodomy laws"
 summary: "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\""

@@ -1,4 +1,5 @@
 ---
+id: "PGQPnYtDNspJ"
 slug: "nordgren-manifesto-relationship-anarchy"
 title: "*The short instructional manifesto for relationship anarchy*"
 summary: "A pamphlet which first introduced the concept of relationship anarchy"

@@ -1,4 +1,5 @@
 ---
+id: "x2obCtXM38Dp"
 slug: "david-jay-the-view"
 title: "David Jay on *The View*"
 summary: "David Jay, founder of AVEN, is interviewed on ABC's *The View*"

@@ -1,4 +1,5 @@
 ---
+id: "GwIJ2igXQdvs"
 slug: "krafft-ebing-psychopathia-sexualis"
 title: "*Psychopathia Sexualis*"
 summary: "The first use of the term \"anesthesia sexual\" to refer to asexual people"

@@ -1,4 +1,5 @@
 ---
+id: "nClmNtUMYrqH"
 slug: "cor-a-thought-wtfromantic"
 title: "\"A thought: 'WTFromantic'\""
 summary: "The term \"quoiromantic\" is coined in a blog post"

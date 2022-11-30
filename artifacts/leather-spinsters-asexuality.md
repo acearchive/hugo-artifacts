@@ -1,4 +1,5 @@
 ---
+id: "SCaYAlrbkPCi"
 slug: "leather-spinsters-asexuality"
 title: "Leather Spinsters: Asexuality"
 summary: "A page on the website for the Leather Spinsters dedicated to their asexual members"

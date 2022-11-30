@@ -1,4 +1,5 @@
 ---
+id: "rbArjAmvNnIi"
 slug: "bogaert-asexuality-prevalence"
 title: "\"Asexuality: Prevalence and Associated Factors in a National Probability Sample\""
 summary: "An early study on the prevalence of asexuality"

@@ -1,4 +1,5 @@
 ---
+id: "MKbNWmmhCog6"
 slug: "orlando-the-asexual-manifesto"
 title: "*The Asexual Manifesto*"
 summary: "A paper by the Asexual Caucus of the New York Radical Feminists"

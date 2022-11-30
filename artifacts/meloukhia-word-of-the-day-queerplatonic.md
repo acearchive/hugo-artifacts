@@ -1,4 +1,5 @@
 ---
+id: "U5YRvHfykQGR"
 slug: "meloukhia-word-of-the-day-queerplatonic"
 title: "\"Word of the Day: Queerplatonic\""
 summary: "The term \"queerplatonic\" is first introduced on Tumblr by its coiner"

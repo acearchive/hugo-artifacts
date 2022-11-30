@@ -1,4 +1,5 @@
 ---
+id: "h5AKl8pjLgFD"
 slug: "storms-sexual-orientation-self-perception"
 title: "\"Sexual Orientation and Self-Perception\""
 summary: "A study that reimagines the Kinsey Scale as a two-dimensional spectrum that accounts for asexuality"

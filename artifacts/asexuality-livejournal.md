@@ -1,4 +1,5 @@
 ---
+id: "3iNPW4EdzvMU"
 slug: "asexuality-livejournal"
 title: "Asexuality LiveJournal"
 summary: "An asexual LiveJournal community, which was one of the first sex-positive asexual discussion forums"

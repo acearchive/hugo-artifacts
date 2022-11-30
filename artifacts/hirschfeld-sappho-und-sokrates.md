@@ -1,4 +1,5 @@
 ---
+id: "KVTv9LGw4ToR"
 slug: "hirschfeld-sappho-und-sokrates"
 title: "*Sappho und Sokrates*"
 summary: "A formative academic work in legitimizing queer identities which recognizes asexual people"

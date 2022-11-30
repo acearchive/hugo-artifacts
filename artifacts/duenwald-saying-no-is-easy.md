@@ -1,4 +1,5 @@
 ---
+id: "VeJMSkMqCk3J"
 slug: "duenwald-saying-no-is-easy"
 title: "\"For Them, Just Saying No Is Easy\""
 summary: "An article in the *New York Times* about asexuality"

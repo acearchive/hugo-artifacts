@@ -1,4 +1,5 @@
 ---
+id: "7JQmFs7h1U5y"
 slug: "cnn-one-in-100-adults-asexual"
 title: "\"Study: One in 100 adults asexual\""
 summary: "An article by *CNN* about asexuality which mentions Anthony Bogaert's study"

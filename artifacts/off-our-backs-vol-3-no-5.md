@@ -1,4 +1,5 @@
 ---
+id: "XjAOWBKYDkjd"
 slug: "off-our-backs-vol-3-no-5"
 title: "*Off Our Backs*, vol. 3, no. 5"
 summary: "An issue of a feminist news journal that mentions asexuality"
