@@ -7,7 +7,7 @@ description: "A comprehensive bibliography of academic research on asexuality, a
 files:
   - name: "Bibliography"
     fileName: "asexual-research-bibliography.bib"
-    mediaType: "text/plain"
+    mediaType: "text/x-bibtex"
     hash: "83eda62b676d52936eeb3a4d9e50f4265655c2236e60370fadb983d541f94c99"
     hashAlgorithm: "sha2-256"
     multihash: "122083eda62b676d52936eeb3a4d9e50f4265655c2236e60370fadb983d541f94c99"
@@ -17,7 +17,7 @@ files:
     aliases: []
 links:
   - name: "Zotero Library"
-    url: "https://www.zotero.org/groups/950137/asexual_research"
+    url: "https://www.zotero.org/groups/950137/asexual_research/library"
 people:
   - "Sennkestra"
 identities:
