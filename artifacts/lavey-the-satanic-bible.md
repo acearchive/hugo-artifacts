@@ -27,6 +27,16 @@ files:
     lang: "en"
     hidden: false
     aliases: []
+  - name: "Citation"
+    fileName: "the-satanic-bible.bib"
+    mediaType: "text/x-bibtex"
+    hash: "d2f43c530da0e6eee7ba80110dd8e3211ab694f92df4ed9d1c84d06d753d9e9f"
+    hashAlgorithm: "sha2-256"
+    multihash: "1220d2f43c530da0e6eee7ba80110dd8e3211ab694f92df4ed9d1c84d06d753d9e9f"
+    storageKey: "artifacts/1220d2f43c530da0e6eee7ba80110dd8e3211ab694f92df4ed9d1c84d06d753d9e9f"
+    url: "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible.bib"
+    hidden: false
+    aliases: []
 links:
   - name: "Internet Archive"
     url: "https://archive.org/details/the-satanic-bible_epub-and-pdf"
