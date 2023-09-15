@@ -1,11 +1,11 @@
 ---
 id: "GxEyG3ecHOUu"
 slug: "aint-i-a-woman-vol-1-no-8"
-title: "*Ain't I a Woman*, vol. 1, no. 8"
+title: "*Ain't I a Woman?*, vol. 1, no. 8"
 summary: "A reader mentions asexual women in a submission about oppression in queer relationships"
-description: "A Marxist reader of the feminist news journal *Ain't I a Woman* mentions asexual women in a submission about oppression in queer relationships"
+description: "A Marxist reader of the feminist news journal *Ain't I a Woman?* mentions asexual women in a submission about oppression in queer relationships"
 files:
-  - name: "Ain't I a Woman, vol. 1, no. 8"
+  - name: "Ain't I a Woman?, vol. 1, no. 8"
     fileName: "aint-i-a-woman.pdf"
     mediaType: "application/pdf"
     hash: "f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
