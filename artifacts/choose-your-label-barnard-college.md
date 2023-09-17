@@ -15,6 +15,16 @@ files:
     url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label.png"
     hidden: false
     aliases: []
+  - name: "Article"
+    fileName: "late-copy.pdf"
+    mediaType: "application/pdf"
+    hash: "7f5f80461a479f6c406f95da2a1d724c2b8501893338643a5b22df8dc7bd4867"
+    hashAlgorithm: "sha2-256"
+    multihash: "12207f5f80461a479f6c406f95da2a1d724c2b8501893338643a5b22df8dc7bd4867"
+    storageKey: "artifacts/12207f5f80461a479f6c406f95da2a1d724c2b8501893338643a5b22df8dc7bd4867"
+    url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/late-copy.pdf"
+    hidden: false
+    aliases: []
   - name: "Article Transcript"
     fileName: "choose-your-label-transcript/index.html"
     mediaType: "text/html"
@@ -69,7 +79,7 @@ files:
     aliases: []
 links:
   - name: "JSTOR"
-    url: "https://www.jstor.org/stable/community.28041797"
+    url: "https://www.jstor.org/stable/community.28041797?seq=8"
 people: []
 identities:
   - "asexual"

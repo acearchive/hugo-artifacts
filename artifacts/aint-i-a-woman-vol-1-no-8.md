@@ -5,25 +5,15 @@ title: "*Ain't I a Woman?*, vol. 1, no. 8"
 summary: "A reader mentions asexual women in a submission about oppression in queer relationships"
 description: "A Marxist reader of the feminist news journal *Ain't I a Woman?* mentions asexual women in a submission about oppression in queer relationships"
 files:
-  - name: "Ain't I a Woman?, vol. 1, no. 8"
-    fileName: "aint-i-a-woman.pdf"
+  - name: "Reader Submission"
+    fileName: "from-our-readers.pdf"
     mediaType: "application/pdf"
-    hash: "f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
+    hash: "db533fa40c26d40f5c547e8aa92813dfc0332471ad5e21f3da054328f411671f"
     hashAlgorithm: "sha2-256"
-    multihash: "1220f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
-    storageKey: "artifacts/1220f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
-    url: "https://files.acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8/aint-i-a-woman.pdf"
+    multihash: "1220db533fa40c26d40f5c547e8aa92813dfc0332471ad5e21f3da054328f411671f"
+    storageKey: "artifacts/1220db533fa40c26d40f5c547e8aa92813dfc0332471ad5e21f3da054328f411671f"
+    url: "https://files.acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8/from-our-readers.pdf"
     lang: "en"
-    hidden: false
-    aliases: []
-  - name: "Citation"
-    fileName: "aint-i-a-woman.bib"
-    mediaType: "text/x-bibtex"
-    hash: "d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
-    hashAlgorithm: "sha2-256"
-    multihash: "1220d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
-    storageKey: "artifacts/1220d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
-    url: "https://files.acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8/aint-i-a-woman.bib"
     hidden: false
     aliases: []
   - name: "Reader Submission Transcript"
@@ -37,9 +27,30 @@ files:
     lang: "en"
     hidden: false
     aliases: []
+  - name: "Ain't I a Woman?, vol. 1, no. 8"
+    fileName: "aint-i-a-woman.pdf"
+    mediaType: "application/pdf"
+    hash: "f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
+    hashAlgorithm: "sha2-256"
+    multihash: "1220f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
+    storageKey: "artifacts/1220f87293b01146645ec780f8b285b4162403bbebdc191369e9d9a4d9c0e4030bbc"
+    url: "https://files.acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8/aint-i-a-woman.pdf"
+    lang: "en"
+    hidden: false
+    aliases: []
+  - name: "Ain't I a Woman?, vol. 1, no. 8 (Citation)"
+    fileName: "aint-i-a-woman.bib"
+    mediaType: "text/x-bibtex"
+    hash: "d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
+    hashAlgorithm: "sha2-256"
+    multihash: "1220d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
+    storageKey: "artifacts/1220d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
+    url: "https://files.acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8/aint-i-a-woman.bib"
+    hidden: false
+    aliases: []
 links:
   - name: "JSTOR"
-    url: "https://www.jstor.org/stable/community.28032125"
+    url: "https://www.jstor.org/stable/community.28032125?seq=2"
 people: []
 identities:
   - "asexual"
