@@ -27,6 +27,16 @@ files:
     lang: "en"
     hidden: false
     aliases: []
+  - name: "Article Citation"
+    fileName: "transsexual-liberation.bib"
+    mediaType: "text/x-bibtex"
+    hash: "b74baf3c39f63897a1dfb11f783868774d5de973fb6621ba489259726741388a"
+    hashAlgorithm: "sha2-256"
+    multihash: "1220b74baf3c39f63897a1dfb11f783868774d5de973fb6621ba489259726741388a"
+    storageKey: "artifacts/1220b74baf3c39f63897a1dfb11f783868774d5de973fb6621ba489259726741388a"
+    url: "https://files.acearchive.lgbt/artifacts/gay-liberator-transsexual-liberation/transsexual-liberation.bib"
+    hidden: false
+    aliases: []
   - name: "Detroit Gay Liberator, vol. 1, no. 8"
     fileName: "detroit-gay-liberator.pdf"
     mediaType: "application/pdf"
@@ -36,16 +46,6 @@ files:
     storageKey: "artifacts/1220c3d89af794203d55ea78e15385a1bde593e3789c526c7648ac316b611902cdf9"
     url: "https://files.acearchive.lgbt/artifacts/gay-liberator-transsexual-liberation/detroit-gay-liberator.pdf"
     lang: "en"
-    hidden: false
-    aliases: []
-  - name: "Citation"
-    fileName: "transsexual-liberation.bib"
-    mediaType: "text/x-bibtex"
-    hash: "61ed51ef62744a5e5653b299916e526283d3517af5db41993bf32d593c2671a1"
-    hashAlgorithm: "sha2-256"
-    multihash: "122061ed51ef62744a5e5653b299916e526283d3517af5db41993bf32d593c2671a1"
-    storageKey: "artifacts/122061ed51ef62744a5e5653b299916e526283d3517af5db41993bf32d593c2671a1"
-    url: "https://files.acearchive.lgbt/artifacts/gay-liberator-transsexual-liberation/transsexual-liberation.bib"
     hidden: false
     aliases: []
 links:

@@ -23,6 +23,7 @@ files:
     multihash: "12207f5f80461a479f6c406f95da2a1d724c2b8501893338643a5b22df8dc7bd4867"
     storageKey: "artifacts/12207f5f80461a479f6c406f95da2a1d724c2b8501893338643a5b22df8dc7bd4867"
     url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/late-copy.pdf"
+    lang: "en"
     hidden: false
     aliases: []
   - name: "Article Transcript"
