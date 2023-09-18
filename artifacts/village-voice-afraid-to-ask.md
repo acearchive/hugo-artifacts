@@ -18,10 +18,10 @@ files:
   - name: "Transcript"
     fileName: "afraid-to-ask-transcript.html"
     mediaType: "text/html"
-    hash: "dd7c2bfefe24ebf5ac8ae51bbce725314800b8469b0d862bb0372f0ec43b97cf"
+    hash: "e86f29311945924378bcdc79f2f63ba312bef61e4dc40b93666b9a6bb3a1158a"
     hashAlgorithm: "sha2-256"
-    multihash: "1220dd7c2bfefe24ebf5ac8ae51bbce725314800b8469b0d862bb0372f0ec43b97cf"
-    storageKey: "artifacts/1220dd7c2bfefe24ebf5ac8ae51bbce725314800b8469b0d862bb0372f0ec43b97cf"
+    multihash: "1220e86f29311945924378bcdc79f2f63ba312bef61e4dc40b93666b9a6bb3a1158a"
+    storageKey: "artifacts/1220e86f29311945924378bcdc79f2f63ba312bef61e4dc40b93666b9a6bb3a1158a"
     url: "https://files.acearchive.lgbt/artifacts/village-voice-afraid-to-ask/afraid-to-ask-transcript.html"
     lang: "en"
     hidden: false

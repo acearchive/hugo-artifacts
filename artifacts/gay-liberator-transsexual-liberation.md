@@ -19,10 +19,10 @@ files:
   - name: "Article Transcript"
     fileName: "transsexual-liberation-transcript.html"
     mediaType: "text/html"
-    hash: "5994ecaa2cb66278b6530fdeec166fd0e022bd685a823d3f3f2945e4e261a4f0"
+    hash: "60d31a3e7cc6fb97db63b1dc5054b66848dd2fcca3f59dc438b8074b2ea232e8"
     hashAlgorithm: "sha2-256"
-    multihash: "12205994ecaa2cb66278b6530fdeec166fd0e022bd685a823d3f3f2945e4e261a4f0"
-    storageKey: "artifacts/12205994ecaa2cb66278b6530fdeec166fd0e022bd685a823d3f3f2945e4e261a4f0"
+    multihash: "122060d31a3e7cc6fb97db63b1dc5054b66848dd2fcca3f59dc438b8074b2ea232e8"
+    storageKey: "artifacts/122060d31a3e7cc6fb97db63b1dc5054b66848dd2fcca3f59dc438b8074b2ea232e8"
     url: "https://files.acearchive.lgbt/artifacts/gay-liberator-transsexual-liberation/transsexual-liberation-transcript.html"
     lang: "en"
     hidden: false
