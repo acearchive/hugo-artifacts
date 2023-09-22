@@ -5,6 +5,16 @@ title: "*Minimizing Marriage: Marriage, Morality, and the Law*"
 summary: "A feminist work which first coined the term \"amatonormativity\""
 description: "A feminist work which first coined the term \"amatonormativity,\" a concept that is pervasive in aromantic discourse"
 files:
+  - name: "Book"
+    fileName: "minimizing-marriage.pdf"
+    mediaType: "application/pdf"
+    hash: "1dfade1718c5b8a11e943ceb34eed404f6a1df1279ac661de7bd4312420128c9"
+    hashAlgorithm: "sha2-256"
+    multihash: "12201dfade1718c5b8a11e943ceb34eed404f6a1df1279ac661de7bd4312420128c9"
+    storageKey: "artifacts/12201dfade1718c5b8a11e943ceb34eed404f6a1df1279ac661de7bd4312420128c9"
+    url: "https://files.acearchive.lgbt/artifacts/brake-minimizing-marriage/minimizing-marriage.pdf"
+    hidden: false
+    aliases: []
   - name: "Citation"
     fileName: "minimizing-marriage.bib"
     mediaType: "text/x-bibtex"
