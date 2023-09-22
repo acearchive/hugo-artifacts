@@ -1,7 +1,7 @@
 ---
 id: "f6rgHBn9CfNr"
 slug: "brake-minimizing-marriage"
-title: "Minimizing Marriage: Marriage, Morality, and the Law"
+title: "*Minimizing Marriage: Marriage, Morality, and the Law*"
 summary: "A feminist work which first coined the term \"amatonormativity\""
 description: "A feminist work which first coined the term \"amatonormativity,\" a concept that is pervasive in aromantic discourse"
 files:
