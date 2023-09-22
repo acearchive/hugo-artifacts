@@ -1,7 +1,7 @@
 ---
 id: "AsH5pVCO3ORx"
 slug: "rothblum-boston-marriages"
-title: "Boston marriages: Romantic but asexual relationships among contemporary lesbians"
+title: "*Boston marriages: Romantic but asexual relationships among contemporary lesbians*"
 summary: "A book describing a historical form of asexual relationship"
 files:
   - name: "Book"
