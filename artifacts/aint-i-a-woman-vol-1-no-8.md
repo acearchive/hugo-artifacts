@@ -16,7 +16,7 @@ files:
     lang: "en"
     hidden: false
     aliases: []
-  - name: "Reader Submission Transcript"
+  - name: "Reader Submission (Transcript)"
     fileName: "reader-submission-transcript.html"
     mediaType: "text/html"
     hash: "1dfca414830a124979830e34133fc9f00eb2107afb9d71f6544dc2a47db81346"
