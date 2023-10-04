@@ -25,6 +25,7 @@ people:
 identities:
   - "aromantic"
   - "wtfromantic"
+  - "queerplatonic"
 fromYear: 2010
 decades:
   - 2010

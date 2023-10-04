@@ -11,6 +11,7 @@ people:
   - "Meloukhia"
 identities:
   - "aromantic"
+  - "queerplatonic"
 fromYear: 2011
 decades:
   - 2010
