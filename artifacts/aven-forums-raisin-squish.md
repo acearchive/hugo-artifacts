@@ -13,7 +13,7 @@ people:
   - "Raisin"
 identities:
   - "aromantic"
-fromYear: 2007
+from_year: 2007
 decades:
   - 2000
 aliases: []

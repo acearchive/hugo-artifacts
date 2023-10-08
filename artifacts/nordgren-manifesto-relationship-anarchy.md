@@ -5,23 +5,23 @@ title: "*The short instructional manifesto for relationship anarchy*"
 summary: "A pamphlet which first introduced the concept of relationship anarchy"
 files:
   - name: "PDF"
-    fileName: "short-instructional-manifesto-for-relationship-anarchy.pdf"
-    mediaType: "application/pdf"
+    filename: "short-instructional-manifesto-for-relationship-anarchy.pdf"
+    media_type: "application/pdf"
     hash: "fcf2a3624f8e86b818875ec7fd8f8c8ccc53cf530454a9c3abec3e4b379494be"
-    hashAlgorithm: "sha2-256"
+    hash_algorithm: "sha2-256"
     multihash: "1220fcf2a3624f8e86b818875ec7fd8f8c8ccc53cf530454a9c3abec3e4b379494be"
-    storageKey: "artifacts/1220fcf2a3624f8e86b818875ec7fd8f8c8ccc53cf530454a9c3abec3e4b379494be"
+    storage_key: "artifacts/1220fcf2a3624f8e86b818875ec7fd8f8c8ccc53cf530454a9c3abec3e4b379494be"
     url: "https://files.acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy/short-instructional-manifesto-for-relationship-anarchy.pdf"
     lang: "en"
     hidden: false
     aliases: []
   - name: "Standalone HTML"
-    fileName: "short-instructional-manifesto-for-relationship-anarchy.html"
-    mediaType: "text/html"
+    filename: "short-instructional-manifesto-for-relationship-anarchy.html"
+    media_type: "text/html"
     hash: "a53d3667e98e61a144ecd1c7247fcec1447b291251425b8c039d75b6e908c3a2"
-    hashAlgorithm: "sha2-256"
+    hash_algorithm: "sha2-256"
     multihash: "1220a53d3667e98e61a144ecd1c7247fcec1447b291251425b8c039d75b6e908c3a2"
-    storageKey: "artifacts/1220a53d3667e98e61a144ecd1c7247fcec1447b291251425b8c039d75b6e908c3a2"
+    storage_key: "artifacts/1220a53d3667e98e61a144ecd1c7247fcec1447b291251425b8c039d75b6e908c3a2"
     url: "https://files.acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy/short-instructional-manifesto-for-relationship-anarchy.html"
     lang: "en"
     hidden: false
@@ -38,7 +38,7 @@ links:
 people:
   - "Andie Nordgren"
 identities: []
-fromYear: 2006
+from_year: 2006
 decades:
   - 2000
 aliases: []

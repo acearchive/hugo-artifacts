@@ -14,7 +14,7 @@ people:
 identities:
   - "asexual"
   - "gray-asexual"
-fromYear: 2006
+from_year: 2006
 decades:
   - 2000
 aliases: []

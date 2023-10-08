@@ -12,8 +12,8 @@ people:
   - "Siggy"
 identities:
   - "aromantic"
-fromYear: 2019
-toYear: 2023
+from_year: 2019
+to_year: 2023
 decades:
   - 2010
   - 2020

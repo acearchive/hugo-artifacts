@@ -34,8 +34,8 @@ people:
   - "standup"
 identities:
   - "asexual"
-fromYear: 2009
-toYear: 2010
+from_year: 2009
+to_year: 2010
 decades:
   - 2000
   - 2010

@@ -11,7 +11,7 @@ people:
   - "Brian Kelliher"
 identities:
   - "asexual"
-fromYear: 1997
+from_year: 1997
 decades:
   - 1990
 aliases: []

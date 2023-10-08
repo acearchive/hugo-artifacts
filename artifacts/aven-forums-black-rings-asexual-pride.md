@@ -12,7 +12,7 @@ links:
 people: []
 identities:
   - "asexual"
-fromYear: 2005
+from_year: 2005
 decades:
   - 2000
 aliases: []

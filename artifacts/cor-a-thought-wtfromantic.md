@@ -14,7 +14,7 @@ people:
 identities:
   - "wtfromantic"
   - "quoiromantic"
-fromYear: 2012
+from_year: 2012
 decades:
   - 2010
 aliases: []

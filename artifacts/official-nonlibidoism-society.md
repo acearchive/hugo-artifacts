@@ -11,7 +11,7 @@ people: []
 identities:
   - "asexual"
   - "nonlibidoist"
-fromYear: 2003
+from_year: 2003
 decades:
   - 2000
 aliases: []

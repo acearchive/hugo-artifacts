@@ -13,7 +13,7 @@ people:
   - "Samantha Dean"
 identities:
   - "asexual"
-fromYear: 1973
+from_year: 1973
 decades:
   - 1970
 aliases: []

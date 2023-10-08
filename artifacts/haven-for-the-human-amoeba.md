@@ -6,12 +6,12 @@ summary: "The first major online community for asexuals"
 description: "A now-defunct Yahoo Group which was the first major online community for asexuals"
 files:
   - name: "Raw Archive Data"
-    fileName: "haven-for-the-human-amoeba.zip"
-    mediaType: "application/zip"
+    filename: "haven-for-the-human-amoeba.zip"
+    media_type: "application/zip"
     hash: "2e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89"
-    hashAlgorithm: "sha2-256"
+    hash_algorithm: "sha2-256"
     multihash: "12202e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89"
-    storageKey: "artifacts/12202e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89"
+    storage_key: "artifacts/12202e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89"
     url: "https://files.acearchive.lgbt/artifacts/haven-for-the-human-amoeba/haven-for-the-human-amoeba.zip"
     hidden: false
     aliases: []
@@ -37,8 +37,8 @@ identities:
   - "intersex"
   - "neuter"
   - "nonsexual"
-fromYear: 2000
-toYear: 2019
+from_year: 2000
+to_year: 2019
 decades:
   - 2000
   - 2010

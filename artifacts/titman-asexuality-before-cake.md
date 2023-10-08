@@ -14,7 +14,7 @@ people:
   - "Nat Titman"
 identities:
   - "asexual"
-fromYear: 2017
+from_year: 2017
 decades:
   - 2010
 aliases: []

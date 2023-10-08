@@ -14,7 +14,7 @@ people:
   - "Valerie Solanas"
 identities:
   - "asexual"
-fromYear: 1968
+from_year: 1968
 decades:
   - 1960
 aliases: []

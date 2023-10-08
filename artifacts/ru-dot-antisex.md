@@ -10,7 +10,7 @@ links:
 people: []
 identities:
   - "antisexual"
-fromYear: 1998
+from_year: 1998
 decades:
   - 1990
 aliases: []

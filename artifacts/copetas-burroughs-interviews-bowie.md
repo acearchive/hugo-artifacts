@@ -13,7 +13,7 @@ people:
   - "David Bowie"
 identities:
   - "asexual"
-fromYear: 1974
+from_year: 1974
 decades:
   - 1970
 aliases: []

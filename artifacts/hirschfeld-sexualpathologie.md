@@ -6,34 +6,34 @@ summary: "An early example of pathologization of asexual people in medical liter
 description: "An early example of pathologization of asexual people in medical literature, in which the author develops a typology of asexual people that includes the term \"asexual\""
 files:
   - name: "Original Paper"
-    fileName: "hirschfeld-sexualpathologie.pdf"
-    mediaType: "application/pdf"
+    filename: "hirschfeld-sexualpathologie.pdf"
+    media_type: "application/pdf"
     hash: "e87dd3b72dee1205ede02ab01bf2800320423286c9040366f99fccfb42403a52"
-    hashAlgorithm: "sha2-256"
+    hash_algorithm: "sha2-256"
     multihash: "1220e87dd3b72dee1205ede02ab01bf2800320423286c9040366f99fccfb42403a52"
-    storageKey: "artifacts/1220e87dd3b72dee1205ede02ab01bf2800320423286c9040366f99fccfb42403a52"
+    storage_key: "artifacts/1220e87dd3b72dee1205ede02ab01bf2800320423286c9040366f99fccfb42403a52"
     url: "https://files.acearchive.lgbt/artifacts/hirschfeld-sexualpathologie/hirschfeld-sexualpathologie.pdf"
     lang: "de"
     hidden: false
     aliases: []
   - name: "Fulltext OCR Transcript"
-    fileName: "hirschfeld-sexualpathologie.txt"
-    mediaType: "text/plain"
+    filename: "hirschfeld-sexualpathologie.txt"
+    media_type: "text/plain"
     hash: "21ee92de2d6e0db2ee7afcc190d74f61eaa5febe6e80e74f5350043bdeaa8ce0"
-    hashAlgorithm: "sha2-256"
+    hash_algorithm: "sha2-256"
     multihash: "122021ee92de2d6e0db2ee7afcc190d74f61eaa5febe6e80e74f5350043bdeaa8ce0"
-    storageKey: "artifacts/122021ee92de2d6e0db2ee7afcc190d74f61eaa5febe6e80e74f5350043bdeaa8ce0"
+    storage_key: "artifacts/122021ee92de2d6e0db2ee7afcc190d74f61eaa5febe6e80e74f5350043bdeaa8ce0"
     url: "https://files.acearchive.lgbt/artifacts/hirschfeld-sexualpathologie/hirschfeld-sexualpathologie.txt"
     lang: "de"
     hidden: false
     aliases: []
   - name: "Citation"
-    fileName: "hirschfeld-sexualpathologie.bib"
-    mediaType: "text/plain"
+    filename: "hirschfeld-sexualpathologie.bib"
+    media_type: "text/plain"
     hash: "d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092"
-    hashAlgorithm: "sha2-256"
+    hash_algorithm: "sha2-256"
     multihash: "1220d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092"
-    storageKey: "artifacts/1220d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092"
+    storage_key: "artifacts/1220d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092"
     url: "https://files.acearchive.lgbt/artifacts/hirschfeld-sexualpathologie/hirschfeld-sexualpathologie.bib"
     hidden: false
     aliases: []
@@ -48,7 +48,7 @@ people:
   - "Magnus Hirschfeld"
 identities:
   - "asexual"
-fromYear: 1921
+from_year: 1921
 decades:
   - 1920
 aliases: []

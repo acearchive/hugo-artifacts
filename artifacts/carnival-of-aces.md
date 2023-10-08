@@ -12,8 +12,8 @@ people:
   - "Siggy"
 identities:
   - "asexual"
-fromYear: 2011
-toYear: 2023
+from_year: 2011
+to_year: 2023
 decades:
   - 2010
   - 2020

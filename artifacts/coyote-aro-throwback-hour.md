@@ -13,8 +13,8 @@ people:
   - "Coyote"
 identities:
   - "aromantic"
-fromYear: 2010
-toYear: 2013
+from_year: 2010
+to_year: 2013
 decades:
   - 2010
 aliases: []

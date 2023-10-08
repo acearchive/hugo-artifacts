@@ -5,12 +5,12 @@ title: "*Asexual Protagonists: What Their Patterns Reveal About the Representati
 summary: "An essay discussing the need for a more BIPOC and gender-inclusive representation of asexuality in fiction literature"
 files:
   - name: "Essay"
-    fileName: "asexual-protagonists.pdf"
-    mediaType: "application/pdf"
+    filename: "asexual-protagonists.pdf"
+    media_type: "application/pdf"
     hash: "c1c2b7a0fed1ee8627a4e60a2d96f8d3573eb509e0c9adb42938eea71b7dd732"
-    hashAlgorithm: "sha2-256"
+    hash_algorithm: "sha2-256"
     multihash: "1220c1c2b7a0fed1ee8627a4e60a2d96f8d3573eb509e0c9adb42938eea71b7dd732"
-    storageKey: "artifacts/1220c1c2b7a0fed1ee8627a4e60a2d96f8d3573eb509e0c9adb42938eea71b7dd732"
+    storage_key: "artifacts/1220c1c2b7a0fed1ee8627a4e60a2d96f8d3573eb509e0c9adb42938eea71b7dd732"
     url: "https://files.acearchive.lgbt/artifacts/hernandez-asexual-protagonists/asexual-protagonists.pdf"
     lang: "en"
     hidden: false
@@ -25,7 +25,7 @@ people:
 identities:
   - "asexual"
   - "aromantic"
-fromYear: 2021
+from_year: 2021
 decades:
   - 2020
 aliases: []

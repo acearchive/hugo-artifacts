@@ -11,8 +11,8 @@ people:
   - "Jim Sinclair"
 identities:
   - "intersex"
-fromYear: 1987
-toYear: 1999
+from_year: 1987
+to_year: 1999
 decades:
   - 1980
   - 1990

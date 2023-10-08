@@ -13,7 +13,7 @@ people:
   - "hexaquark"
 identities:
   - "asexual"
-fromYear: 2011
+from_year: 2011
 decades:
   - 2010
 aliases: []

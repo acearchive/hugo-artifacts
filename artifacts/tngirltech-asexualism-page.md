@@ -12,7 +12,7 @@ people:
 identities:
   - "asexual"
   - "nonsexual"
-fromYear: 2001
+from_year: 2001
 decades:
   - 2000
 aliases: []

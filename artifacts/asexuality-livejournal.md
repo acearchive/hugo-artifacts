@@ -12,7 +12,7 @@ people:
   - "Nat Titman"
 identities:
   - "asexual"
-fromYear: 2002
+from_year: 2002
 decades:
   - 2000
 aliases: []

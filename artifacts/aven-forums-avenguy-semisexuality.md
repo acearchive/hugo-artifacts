@@ -14,7 +14,7 @@ people:
   - "David Jay"
 identities:
   - "asexual"
-fromYear: 2003
+from_year: 2003
 decades:
   - 2000
 aliases: []
