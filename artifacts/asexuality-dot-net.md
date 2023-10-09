@@ -2,7 +2,7 @@
 id: "7s2Zmpe7yWZg"
 slug: "asexuality-dot-net"
 title: "asexuality.net"
-summary: "A website from the early web dedicated to asexuality."
+summary: "A website from the early web dedicated to asexuality"
 files: []
 links:
   - name: "Website"
