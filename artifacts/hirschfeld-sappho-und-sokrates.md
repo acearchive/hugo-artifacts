@@ -18,7 +18,7 @@ files:
     aliases: []
   - name: "Citation"
     filename: "hirschfeld-sappho-und-sokrates.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "08dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb"
     hash_algorithm: "sha2-256"
     multihash: "122008dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb"

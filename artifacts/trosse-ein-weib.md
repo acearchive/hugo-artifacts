@@ -18,7 +18,7 @@ files:
     aliases: []
   - name: "Citation"
     filename: "ein-weib.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "d3a5fb76b8996029aaf101a6fb738dd933ba97a2aba5542c2feff5a402dfcad4"
     hash_algorithm: "sha2-256"
     multihash: "1220d3a5fb76b8996029aaf101a6fb738dd933ba97a2aba5542c2feff5a402dfcad4"

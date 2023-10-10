@@ -18,7 +18,7 @@ files:
     aliases: []
   - name: "Citation"
     filename: "bogaert-asexuality-prevalence.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "24e4ce1cbc200ec3e0496cc3d8430c5222d10d670adb7c8a676cb9740a4e1093"
     hash_algorithm: "sha2-256"
     multihash: "122024e4ce1cbc200ec3e0496cc3d8430c5222d10d670adb7c8a676cb9740a4e1093"

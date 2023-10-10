@@ -29,7 +29,7 @@ files:
     aliases: []
   - name: "Citation"
     filename: "dear-abby-not-looking.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "374f79fb3f94bcd8fdeb8ecee1be0d404333cdc463566514e72205b9cf30c533"
     hash_algorithm: "sha2-256"
     multihash: "1220374f79fb3f94bcd8fdeb8ecee1be0d404333cdc463566514e72205b9cf30c533"

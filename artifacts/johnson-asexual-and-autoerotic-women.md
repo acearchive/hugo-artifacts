@@ -29,7 +29,7 @@ files:
     aliases: []
   - name: "The Sexually Oppressed (Citation)"
     filename: "the-sexually-oppressed.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "28ec66f72197a92adc20bf2f437bf3760825bf90c4b07bce39111cb9a4b361e7"
     hash_algorithm: "sha2-256"
     multihash: "122028ec66f72197a92adc20bf2f437bf3760825bf90c4b07bce39111cb9a4b361e7"

@@ -29,7 +29,7 @@ files:
     aliases: []
   - name: "Citation"
     filename: "hirschfeld-sexualpathologie.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092"
     hash_algorithm: "sha2-256"
     multihash: "1220d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092"

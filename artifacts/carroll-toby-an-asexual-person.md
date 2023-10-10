@@ -29,7 +29,7 @@ files:
     aliases: []
   - name: "Sexuality Now: Embracing Diversity (Citation)"
     filename: "sexuality-now-embracing-diversity.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "f33129491d3cc847ba47fc030bd743d2ae89230d0de733f22fa247a39aba47d2"
     hash_algorithm: "sha2-256"
     multihash: "1220f33129491d3cc847ba47fc030bd743d2ae89230d0de733f22fa247a39aba47d2"

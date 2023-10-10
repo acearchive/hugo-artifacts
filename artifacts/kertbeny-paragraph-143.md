@@ -18,7 +18,7 @@ files:
     aliases: []
   - name: "Citation"
     filename: "kertbeny-paragraph-143.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "4e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c"
     hash_algorithm: "sha2-256"
     multihash: "12204e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c"

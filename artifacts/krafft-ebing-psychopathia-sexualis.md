@@ -29,7 +29,7 @@ files:
     aliases: []
   - name: "Citation"
     filename: "psychopathia-sexualis.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "d8d96753e8151a69c37ee7b2817f850c7d9f0bddc4f6690572ba50db93355754"
     hash_algorithm: "sha2-256"
     multihash: "1220d8d96753e8151a69c37ee7b2817f850c7d9f0bddc4f6690572ba50db93355754"

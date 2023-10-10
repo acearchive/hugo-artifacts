@@ -29,7 +29,7 @@ files:
     aliases: []
   - name: "Citation"
     filename: "dear-abby-happy-celibates.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "5c46f6812dcc8aa386be662573451b336c93de2800999a002d07c36bb02137d6"
     hash_algorithm: "sha2-256"
     multihash: "12205c46f6812dcc8aa386be662573451b336c93de2800999a002d07c36bb02137d6"

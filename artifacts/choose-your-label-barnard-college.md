@@ -70,7 +70,7 @@ files:
     aliases: []
   - name: "Off Our Backs, vol. 3, no. 6 (Citation)"
     filename: "off-our-backs-vol-3-no-6.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "dc0270b4dc6056f5f145a6911cadd12d0032a9b24c9ba21168792a18127496ed"
     hash_algorithm: "sha2-256"
     multihash: "1220dc0270b4dc6056f5f145a6911cadd12d0032a9b24c9ba21168792a18127496ed"

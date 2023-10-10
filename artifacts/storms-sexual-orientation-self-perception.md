@@ -17,7 +17,7 @@ files:
     aliases: []
   - name: "Citation"
     filename: "sexual-orientation-and-self-perception.bib"
-    media_type: "text/plain"
+    media_type: "text/x-bibtex"
     hash: "8282ff1a6d7c3c12be00f9133d037fc4af776135fe9dd24ac5e31d7e8d5e66d3"
     hash_algorithm: "sha2-256"
     multihash: "12208282ff1a6d7c3c12be00f9133d037fc4af776135fe9dd24ac5e31d7e8d5e66d3"
