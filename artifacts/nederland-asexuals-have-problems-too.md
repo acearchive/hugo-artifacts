@@ -17,8 +17,6 @@ files:
 links:
   - name: "Article"
     url: "https://www.villagevoice.com/asexuals-have-problems-too/"
-  - name: "Article"
-    url: "https://web.archive.org/web/20230912223834/https://www.villagevoice.com/asexuals-have-problems-too/"
 people:
   - "Harold Nederland"
 identities:
