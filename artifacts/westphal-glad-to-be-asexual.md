@@ -8,6 +8,8 @@ files: []
 links:
   - name: "Article"
     url: "https://www.newscientist.com/article/dn6533-feature-glad-to-be-asexual/"
+  - name: "Article"
+    url: "https://web.archive.org/web/20211029020518/https://www.newscientist.com/article/dn6533-feature-glad-to-be-asexual/"
 people:
   - "Sylvia Pagán Westphal"
   - "David Jay"

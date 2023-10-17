@@ -31,6 +31,8 @@ links:
     url: "https://catalog.lib.uchicago.edu/vufind/Record/7797394"
   - name: "Partial English Translation"
     url: "https://www.asexuality.org/en/topic/98639-indirect-mentions-of-asexuality-in-magnus-hirschfelds-books/"
+  - name: "Partial English Translation"
+    url: "https://web.archive.org/web/20220120124921/https://www.asexuality.org/en/topic/98639-indirect-mentions-of-asexuality-in-magnus-hirschfelds-books/"
 people:
   - "Magnus Hirschfeld"
 identities:

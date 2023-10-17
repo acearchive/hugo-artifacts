@@ -7,6 +7,8 @@ files: []
 links:
   - name: "Forum Thread"
     url: "https://www.asexuality.org/en/topic/14000-asexual-sex/"
+  - name: "Forum Thread"
+    url: "https://web.archive.org/web/20220328213010/https://www.asexuality.org/en/topic/14000-asexual-sex/"
 people:
   - "sonofzeal"
 identities:
