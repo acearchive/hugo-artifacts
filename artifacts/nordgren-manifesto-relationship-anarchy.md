@@ -29,12 +29,8 @@ files:
 links:
   - name: "The Anarchist Library"
     url: "https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy"
-  - name: "The Anarchist Library"
-    url: "https://web.archive.org/web/20220415082857/https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy"
   - name: "Andie's Log"
     url: "https://log.andie.se/post/26652940513/the-short-instructional-manifesto-for-relationship"
-  - name: "Andie's Log"
-    url: "https://web.archive.org/web/20220208140553/https://log.andie.se/post/26652940513/the-short-instructional-manifesto-for-relationship"
 people:
   - "Andie Nordgren"
 identities: []

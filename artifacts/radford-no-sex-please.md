@@ -8,8 +8,6 @@ files: []
 links:
   - name: "Article"
     url: "https://www.theguardian.com/science/2004/oct/14/science.research1"
-  - name: "Article"
-    url: "https://web.archive.org/web/20210731082634/https://www.theguardian.com/science/2004/oct/14/science.research1"
 people:
   - "Tim Radford"
 identities:

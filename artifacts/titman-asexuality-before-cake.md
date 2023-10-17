@@ -8,8 +8,6 @@ files: []
 links:
   - name: "Blog Post"
     url: "https://graphicexplanations.info/2017/10/29/asexuality-bc-before-cake/"
-  - name: "Blog Post"
-    url: "https://web.archive.org/web/20220408062115/https://graphicexplanations.info/2017/10/29/asexuality-bc-before-cake/"
 people:
   - "Nat Titman"
 identities:

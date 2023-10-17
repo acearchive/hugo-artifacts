@@ -7,8 +7,6 @@ files: []
 links:
   - name: "Pillowfort"
     url: "https://www.pillowfort.social/posts/2580244"
-  - name: "Pillowfort"
-    url: "https://web.archive.org/web/20230924154110/https://www.pillowfort.social/posts/2580244"
 people:
   - "Coyote"
 identities:
