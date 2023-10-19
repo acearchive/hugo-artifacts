@@ -2,7 +2,7 @@
 id: "DjoxoYFrVW8z"
 slug: "bryja-committed-asexual-relationships"
 title: "\"Committed, Loving, yet Asexual Relationships\""
-summary: "A user in an online chat group asks for advice finding a committed partnership as an sexual person"
+summary: "A user in an online newsgroup asks for advice finding a committed partnership as an sexual person"
 files: []
 links:
   - name: "Google Groups"
