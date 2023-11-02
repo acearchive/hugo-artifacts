@@ -3,6 +3,7 @@ id: "iP6QdSaIJCAK"
 slug: "toby-on-sally"
 title: "Toby on *Sally*"
 summary: "Toby (Jim Sinclair) being interviewed on the talk show *Sally*"
+description: "Toby (Jim Sinclair) being interviewed on the talk show *Sally* about xir identity as a neuter person (CW: amatonormativity, gender essentialism, dated language, misgendering, invasive questions toward intersex people)"
 files:
   - name: "Toby on Sally - Part 1"
     filename: "toby-on-sally-part-1.mp4"
