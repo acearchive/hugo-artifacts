@@ -3,7 +3,7 @@ id: "PZsGT3uJ1FXk"
 slug: "haven-for-the-human-amoeba"
 title: "*Haven for the Human Amoeba*"
 summary: "The first major online community for asexuals"
-description: "A now-defunct Yahoo Group which was the first major online community for asexuals"
+description: "A now-defunct Yahoo Group which was the first major online community for asexuals (CW: Sex-negativity)"
 files:
   - name: "Raw Archive Data"
     filename: "haven-for-the-human-amoeba.zip"
