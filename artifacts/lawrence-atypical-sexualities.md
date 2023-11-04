@@ -3,6 +3,7 @@ id: "WU2c8JsZxcDE"
 slug: "lawrence-atypical-sexualities"
 title: "\"Atypical sexualities face oppression\""
 summary: "A newspaper article in which a sex therapist expresses concern about celibates being labelled as asexual"
+description: "A newspaper article in which a sex therapist expresses concern about celibates being labelled as asexual (CW: dated language about disability)"
 files:
   - name: "Transcript"
     filename: "atypical-sexualities-transcript.html"
