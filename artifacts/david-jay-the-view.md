@@ -3,6 +3,7 @@ id: "x2obCtXM38Dp"
 slug: "david-jay-the-view"
 title: "David Jay on *The View*"
 summary: "David Jay, founder of AVEN, is interviewed on ABC's *The View*"
+description: "David Jay, founder of AVEN, is interviewed on ABC's *The View* (CW: acephobia, invasive questions toward asexual people)"
 files:
   - name: "Interview"
     filename: "david-jay-the-view.mp4"
