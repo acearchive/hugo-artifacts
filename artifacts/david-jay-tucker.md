@@ -3,6 +3,7 @@ id: "Qg7ng3bkN8Ab"
 slug: "david-jay-tucker"
 title: "David Jay on *Tucker*"
 summary: "David Jay, founder of AVEN, is interviewed on MSNBC's *Tucker*"
+description: "David Jay, founder of AVEN, is interviewed on MSNBC's *Tucker* (CW: acephobia)"
 files:
   - name: "Video"
     filename: "david-jay-tucker.mp4"
