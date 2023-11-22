@@ -3,7 +3,7 @@ id: "ih6XiwIOYsv0"
 slug: "hirschfeld-sexualpathologie"
 title: "*Sexualpathologie*"
 summary: "An early example of pathologization of asexual people in medical literature and use of the term \"asexual\""
-description: "An early example of pathologization of asexual people in medical literature, in which the author develops a typology of asexual people that includes the term \"asexual\""
+description: "An early example of pathologization of asexual people in medical literature, in which the author develops a typology of asexual people that includes the term \"asexual\" (CW: pathologizing asexual people)"
 files:
   - name: "Original Paper"
     filename: "hirschfeld-sexualpathologie.pdf"
@@ -46,6 +46,8 @@ people:
   - "Magnus Hirschfeld"
 identities:
   - "asexual"
+  - "automonosexual"
+  - "anerotic"
 from_year: 1921
 decades:
   - 1920
