@@ -8,10 +8,10 @@ files:
   - name: "Transcript"
     filename: "married-couples-enjoy-celibacy-transcript.html"
     media_type: "text/html"
-    hash: "3d35d88bf06d6da00be5b9da0a7fb0703d39f2ab74fb4ffc13902ece4cb910a2"
+    hash: "12ebd9ecbf59ad4bfd1f2482ea4573e4618ed33833bd5c04f35d8214547c5cf0"
     hash_algorithm: "sha2-256"
-    multihash: "12203d35d88bf06d6da00be5b9da0a7fb0703d39f2ab74fb4ffc13902ece4cb910a2"
-    storage_key: "artifacts/12203d35d88bf06d6da00be5b9da0a7fb0703d39f2ab74fb4ffc13902ece4cb910a2"
+    multihash: "122012ebd9ecbf59ad4bfd1f2482ea4573e4618ed33833bd5c04f35d8214547c5cf0"
+    storage_key: "artifacts/122012ebd9ecbf59ad4bfd1f2482ea4573e4618ed33833bd5c04f35d8214547c5cf0"
     url: "https://files.acearchive.lgbt/artifacts/kasper-married-couples-enjoy-celibacy/married-couples-enjoy-celibacy-transcript.html"
     lang: "en"
     hidden: false
