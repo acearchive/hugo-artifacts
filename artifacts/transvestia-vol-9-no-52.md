@@ -33,7 +33,8 @@ links:
 people: []
 identities:
   - "asexual"
-  - "transgender"
+  - "transvestite"
+  - "transsexual"
 from_year: 1968
 decades:
   - 1960

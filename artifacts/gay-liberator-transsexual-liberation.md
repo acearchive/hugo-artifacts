@@ -53,7 +53,8 @@ links:
     url: "https://www.jstor.org/stable/community.28035530?seq=10"
 people: []
 identities:
-  - "transgender"
+  - "transsexual"
+  - "transvestite"
   - "asexual"
 from_year: 1971
 decades:

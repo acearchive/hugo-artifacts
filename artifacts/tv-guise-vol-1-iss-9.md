@@ -34,6 +34,7 @@ people:
 identities:
   - "asexual"
   - "transgender"
+  - "transsexual"
 from_year: 1992
 decades:
   - 1990
