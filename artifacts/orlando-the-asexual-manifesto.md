@@ -2,7 +2,7 @@
 id: "MKbNWmmhCog6"
 slug: "orlando-the-asexual-manifesto"
 title: "*The Asexual Manifesto*"
-summary: "A paper by the Asexual Caucus of the New York Radical Feminists"
+summary: "THIS IS A TEST SUMMARY 2"
 files:
   - name: "Digital Scan"
     filename: "the-asexual-manifesto.pdf"
@@ -11,7 +11,7 @@ files:
     hash_algorithm: "sha2-256"
     multihash: "1220f907ed09addad95bd17de1efe76c7a624ba8144f0e2165edaf832447cded5f54"
     storage_key: "artifacts/1220f907ed09addad95bd17de1efe76c7a624ba8144f0e2165edaf832447cded5f54"
-    url: "https://files.acearchive.lgbt/artifacts/orlando-the-asexual-manifesto/the-asexual-manifesto.pdf"
+    url: "https://files-dev.acearchive.lgbt/artifacts/orlando-the-asexual-manifesto/the-asexual-manifesto.pdf"
     lang: "en"
     hidden: false
     aliases: []
@@ -22,7 +22,7 @@ files:
     hash_algorithm: "sha2-256"
     multihash: "1220e05c26de2fdf10d31ec19935f4c048412b2d2fb8e7c6e866338d6f1253e64419"
     storage_key: "artifacts/1220e05c26de2fdf10d31ec19935f4c048412b2d2fb8e7c6e866338d6f1253e64419"
-    url: "https://files.acearchive.lgbt/artifacts/orlando-the-asexual-manifesto/the-asexual-manifesto-transcript/index.html"
+    url: "https://files-dev.acearchive.lgbt/artifacts/orlando-the-asexual-manifesto/the-asexual-manifesto-transcript/index.html"
     lang: "en"
     hidden: false
     aliases: []
