@@ -1,8 +1,8 @@
 ---
 id: "Ogjb2qcK9CqY"
-slug: "sciatrix-throes-of-unrequited-like"
 title: "\"Writhing in the Throes of Unrequited Like\""
 summary: "The term \"WTFromantic\" is coined in a blog post"
+url: "https://acearchive.lgbt/artifacts/sciatrix-throes-of-unrequited-like"
 files: []
 links:
   - name: "Blog Post"
@@ -13,9 +13,8 @@ people:
   - "Sciatrix"
 identities:
   - "aromantic"
-  - "WTFromantic"
+  - "wtfromantic"
 from_year: 2011
 decades:
-  - 2010
-aliases: []
+  - "2010.0"
 ---

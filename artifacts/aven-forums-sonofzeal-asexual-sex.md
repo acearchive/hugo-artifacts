@@ -1,8 +1,8 @@
 ---
 id: "hyURgyzMNTsV"
-slug: "aven-forums-sonofzeal-asexual-sex"
 title: "\"Asexual sex\""
 summary: "The term \"demisexual\" is coined in an AVEN forum thread"
+url: "https://acearchive.lgbt/artifacts/aven-forums-sonofzeal-asexual-sex"
 files: []
 links:
   - name: "Forum Thread"
@@ -14,6 +14,5 @@ identities:
   - "demisexual"
 from_year: 2006
 decades:
-  - 2000
-aliases: []
+  - "2000.0"
 ---

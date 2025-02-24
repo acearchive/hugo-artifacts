@@ -1,8 +1,8 @@
 ---
 id: "S4BHsMdFia0w"
-slug: "aven-forums-kspaz-gray-a"
 title: "\"Gray-A's\""
 summary: "The term \"gray-asexual\" is coined in an AVEN forum thread"
+url: "https://acearchive.lgbt/artifacts/aven-forums-kspaz-gray-a"
 files: []
 links:
   - name: "Forum Thread"
@@ -14,6 +14,5 @@ identities:
   - "gray-asexual"
 from_year: 2006
 decades:
-  - 2000
-aliases: []
+  - "2000.0"
 ---

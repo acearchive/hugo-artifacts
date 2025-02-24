@@ -1,8 +1,8 @@
 ---
 id: "GMIySdFOOKVb"
-slug: "oreilly-my-life-as-an-amoeba"
 title: "\"My life as an amoeba\""
 summary: "A blog post about coming out as asexual"
+url: "https://acearchive.lgbt/artifacts/oreilly-my-life-as-an-amoeba"
 files: []
 links:
   - name: "Blog Post"
@@ -13,6 +13,5 @@ identities:
   - "asexual"
 from_year: 1997
 decades:
-  - 1990
-aliases: []
+  - "1990.0"
 ---

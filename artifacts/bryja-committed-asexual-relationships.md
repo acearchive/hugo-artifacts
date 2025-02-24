@@ -1,8 +1,8 @@
 ---
 id: "DjoxoYFrVW8z"
-slug: "bryja-committed-asexual-relationships"
 title: "\"Committed, Loving, yet Asexual Relationships\""
 summary: "A user in an online newsgroup asks for advice finding a committed partnership as an sexual person"
+url: "https://acearchive.lgbt/artifacts/bryja-committed-asexual-relationships"
 files: []
 links:
   - name: "Google Groups"
@@ -15,6 +15,5 @@ identities:
   - "asexual"
 from_year: 1990
 decades:
-  - 1990
-aliases: []
+  - "1990.0"
 ---

@@ -1,8 +1,8 @@
 ---
 id: "6oFjN8eKkVAE"
-slug: "sinclair-intersex-blog"
 title: "Jim Sinclair's Articles About Intersexuality"
 summary: "A series of essays on Jim Sinclair's personal blog in which xe talks about being intersex and asexual"
+url: "https://acearchive.lgbt/artifacts/sinclair-intersex-blog"
 files: []
 links:
   - name: "Website"
@@ -10,12 +10,11 @@ links:
 people:
   - "Jim Sinclair"
 identities:
-  - "intersex"
   - "asexual"
+  - "intersex"
 from_year: 1987
 to_year: 1999
 decades:
-  - 1980
-  - 1990
-aliases: []
+  - "1980.0"
+  - "1990.0"
 ---

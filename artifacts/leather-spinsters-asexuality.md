@@ -1,8 +1,8 @@
 ---
 id: "SCaYAlrbkPCi"
-slug: "leather-spinsters-asexuality"
 title: "Leather Spinsters: Asexuality"
 summary: "A page on the website for the Leather Spinsters dedicated to their asexual members"
+url: "https://acearchive.lgbt/artifacts/leather-spinsters-asexuality"
 files: []
 links:
   - name: "Website"
@@ -12,6 +12,5 @@ identities:
   - "asexual"
 from_year: 1998
 decades:
-  - 1990
-aliases: []
+  - "1990.0"
 ---

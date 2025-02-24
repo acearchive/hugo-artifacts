@@ -1,8 +1,8 @@
 ---
 id: "7s2Zmpe7yWZg"
-slug: "asexuality-dot-net"
 title: "asexuality.net"
 summary: "A website from the early web dedicated to asexuality"
+url: "https://acearchive.lgbt/artifacts/asexuality-dot-net"
 files: []
 links:
   - name: "Website"
@@ -12,6 +12,5 @@ identities:
   - "asexual"
 from_year: 2002
 decades:
-  - 2000
-aliases: []
+  - "2000.0"
 ---

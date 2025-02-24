@@ -1,8 +1,8 @@
 ---
 id: "uiK0Mgomz3yF"
-slug: "aven-forums-hexaquark-a-history-of-asexuality"
 title: "\"A history of asexuality\""
 summary: "A timeline of asexual history, with a major focus on early online asexual communities"
+url: "https://acearchive.lgbt/artifacts/aven-forums-hexaquark-a-history-of-asexuality"
 files: []
 links:
   - name: "Forum Thread"
@@ -13,6 +13,5 @@ identities:
   - "asexual"
 from_year: 2011
 decades:
-  - 2010
-aliases: []
+  - "2010.0"
 ---

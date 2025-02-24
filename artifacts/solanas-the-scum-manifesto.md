@@ -1,9 +1,9 @@
 ---
 id: "ouYFksZV6LIV"
-slug: "solanas-the-scum-manifesto"
 title: "*The SCUM Manifesto*"
 summary: "A misandrist manifesto that mentions asexuality by name"
 description: "A misandrist manifesto by the woman who shot Andy Warhol that describes sex as a waste of time and mentions asexuality by name"
+url: "https://acearchive.lgbt/artifacts/solanas-the-scum-manifesto"
 files: []
 links:
   - name: "Full Text"
@@ -16,6 +16,5 @@ identities:
   - "asexual"
 from_year: 1968
 decades:
-  - 1960
-aliases: []
+  - "1960.0"
 ---

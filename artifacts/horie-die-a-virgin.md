@@ -1,9 +1,9 @@
 ---
 id: "75PTPjpUv64a"
-slug: "horie-die-a-virgin"
 title: "\"I plan to die a virgin.\""
 summary: "A usenet conversation in which the original poster talks about being asexual"
 description: "A usenet conversation in which the original poster talks about being asexual, and commenters try to convince them they're not (CW: acephobia)"
+url: "https://acearchive.lgbt/artifacts/horie-die-a-virgin"
 files: []
 links:
   - name: "Google Groups"
@@ -14,6 +14,5 @@ identities:
   - "asexual"
 from_year: 1996
 decades:
-  - 1990
-aliases: []
+  - "1990.0"
 ---

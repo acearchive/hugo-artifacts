@@ -1,8 +1,8 @@
 ---
 id: "jeSJPu8ZOLWp"
-slug: "smidgen110-the-fourth-sexuality"
 title: "\"The Fourth Sexuality\""
 summary: "A blog post where the author identifies as nonsexual and talks about the invalidation they face"
+url: "https://acearchive.lgbt/artifacts/smidgen110-the-fourth-sexuality"
 files: []
 links:
   - name: "Blog Post"
@@ -14,6 +14,5 @@ identities:
   - "nonsexual"
 from_year: 2002
 decades:
-  - 2000
-aliases: []
+  - "2000.0"
 ---

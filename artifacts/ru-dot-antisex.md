@@ -1,9 +1,9 @@
 ---
 id: "0rxksAsUvOwS"
-slug: "ru-dot-antisex"
 title: "RU.Antisex"
 summary: "A website from the early web which takes a moral and ethical stance against sexuality"
 description: "A website from the early web which takes a moral and ethical stance against sexuality (CW: Sex-negativity)"
+url: "https://acearchive.lgbt/artifacts/ru-dot-antisex"
 files: []
 links:
   - name: "Website"
@@ -13,6 +13,5 @@ identities:
   - "antisexual"
 from_year: 1998
 decades:
-  - 1990
-aliases: []
+  - "1990.0"
 ---

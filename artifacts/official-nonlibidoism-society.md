@@ -1,8 +1,8 @@
 ---
 id: "FoSBpkAiYVFT"
-slug: "official-nonlibidoism-society"
 title: "The Official Nonlibidoism Society"
 summary: "A website dedicated to people with no libido"
+url: "https://acearchive.lgbt/artifacts/official-nonlibidoism-society"
 files: []
 links:
   - name: "Website"
@@ -13,6 +13,5 @@ identities:
   - "nonlibidoist"
 from_year: 2003
 decades:
-  - 2000
-aliases: []
+  - "2000.0"
 ---

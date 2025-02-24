@@ -1,8 +1,8 @@
 ---
 id: "eBL4HFzTVIfx"
-slug: "aven-forums-raisin-squish"
 title: "\"\\*SQUISH!\\*\""
 summary: "The term \"squish\" is coined in an AVEN forum thread"
+url: "https://acearchive.lgbt/artifacts/aven-forums-raisin-squish"
 files: []
 links:
   - name: "Forum Thread"
@@ -13,6 +13,5 @@ identities:
   - "aromantic"
 from_year: 2007
 decades:
-  - 2000
-aliases: []
+  - "2000.0"
 ---
