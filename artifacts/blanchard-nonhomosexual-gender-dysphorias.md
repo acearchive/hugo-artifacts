@@ -8,17 +8,12 @@ files:
   - filename: "nonhomosexual-gender-dysphorias.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "70e8bf7d25c37185fb386aeac5a000d0c28d3d061648394855f74a10927cf967"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/blanchard-nonhomosexual-gender-dysphorias/nonhomosexual-gender-dysphorias.bib"
     hidden: false
   - filename: "nonhomosexual-gender-dysphorias.pdf"
     name: "Paper"
     media_type: "application/pdf"
-    hash: "21dc364b4ecc4875e4533cc9ba4c18603e483ab401acf7280b708f56ec811e91"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/blanchard-nonhomosexual-gender-dysphorias/nonhomosexual-gender-dysphorias.pdf"
-    lang: "en"
     hidden: false
 links:
   - name: "PubMed"

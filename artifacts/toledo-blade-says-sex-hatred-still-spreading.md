@@ -7,10 +7,7 @@ files:
   - filename: "says-sex-hatred-still-spreading-transcript.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "60d64791889a7ced9abbf3746dacc3cddc1124386f27514c7f8c9079141938ff"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/toledo-blade-says-sex-hatred-still-spreading/says-sex-hatred-still-spreading-transcript.html"
-    lang: "en"
     hidden: false
 links:
   - name: "Google Books"

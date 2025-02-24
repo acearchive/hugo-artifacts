@@ -8,17 +8,12 @@ files:
   - filename: "ein-weib.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "d3a5fb76b8996029aaf101a6fb738dd933ba97a2aba5542c2feff5a402dfcad4"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/trosse-ein-weib/ein-weib.bib"
     hidden: false
   - filename: "ein-weib.pdf"
     name: "Original Paper"
     media_type: "application/pdf"
-    hash: "4acba084bf09f15992feb79d17683e81e3581bc53a8fc5d60505c6244c68c4d2"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/trosse-ein-weib/ein-weib.pdf"
-    lang: "de"
     hidden: false
 links:
   - name: "Google Books"

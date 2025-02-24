@@ -8,25 +8,17 @@ files:
   - filename: "dear-abby-not-looking-transcript/index.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "e72fc23e1ef8a8bcd89545635f10a1445099a93b60052896857f18c49c0d9cd3"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/dear-abby-not-looking-new-jersey/dear-abby-not-looking-transcript/index.html"
-    lang: "en"
     hidden: false
   - filename: "dear-abby-not-looking.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "374f79fb3f94bcd8fdeb8ecee1be0d404333cdc463566514e72205b9cf30c533"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/dear-abby-not-looking-new-jersey/dear-abby-not-looking.bib"
     hidden: false
   - filename: "dear-abby-not-looking.png"
     name: "Digital Scan"
     media_type: "image/png"
-    hash: "af4541bf38adb1a88fad8484fcb551621a4f8c62edcdb3e3d5f24a07627dd3fc"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/dear-abby-not-looking-new-jersey/dear-abby-not-looking.png"
-    lang: "en"
     hidden: false
 links:
   - name: "Google News"

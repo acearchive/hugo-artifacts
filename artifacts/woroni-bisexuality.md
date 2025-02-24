@@ -8,17 +8,12 @@ files:
   - filename: "woroni-bisexuality.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "f41e2fbb75602fd63f83aff1c7f6b203cb4f9c1b3050d101371ff6b5bd64d7f1"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/woroni-bisexuality/woroni-bisexuality.bib"
     hidden: false
   - filename: "woroni-bisexuality.pdf"
     name: "Article"
     media_type: "application/pdf"
-    hash: "3a428eb7f8a0b95c28709d3a592341eb929d0dff8ecfdbac0d3402bc31038044"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/woroni-bisexuality/woroni-bisexuality.pdf"
-    lang: "en"
     hidden: false
 links:
   - name: "Trove - National Library of Australia"

@@ -8,17 +8,12 @@ files:
   - filename: "typology-of-transsexualism.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "35d1f8d903264cf76393f9ba3b998af97b45340ed98a51f9bad3f9dbaeeb6ae6"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/bentler-typology-of-transsexualism/typology-of-transsexualism.bib"
     hidden: false
   - filename: "typology-of-transsexualism.pdf"
     name: "Paper"
     media_type: "application/pdf"
-    hash: "a34d203605ef969226e9318c62c9f8ca43ebe115c5ff8d1b6a9cfae312424995"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/bentler-typology-of-transsexualism/typology-of-transsexualism.pdf"
-    lang: "en"
     hidden: false
 links:
   - name: "Springer Link"

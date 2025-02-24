@@ -8,10 +8,7 @@ files:
   - filename: "david-jay-the-view.mp4"
     name: "Interview"
     media_type: "video/mp4"
-    hash: "1c9ea02cede8fc8d454a5efc7c944fb27fcb03c61799976ddd10ababc863b47d"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/david-jay-the-view/david-jay-the-view.mp4"
-    lang: "en"
     hidden: false
 links:
   - name: "YouTube"

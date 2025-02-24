@@ -8,16 +8,11 @@ files:
   - filename: "dismayed-parent-transcript.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "0d61d436ccecf4fcf978ee37caf81358591aca2f9e322a298460fa2b620eeaf8"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/landers-dismayed-parent/dismayed-parent-transcript.html"
-    lang: "en"
     hidden: false
   - filename: "dismayed-parent.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "58f3b60ba94732cc83f45846427bc9adb40b3c438123746ccb8166c0cd256708"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/landers-dismayed-parent/dismayed-parent.bib"
     hidden: false
 links:

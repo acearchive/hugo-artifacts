@@ -7,17 +7,12 @@ files:
   - filename: "mental-health-implications-of-sexual-orientation.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "cf8ed78649c853df5f62d0d82a40a7c79e5b52ea6ca99be8d1c34f0a6e802168"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/nurius-mental-health-implications/mental-health-implications-of-sexual-orientation.bib"
     hidden: false
   - filename: "mental-health-implications-of-sexual-orientation.pdf"
     name: "Paper"
     media_type: "application/pdf"
-    hash: "46399ea07bbd054358600ed694e4b2638481123789c9c39718bde0ad8bc40793"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/nurius-mental-health-implications/mental-health-implications-of-sexual-orientation.pdf"
-    lang: "en"
     hidden: false
 links:
   - name: "Taylor & Francis Online"

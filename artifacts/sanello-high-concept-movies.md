@@ -8,16 +8,11 @@ files:
   - filename: "high-concept-movies-transcript.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "520e4bb6a376ede651ae6234dd115f27d5ea5c7b5ed2c65a3b3f5da7c73b79f7"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/sanello-high-concept-movies/high-concept-movies-transcript.html"
-    lang: "en"
     hidden: false
   - filename: "high-concept-movies.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "be91a9320335f7eea55eb40b80725e301087baaada994524b11e29264ba62dd4"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/sanello-high-concept-movies/high-concept-movies.bib"
     hidden: false
 links:

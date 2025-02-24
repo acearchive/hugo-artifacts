@@ -8,17 +8,12 @@ files:
   - filename: "billie-jean-blabs.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "4bb1a726dd769ce03d410ad0057f2e488b80f14dde11361c5d55d974192b4aa5"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tv-guise-vol-1-iss-9/billie-jean-blabs.bib"
     hidden: false
   - filename: "tv-guise.pdf"
     name: "TV Guise"
     media_type: "application/pdf"
-    hash: "1177cc3128d0e5c6c69388122970e39635375cbf9cf99d4d3f247b98a0221103"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tv-guise-vol-1-iss-9/tv-guise.pdf"
-    lang: "en"
     hidden: false
 links:
   - name: "Digital Transgender Archive"

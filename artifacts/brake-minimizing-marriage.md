@@ -8,15 +8,11 @@ files:
   - filename: "minimizing-marriage.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "002dd368e34e53c5ce71729d5a63ca761423d4aed84d449e2256466c360a55c3"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/brake-minimizing-marriage/minimizing-marriage.bib"
     hidden: false
   - filename: "minimizing-marriage.pdf"
     name: "Book"
     media_type: "application/pdf"
-    hash: "1dfade1718c5b8a11e943ceb34eed404f6a1df1279ac661de7bd4312420128c9"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/brake-minimizing-marriage/minimizing-marriage.pdf"
     hidden: false
 links:

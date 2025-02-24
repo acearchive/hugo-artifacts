@@ -8,17 +8,12 @@ files:
   - filename: "love-and-limerence.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "06a4a76a5c4adfc653fd7efbd5203cd36300115154592fbae0015b7526292c45"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tennov-love-and-limerence/love-and-limerence.bib"
     hidden: false
   - filename: "love-and-limerence.pdf"
     name: "Book"
     media_type: "application/pdf"
-    hash: "71079fd77238dbbeab30e9c9ff6bad1a3cf3262f6cab1e28b17ca2612177014e"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tennov-love-and-limerence/love-and-limerence.pdf"
-    lang: "en"
     hidden: false
 links:
   - name: "Internet Archive"

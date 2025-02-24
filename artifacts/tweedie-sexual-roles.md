@@ -8,16 +8,11 @@ files:
   - filename: "sexual-roles-historically-stressed-transcript.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "2f30ce3908e573542d4f9433a3de1965b47a12f1b4a2651379bceda5cb1c3e0c"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tweedie-sexual-roles/sexual-roles-historically-stressed-transcript.html"
-    lang: "en"
     hidden: false
   - filename: "sexual-roles-historically-stressed.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "047a9ef275c05044d51abd05dc28909a16fc51218a90ee7005874c496639d142"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tweedie-sexual-roles/sexual-roles-historically-stressed.bib"
     hidden: false
 links:

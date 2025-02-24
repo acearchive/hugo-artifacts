@@ -7,10 +7,7 @@ files:
   - filename: "the-evolution-of-online-asexual-discourse.pdf"
     name: "Paper"
     media_type: "application/pdf"
-    hash: "25b2257068c2992693217aba1128cccc0dcdbcb411ff928f9e66455686560d50"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/hinderliter-evolution-of-online-asexual-discourse/the-evolution-of-online-asexual-discourse.pdf"
-    lang: "en"
     hidden: false
 links:
   - name: "Paper"

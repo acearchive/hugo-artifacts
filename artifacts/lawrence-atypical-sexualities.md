@@ -8,16 +8,11 @@ files:
   - filename: "atypical-sexualities-transcript.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "eae9008d889aca9badf80a697b2a54f8fc76fe6e698f563fa23ccae9c0d509fc"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/lawrence-atypical-sexualities/atypical-sexualities-transcript.html"
-    lang: "en"
     hidden: false
   - filename: "atypical-sexualities.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "4338c54e695e4abd9644e80f8aa2a35113c005731c094fd674bc03f8cdaaba25"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/lawrence-atypical-sexualities/atypical-sexualities.bib"
     hidden: false
 links:

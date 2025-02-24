@@ -7,17 +7,12 @@ files:
   - filename: "billie-jean-blabs.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "b821ebd132bb99b8d3753be2e8ca65689b15ac307b485481d1f4a222baf959ab"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/gender-flex-vol-11-iss-14/billie-jean-blabs.bib"
     hidden: false
   - filename: "gender-flex.pdf"
     name: "GenderFlex"
     media_type: "application/pdf"
-    hash: "5279bf295df3952879e973bd1302b3d6dc31edea172de179c8c8b6760691dab3"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/gender-flex-vol-11-iss-14/gender-flex.pdf"
-    lang: "en"
     hidden: false
 links:
   - name: "Digital Transgender Archive"

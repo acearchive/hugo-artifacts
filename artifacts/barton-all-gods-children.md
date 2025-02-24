@@ -8,16 +8,11 @@ files:
   - filename: "all-gods-children-transcript.html"
     name: "Image Transcript"
     media_type: "text/html"
-    hash: "8df65017dbc810fb0a92f44e362a89a8ad760118cbdcbb1cfa681f79c60a2fb2"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/barton-all-gods-children/all-gods-children-transcript.html"
-    lang: "en"
     hidden: false
   - filename: "all-gods-children.jpeg"
     name: "Photo"
     media_type: "image/jpeg"
-    hash: "5729b91a0919b2020838a30e3218c3ed765f3ecfccad18e161302741a18bd55f"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/barton-all-gods-children/all-gods-children.jpeg"
     hidden: false
 links:

@@ -8,25 +8,17 @@ files:
   - filename: "hirschfeld-sexualpathologie.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "d9bf0462dd438d1bbdcb713828ad4401aa58d9b2b0026ba5a3b95ef78ac26092"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/hirschfeld-sexualpathologie/hirschfeld-sexualpathologie.bib"
     hidden: false
   - filename: "hirschfeld-sexualpathologie.pdf"
     name: "Original Paper"
     media_type: "application/pdf"
-    hash: "e87dd3b72dee1205ede02ab01bf2800320423286c9040366f99fccfb42403a52"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/hirschfeld-sexualpathologie/hirschfeld-sexualpathologie.pdf"
-    lang: "de"
     hidden: false
   - filename: "hirschfeld-sexualpathologie.txt"
     name: "Fulltext OCR Transcript"
     media_type: "text/plain"
-    hash: "21ee92de2d6e0db2ee7afcc190d74f61eaa5febe6e80e74f5350043bdeaa8ce0"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/hirschfeld-sexualpathologie/hirschfeld-sexualpathologie.txt"
-    lang: "de"
     hidden: false
 links:
   - name: "Internet Archive"

@@ -8,10 +8,7 @@ files:
   - filename: "sexual-impotence-male-and-female.pdf"
     name: "Sexual Impotence in the Male and Female"
     media_type: "application/pdf"
-    hash: "8327999d621961c9f8c2345ae70388c62832273b394a49028714544188cb0048"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/hammond-sexual-impotence/sexual-impotence-male-and-female.pdf"
-    lang: "en"
     hidden: false
 links:
   - name: "Sexual Impotence in the Male and Female (1887, Internet Archive)"

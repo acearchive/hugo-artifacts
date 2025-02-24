@@ -8,16 +8,11 @@ files:
   - filename: "lack-of-interest-transcript.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "d7b7d190ff86e4d087b498b28049f94e25dda53061444341e75a4cc0136eeaeb"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/landers-lack-of-interest/lack-of-interest-transcript.html"
-    lang: "en"
     hidden: false
   - filename: "lack-of-interest.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "be7ba375b836aaa1512e78b74fd437e9708a2f87a3788a58cc41be163b7bf104"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/landers-lack-of-interest/lack-of-interest.bib"
     hidden: false
 links:

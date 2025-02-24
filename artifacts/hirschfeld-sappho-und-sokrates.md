@@ -8,17 +8,12 @@ files:
   - filename: "hirschfeld-sappho-und-sokrates.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "08dfe84a3d62b6e05826c3baf9d3a1e38f5cd4b95798f0628656ca14872c04fb"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/hirschfeld-sappho-und-sokrates/hirschfeld-sappho-und-sokrates.bib"
     hidden: false
   - filename: "hirschfeld-sappho-und-sokrates.pdf"
     name: "Original Paper"
     media_type: "application/pdf"
-    hash: "1e7c16a8f3bd8e2ecde57f2b5a26585ce24dfc521d2fffc6b4005d3256a3a6e8"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/hirschfeld-sappho-und-sokrates/hirschfeld-sappho-und-sokrates.pdf"
-    lang: "de"
     hidden: false
 links:
   - name: "University of Chicago Library"

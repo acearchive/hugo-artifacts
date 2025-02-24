@@ -8,25 +8,17 @@ files:
   - filename: "psychopathia-sexualis-ocr-transcript.txt"
     name: "Fulltext OCR Transcript"
     media_type: "text/plain"
-    hash: "c850bf003f2161c90be8ff6a3c38af137339c98ad9e584daeda27ba465381891"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/krafft-ebing-psychopathia-sexualis/psychopathia-sexualis-ocr-transcript.txt"
-    lang: "en"
     hidden: false
   - filename: "psychopathia-sexualis.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "d8d96753e8151a69c37ee7b2817f850c7d9f0bddc4f6690572ba50db93355754"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/krafft-ebing-psychopathia-sexualis/psychopathia-sexualis.bib"
     hidden: false
   - filename: "psychopathia-sexualis.pdf"
     name: "Original Book"
     media_type: "application/pdf"
-    hash: "4edd80bcd798d3b25d362a1b9fa28a66a65193e16780d462c565f5480f91094e"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/krafft-ebing-psychopathia-sexualis/psychopathia-sexualis.pdf"
-    lang: "en"
     hidden: false
 links: []
 people:

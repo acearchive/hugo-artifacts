@@ -8,24 +8,16 @@ files:
   - filename: "asexual-and-autoerotic-women-transcript/index.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "f581b14f2ee9046ac0386e42fab23c97df3d9760c566b6d8a1639910d4c93055"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/johnson-asexual-and-autoerotic-women/asexual-and-autoerotic-women-transcript/index.html"
-    lang: "en"
     hidden: false
   - filename: "asexual-and-autoerotic-women.pdf"
     name: "Digital Scan"
     media_type: "application/pdf"
-    hash: "afd169afda0304854432635ad9ce7d8a172cf337116b8ac95aa4f6743e143da1"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/johnson-asexual-and-autoerotic-women/asexual-and-autoerotic-women.pdf"
-    lang: "en"
     hidden: false
   - filename: "the-sexually-oppressed.bib"
     name: "The Sexually Oppressed (Citation)"
     media_type: "text/x-bibtex"
-    hash: "28ec66f72197a92adc20bf2f437bf3760825bf90c4b07bce39111cb9a4b361e7"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/johnson-asexual-and-autoerotic-women/the-sexually-oppressed.bib"
     hidden: false
 links: []

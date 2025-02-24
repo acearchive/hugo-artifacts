@@ -7,8 +7,6 @@ files:
   - filename: "asexuals-have-problems-too.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "a231b3f5afe21f6c1e8e9143ed218dbf31dce41a57b3d54a9bac226c16ec2859"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/nederland-asexuals-have-problems-too/asexuals-have-problems-too.bib"
     hidden: false
 links:

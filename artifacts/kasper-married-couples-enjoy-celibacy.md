@@ -8,16 +8,11 @@ files:
   - filename: "married-couples-enjoy-celibacy-transcript.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "12ebd9ecbf59ad4bfd1f2482ea4573e4618ed33833bd5c04f35d8214547c5cf0"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/kasper-married-couples-enjoy-celibacy/married-couples-enjoy-celibacy-transcript.html"
-    lang: "en"
     hidden: false
   - filename: "married-couples-enjoy-celibacy.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "c47da98cedb83ccfe1e8929ae02f584df622b489ea07c0c95d8bd18fdbd6277b"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/kasper-married-couples-enjoy-celibacy/married-couples-enjoy-celibacy.bib"
     hidden: false
 links:

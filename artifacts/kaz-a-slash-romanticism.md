@@ -7,8 +7,6 @@ files:
   - filename: "coining-of-queerplatonic.warc"
     name: "WARC Archive"
     media_type: "application/warc"
-    hash: "01cf32151c0eab3e2a08e5503bb0b339333a40d5c77c407237c096e06f5a41fe"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/kaz-a-slash-romanticism/coining-of-queerplatonic.warc"
     hidden: false
 links:

@@ -8,16 +8,11 @@ files:
   - filename: "asexual-man-needs-counseling-transcript.html"
     name: "Transcript"
     media_type: "text/html"
-    hash: "b90500f4fbf30abfcdbe61e58dffb4d657463e227b0e41c62d8dc9d1db09c838"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/landers-asexual-man-needs-counseling/asexual-man-needs-counseling-transcript.html"
-    lang: "en"
     hidden: false
   - filename: "asexual-man-needs-counseling.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
-    hash: "606eb4bdafbd15900848d38be99847a3c5494d6ed14afa173baa314c7305141b"
-    hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/landers-asexual-man-needs-counseling/asexual-man-needs-counseling.bib"
     hidden: false
 links:
