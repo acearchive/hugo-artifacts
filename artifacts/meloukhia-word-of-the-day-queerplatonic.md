@@ -14,5 +14,5 @@ identities:
   - "queerplatonic"
 from_year: 2011
 decades:
-  - "2010.0"
+  - 2010
 ---

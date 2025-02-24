@@ -27,5 +27,5 @@ identities:
   - "bisexual"
 from_year: 1972
 decades:
-  - "1970.0"
+  - 1970
 ---

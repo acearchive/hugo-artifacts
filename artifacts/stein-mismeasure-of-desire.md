@@ -30,5 +30,5 @@ identities:
   - "bisexual"
 from_year: 1999
 decades:
-  - "1990.0"
+  - 1990
 ---

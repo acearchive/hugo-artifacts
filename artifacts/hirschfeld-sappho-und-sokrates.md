@@ -29,5 +29,5 @@ identities:
   - "asexual"
 from_year: 1896
 decades:
-  - "1890.0"
+  - 1890
 ---

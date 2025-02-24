@@ -16,5 +16,5 @@ identities:
   - "celibate"
 from_year: 1992
 decades:
-  - "1990.0"
+  - 1990
 ---

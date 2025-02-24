@@ -14,5 +14,5 @@ identities:
   - "nonsexual"
 from_year: 2001
 decades:
-  - "2000.0"
+  - 2000
 ---

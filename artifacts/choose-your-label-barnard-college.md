@@ -59,5 +59,5 @@ identities:
   - "lesbian"
 from_year: 1973
 decades:
-  - "1970.0"
+  - 1970
 ---

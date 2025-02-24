@@ -15,5 +15,5 @@ identities:
   - "asexual"
 from_year: 2004
 decades:
-  - "2000.0"
+  - 2000
 ---

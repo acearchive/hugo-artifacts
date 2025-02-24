@@ -26,5 +26,5 @@ people:
 identities: []
 from_year: 1869
 decades:
-  - "1860.0"
+  - 1860
 ---

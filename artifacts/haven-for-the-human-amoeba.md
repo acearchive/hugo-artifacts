@@ -30,6 +30,6 @@ identities:
 from_year: 2000
 to_year: 2019
 decades:
-  - "2000.0"
-  - "2010.0"
+  - 2000
+  - 2010
 ---

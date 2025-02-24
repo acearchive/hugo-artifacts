@@ -29,5 +29,5 @@ identities:
   - "transvestite"
 from_year: 1968
 decades:
-  - "1960.0"
+  - 1960
 ---

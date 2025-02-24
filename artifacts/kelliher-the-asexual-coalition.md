@@ -13,5 +13,5 @@ identities:
   - "asexual"
 from_year: 1997
 decades:
-  - "1990.0"
+  - 1990
 ---

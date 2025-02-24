@@ -29,5 +29,5 @@ identities:
   - "spinster"
 from_year: 1889
 decades:
-  - "1880.0"
+  - 1880
 ---

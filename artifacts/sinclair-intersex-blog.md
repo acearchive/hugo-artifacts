@@ -15,6 +15,6 @@ identities:
 from_year: 1987
 to_year: 1999
 decades:
-  - "1980.0"
-  - "1990.0"
+  - 1980
+  - 1990
 ---

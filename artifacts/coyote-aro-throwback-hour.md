@@ -14,5 +14,5 @@ identities:
 from_year: 2010
 to_year: 2013
 decades:
-  - "2010.0"
+  - 2010
 ---

@@ -15,6 +15,6 @@ identities:
 from_year: 2019
 to_year: 2023
 decades:
-  - "2010.0"
-  - "2020.0"
+  - 2010
+  - 2020
 ---

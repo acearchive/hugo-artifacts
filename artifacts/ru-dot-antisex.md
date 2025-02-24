@@ -13,5 +13,5 @@ identities:
   - "antisexual"
 from_year: 1998
 decades:
-  - "1990.0"
+  - 1990
 ---

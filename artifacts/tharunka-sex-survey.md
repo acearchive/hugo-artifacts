@@ -27,5 +27,5 @@ identities:
   - "homosexual"
 from_year: 1980
 decades:
-  - "1980.0"
+  - 1980
 ---

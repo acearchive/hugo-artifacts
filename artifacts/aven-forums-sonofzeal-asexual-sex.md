@@ -14,5 +14,5 @@ identities:
   - "demisexual"
 from_year: 2006
 decades:
-  - "2000.0"
+  - 2000
 ---

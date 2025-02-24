@@ -29,5 +29,5 @@ identities:
   - "monosexual"
 from_year: 1993
 decades:
-  - "1990.0"
+  - 1990
 ---

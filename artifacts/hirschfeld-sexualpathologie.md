@@ -38,5 +38,5 @@ identities:
   - "automonosexual"
 from_year: 1921
 decades:
-  - "1920.0"
+  - 1920
 ---

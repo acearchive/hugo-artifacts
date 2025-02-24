@@ -21,5 +21,5 @@ identities:
   - "asexual"
 from_year: 2021
 decades:
-  - "2020.0"
+  - 2020
 ---

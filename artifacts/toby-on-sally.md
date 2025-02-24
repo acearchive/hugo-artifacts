@@ -50,5 +50,5 @@ identities:
   - "neuter"
 from_year: 1989
 decades:
-  - "1980.0"
+  - 1980
 ---

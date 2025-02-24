@@ -28,5 +28,5 @@ identities:
 from_year: 1992
 to_year: 1993
 decades:
-  - "1990.0"
+  - 1990
 ---

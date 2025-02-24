@@ -20,5 +20,5 @@ identities:
   - "asexual"
 from_year: 1913
 decades:
-  - "1910.0"
+  - 1910
 ---

@@ -42,5 +42,5 @@ identities:
   - "nonsexual"
 from_year: 1988
 decades:
-  - "1980.0"
+  - 1980
 ---

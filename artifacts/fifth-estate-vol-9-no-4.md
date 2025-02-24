@@ -41,5 +41,5 @@ identities:
   - "asexual"
 from_year: 1974
 decades:
-  - "1970.0"
+  - 1970
 ---

@@ -13,5 +13,5 @@ identities:
   - "aromantic"
 from_year: 2007
 decades:
-  - "2000.0"
+  - 2000
 ---

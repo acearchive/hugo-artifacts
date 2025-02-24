@@ -14,5 +14,5 @@ identities:
   - "wtfromantic"
 from_year: 2012
 decades:
-  - "2010.0"
+  - 2010
 ---

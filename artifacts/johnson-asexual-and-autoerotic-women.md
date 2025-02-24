@@ -33,5 +33,5 @@ identities:
   - "autoerotic"
 from_year: 1977
 decades:
-  - "1970.0"
+  - 1970
 ---
