@@ -10,7 +10,7 @@ files:
     media_type: "text/x-bibtex"
     hash: "83eda62b676d52936eeb3a4d9e50f4265655c2236e60370fadb983d541f94c99"
     hash_algorithm: "sha2-256"
-    url: "https://files.acearchive.lgbt/artifacts/sennkestra-asexual-research-bibliography/asexual-research-bibliography.bib"
+    url: "https://files-dev.acearchive.lgbt/artifacts/sennkestra-asexual-research-bibliography/asexual-research-bibliography.bib"
 links:
   - name: "Zotero Library"
     url: "https://www.zotero.org/groups/950137/asexual_research/library"

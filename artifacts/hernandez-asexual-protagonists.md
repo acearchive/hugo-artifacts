@@ -9,7 +9,7 @@ files:
     media_type: "application/pdf"
     hash: "c1c2b7a0fed1ee8627a4e60a2d96f8d3573eb509e0c9adb42938eea71b7dd732"
     hash_algorithm: "sha2-256"
-    url: "https://files.acearchive.lgbt/artifacts/hernandez-asexual-protagonists/asexual-protagonists.pdf"
+    url: "https://files-dev.acearchive.lgbt/artifacts/hernandez-asexual-protagonists/asexual-protagonists.pdf"
     lang: "en"
 links:
   - name: "Augustana Digital Commons"

@@ -10,7 +10,7 @@ files:
     media_type: "application/zip"
     hash: "2e4fd81fef65240a86a408f5245b1743690680142b845aaef06927423dfa2f89"
     hash_algorithm: "sha2-256"
-    url: "https://files.acearchive.lgbt/artifacts/haven-for-the-human-amoeba/haven-for-the-human-amoeba.zip"
+    url: "https://files-dev.acearchive.lgbt/artifacts/haven-for-the-human-amoeba/haven-for-the-human-amoeba.zip"
 links:
   - name: "Browsable Archive"
     url: "https://hha.acearchive.lgbt/"

@@ -10,7 +10,7 @@ files:
     media_type: "video/mp4"
     hash: "1c803ac49b2aa5eab6b70470eb443ec9050398ef0b0864385aad997d1dd27d0f"
     hash_algorithm: "sha2-256"
-    url: "https://files.acearchive.lgbt/artifacts/david-jay-tucker/david-jay-tucker.mp4"
+    url: "https://files-dev.acearchive.lgbt/artifacts/david-jay-tucker/david-jay-tucker.mp4"
     lang: "en"
 links:
   - name: "YouTube"
