@@ -1,9 +1,9 @@
 ---
 id: "VeJMSkMqCk3J"
+slug: "duenwald-saying-no-is-easy"
 title: "\"For Them, Just Saying No Is Easy\""
 summary: "An article in the *New York Times* about asexuality"
 description: "An article in the *New York Times* about asexuality which mentions AVEN and distinguishes asexuality from celibacy"
-url: "https://acearchive.lgbt/artifacts/duenwald-saying-no-is-easy"
 files: []
 links:
   - name: "Article"
@@ -15,4 +15,5 @@ identities:
 from_year: 2005
 decades:
   - 2000
+aliases: []
 ---

@@ -1,9 +1,9 @@
 ---
 id: "tV2ZQOli4LSi"
+slug: "bullough-human-sexuality"
 title: "Human Sexuality: An Encyclopedia"
 summary: "An entry in an encyclopedia of human sexuality that mentions asexuality"
 description: "An entry in an encyclopedia of human sexuality on \"lovemaps,\" which explains that a lovemap can be asexual or \"anerotic\""
-url: "https://acearchive.lgbt/artifacts/bullough-human-sexuality"
 files:
   - filename: "human-sexuality-an-encyclopedia.pdf"
     name: "Human Sexuality: An Encyclopedia"
@@ -12,12 +12,14 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/bullough-human-sexuality/human-sexuality-an-encyclopedia.pdf"
     lang: "en"
+    hidden: false
   - filename: "lovemaps.bib"
     name: "Citation (Lovemaps)"
     media_type: "text/x-bibtex"
     hash: "cf57e5ae6f6e6eedcffe78b43a6cf92e6d3dfc347036c72689fa7001e3f788e8"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/bullough-human-sexuality/lovemaps.bib"
+    hidden: false
 links:
   - name: "Internet Archive"
     url: "https://archive.org/details/humansexuality00arie/page/372/mode/2up"
@@ -30,4 +32,5 @@ identities:
 from_year: 1994
 decades:
   - 1990
+aliases: []
 ---

@@ -1,9 +1,9 @@
 ---
 id: "fvd6kqOjtLIz"
+slug: "the-conspiracy-sexual-law-reporter"
 title: "\"SexualLaw Reporter,\" *The Conspiracy*"
 summary: "An introduction to a newsletter about legal issues relevant to queer people, including asexuals"
 description: "A brief in *The Conspiracy* which introduces to a newsletter called *SexualLaw Reporter*, which intends to focus legal issues relevant to queer people, including asexuals"
-url: "https://acearchive.lgbt/artifacts/the-conspiracy-sexual-law-reporter"
 files:
   - filename: "sexual-law-reporter-transcript.html"
     name: "SexualLaw Reporter (Transcript)"
@@ -12,12 +12,14 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/the-conspiracy-sexual-law-reporter/sexual-law-reporter-transcript.html"
     lang: "en"
+    hidden: false
   - filename: "sexual-law-reporter.bib"
     name: "SexualLaw Reporter (Citation)"
     media_type: "text/x-bibtex"
     hash: "0718622827e543ff368bba29e102ffc038d045e971c4a256f34442e2e5f6a4dd"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/the-conspiracy-sexual-law-reporter/sexual-law-reporter.bib"
+    hidden: false
   - filename: "sexual-law-reporter.pdf"
     name: "SexualLaw Reporter"
     media_type: "application/pdf"
@@ -25,6 +27,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/the-conspiracy-sexual-law-reporter/sexual-law-reporter.pdf"
     lang: "en"
+    hidden: false
   - filename: "the-conspiracy.pdf"
     name: "The Conspiracy"
     media_type: "application/pdf"
@@ -32,6 +35,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/the-conspiracy-sexual-law-reporter/the-conspiracy.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "JSTOR"
     url: "https://www.jstor.org/stable/community.28035179?seq=12"
@@ -41,4 +45,5 @@ identities:
 from_year: 1975
 decades:
   - 1970
+aliases: []
 ---

@@ -1,8 +1,8 @@
 ---
 id: "uwJEzGZklEiR"
+slug: "carnival-of-aces"
 title: "A Carnival of Aces"
 summary: "A monthly blogging carnival centered on the asexual spectrum"
-url: "https://acearchive.lgbt/artifacts/carnival-of-aces"
 files: []
 links:
   - name: "Masterpost"
@@ -17,4 +17,5 @@ to_year: 2023
 decades:
   - 2010
   - 2020
+aliases: []
 ---

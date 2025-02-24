@@ -1,8 +1,8 @@
 ---
 id: "MKbNWmmhCog6"
+slug: "orlando-the-asexual-manifesto"
 title: "*The Asexual Manifesto*"
 summary: "THIS IS A TEST SUMMARY 2"
-url: "https://acearchive.lgbt/artifacts/orlando-the-asexual-manifesto"
 files:
   - filename: "the-asexual-manifesto-transcript/index.html"
     name: "Transcript"
@@ -11,6 +11,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/orlando-the-asexual-manifesto/the-asexual-manifesto-transcript/index.html"
     lang: "en"
+    hidden: false
   - filename: "the-asexual-manifesto.pdf"
     name: "Digital Scan"
     media_type: "application/pdf"
@@ -18,6 +19,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/orlando-the-asexual-manifesto/the-asexual-manifesto.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "Internet Archive"
     url: "https://archive.org/details/asexualmanifestolisaorlando"
@@ -29,4 +31,5 @@ identities:
 from_year: 1972
 decades:
   - 1970
+aliases: []
 ---

@@ -1,9 +1,9 @@
 ---
 id: "CVXPgQ7YrpDw"
+slug: "kertbeny-paragraph-143"
 title: "Kertbeny's pamphlets protesting Prussian sodomy laws"
 summary: "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\""
 description: "Pamphlets protesting Prussian sodomy laws which coined the terms \"homosexual\" and \"heterosexual\", as well as \"monosexual\""
-url: "https://acearchive.lgbt/artifacts/kertbeny-paragraph-143"
 files:
   - filename: "kertbeny-paragraph-143.bib"
     name: "Citation"
@@ -11,6 +11,7 @@ files:
     hash: "4e4e53304670ce995c42eb6eca31a3afab6318bcd15f9af437fd2ed484cb963c"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/kertbeny-paragraph-143/kertbeny-paragraph-143.bib"
+    hidden: false
   - filename: "kertbeny-paragraph-143.pdf"
     name: "Original Paper"
     media_type: "application/pdf"
@@ -18,6 +19,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/kertbeny-paragraph-143/kertbeny-paragraph-143.pdf"
     lang: "de"
+    hidden: false
 links:
   - name: "Leipzig University Library"
     url: "https://katalog.ub.uni-leipzig.de/Record/0-1657911586"
@@ -27,4 +29,5 @@ identities: []
 from_year: 1869
 decades:
   - 1860
+aliases: []
 ---

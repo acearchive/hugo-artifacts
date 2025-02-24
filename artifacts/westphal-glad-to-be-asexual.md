@@ -1,9 +1,9 @@
 ---
 id: "tqfVD2Tc8nVW"
+slug: "westphal-glad-to-be-asexual"
 title: "\"Glad to be asexual\""
 summary: "An in-depth article on asexuality published in *New Scientist* where the author meets David Jay."
 description: "An in-depth article on asexuality published in *New Scientist* where the author meets David Jay and talks about AVEN and academic research on asexuality"
-url: "https://acearchive.lgbt/artifacts/westphal-glad-to-be-asexual"
 files: []
 links:
   - name: "Article"
@@ -16,4 +16,5 @@ identities:
 from_year: 2004
 decades:
   - 2000
+aliases: []
 ---

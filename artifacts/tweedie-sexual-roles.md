@@ -1,9 +1,9 @@
 ---
 id: "UeTR1QDzJO33"
+slug: "tweedie-sexual-roles"
 title: "\"Sexual Roles Historically Stressed To Serve Society\""
 summary: "A newspaper article in which the author suggests that every person is, at their core, asexual"
 description: "A newspaper article on queerness, family, and consumerism in which the author suggests that every person is, at their core, asexual"
-url: "https://acearchive.lgbt/artifacts/tweedie-sexual-roles"
 files:
   - filename: "sexual-roles-historically-stressed-transcript.html"
     name: "Transcript"
@@ -12,12 +12,14 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tweedie-sexual-roles/sexual-roles-historically-stressed-transcript.html"
     lang: "en"
+    hidden: false
   - filename: "sexual-roles-historically-stressed.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
     hash: "047a9ef275c05044d51abd05dc28909a16fc51218a90ee7005874c496639d142"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tweedie-sexual-roles/sexual-roles-historically-stressed.bib"
+    hidden: false
 links:
   - name: "Google Books"
     url: "https://books.google.com/books?id=7xAdAAAAIBAJ&pg=PA18"
@@ -28,4 +30,5 @@ identities:
 from_year: 1972
 decades:
   - 1970
+aliases: []
 ---

@@ -1,9 +1,9 @@
 ---
 id: "eO12cBSYhFXl"
+slug: "dullea-lack-of-sexual-desire"
 title: "\"A Lack of Sexual Desire Emerges as a Contemporary Condition\""
 summary: "A newspaper article on the emergence of asexuality as a new phenomenon"
 description: "A newspaper article on the emergence of asexuality as a new phenomenon, including interviews from asexuals who largely report being happy with celibacy"
-url: "https://acearchive.lgbt/artifacts/dullea-lack-of-sexual-desire"
 files:
   - filename: "lack-of-sexual-desire-transcript.html"
     name: "Transcript"
@@ -12,12 +12,14 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/dullea-lack-of-sexual-desire/lack-of-sexual-desire-transcript.html"
     lang: "en"
+    hidden: false
   - filename: "lack-of-sexual-desire.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
     hash: "fe153db6576193c63932ff6857f8f8c29e2132b9fd88efcce03639a32a8ef84d"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/dullea-lack-of-sexual-desire/lack-of-sexual-desire.bib"
+    hidden: false
   - filename: "lack-of-sexual-desire.pdf"
     name: "Digital Scan"
     media_type: "application/pdf"
@@ -25,6 +27,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/dullea-lack-of-sexual-desire/lack-of-sexual-desire.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "The New York Times"
     url: "https://www.nytimes.com/1978/05/01/archives/a-lack-of-sexual-desire-emerges-as-a-contemporary-condition-low.html"
@@ -36,4 +39,5 @@ identities:
 from_year: 1978
 decades:
   - 1970
+aliases: []
 ---

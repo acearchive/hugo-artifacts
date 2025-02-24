@@ -1,8 +1,8 @@
 ---
 id: "spcX90OYN8vV"
+slug: "hernandez-asexual-protagonists"
 title: "*Asexual Protagonists: What Their Patterns Reveal About the Representation of Asexuality*"
 summary: "An essay discussing the need for a more BIPOC and gender-inclusive representation of asexuality in fiction literature"
-url: "https://acearchive.lgbt/artifacts/hernandez-asexual-protagonists"
 files:
   - filename: "asexual-protagonists.pdf"
     name: "Essay"
@@ -11,6 +11,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/hernandez-asexual-protagonists/asexual-protagonists.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "Augustana Digital Commons"
     url: "https://digitalcommons.augustana.edu/wollstonecraftaward/41/"
@@ -22,4 +23,5 @@ identities:
 from_year: 2021
 decades:
   - 2020
+aliases: []
 ---

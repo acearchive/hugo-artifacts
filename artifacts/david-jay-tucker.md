@@ -1,9 +1,9 @@
 ---
 id: "Qg7ng3bkN8Ab"
+slug: "david-jay-tucker"
 title: "David Jay on *Tucker*"
 summary: "David Jay, founder of AVEN, is interviewed on MSNBC's *Tucker*"
 description: "David Jay, founder of AVEN, is interviewed on MSNBC's *Tucker* (CW: acephobia)"
-url: "https://acearchive.lgbt/artifacts/david-jay-tucker"
 files:
   - filename: "david-jay-tucker.mp4"
     name: "Video"
@@ -12,6 +12,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/david-jay-tucker/david-jay-tucker.mp4"
     lang: "en"
+    hidden: false
 links:
   - name: "YouTube"
     url: "https://youtu.be/Iwxo6t7XBYs"
@@ -22,4 +23,5 @@ identities:
 from_year: 2006
 decades:
   - 2000
+aliases: []
 ---

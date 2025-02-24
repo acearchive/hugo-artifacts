@@ -1,9 +1,9 @@
 ---
 id: "H1QBfRWrKpy9"
+slug: "blanchard-nonhomosexual-gender-dysphorias"
 title: "\"The Classification and Labeling of Nonhomosexual Gender Dysphorias\""
 summary: "A paper in which the author attempts to categorize transgender people by their sexual orientation, including asexuals"
 description: "A now-discredited paper in which the author presents and unsubstantiated typology of transgender people categorizing them by their sexual orientation. This typology includes \"analloerotics,\" who can be subclassified as \"automonosexual\" or \"asexual.\" (CW: transphobia, misgendering, pathologizing trans people, perpetuating stereotypes of trans people)"
-url: "https://acearchive.lgbt/artifacts/blanchard-nonhomosexual-gender-dysphorias"
 files:
   - filename: "nonhomosexual-gender-dysphorias.bib"
     name: "Citation"
@@ -11,6 +11,7 @@ files:
     hash: "70e8bf7d25c37185fb386aeac5a000d0c28d3d061648394855f74a10927cf967"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/blanchard-nonhomosexual-gender-dysphorias/nonhomosexual-gender-dysphorias.bib"
+    hidden: false
   - filename: "nonhomosexual-gender-dysphorias.pdf"
     name: "Paper"
     media_type: "application/pdf"
@@ -18,6 +19,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/blanchard-nonhomosexual-gender-dysphorias/nonhomosexual-gender-dysphorias.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "PubMed"
     url: "https://pubmed.ncbi.nlm.nih.gov/2673136/"
@@ -31,4 +33,5 @@ identities:
 from_year: 1989
 decades:
   - 1980
+aliases: []
 ---

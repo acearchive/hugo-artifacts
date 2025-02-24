@@ -1,9 +1,9 @@
 ---
 id: "z4trfOPcqpYU"
+slug: "barton-all-gods-children"
 title: "\"All God's Children Need Love\" Gay Freedom Day Parade"
 summary: "A photo featuring a sign for equal rights for queer people, including asexuals"
 description: "A photo from the Gay Freedom Day Parade featuring a sign for equal rights for queer people, including asexuals"
-url: "https://acearchive.lgbt/artifacts/barton-all-gods-children"
 files:
   - filename: "all-gods-children-transcript.html"
     name: "Image Transcript"
@@ -12,12 +12,14 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/barton-all-gods-children/all-gods-children-transcript.html"
     lang: "en"
+    hidden: false
   - filename: "all-gods-children.jpeg"
     name: "Photo"
     media_type: "image/jpeg"
     hash: "5729b91a0919b2020838a30e3218c3ed765f3ecfccad18e161302741a18bd55f"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/barton-all-gods-children/all-gods-children.jpeg"
+    hidden: false
 links:
   - name: "GLBT Historical Society"
     url: "https://www.glbthistory.org/labor-of-love"
@@ -28,4 +30,5 @@ identities:
 from_year: 1973
 decades:
   - 1970
+aliases: []
 ---

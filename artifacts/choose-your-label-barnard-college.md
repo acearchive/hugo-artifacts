@@ -1,9 +1,9 @@
 ---
 id: "cmD6HyZzoISB"
+slug: "choose-your-label-barnard-college"
 title: "\"Choose Your Label\" Barnard College"
 summary: "A photo of activists at Barnard College inviting people to choose their own label"
 description: "A photo published in the feminist news journal *Off Our Backs* depicting activists at Barnard College inviting people to choose their own label, with \"asexual\" as one of the options"
-url: "https://acearchive.lgbt/artifacts/choose-your-label-barnard-college"
 files:
   - filename: "choose-your-label-transcript/choose-your-label.png"
     name: "Photo"
@@ -11,6 +11,7 @@ files:
     hash: "d625a2ec1798728690602e05cf1db6f183f7de6d36b8dc306b354b36f3cd747f"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/choose-your-label.png"
+    hidden: true
   - filename: "choose-your-label-transcript/index.html"
     name: "Article Transcript"
     media_type: "text/html"
@@ -18,18 +19,21 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/index.html"
     lang: "en"
+    hidden: false
   - filename: "choose-your-label-transcript/margaret-sloan-and-gloria-steinem.png"
     name: "Photo"
     media_type: "image/png"
     hash: "050aeb4a92fcd9708cd09c5e0ffb7a2afca21d016acfc7127cad3cb38fbb89d6"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/margaret-sloan-and-gloria-steinem.png"
+    hidden: true
   - filename: "choose-your-label.png"
     name: "Photo"
     media_type: "image/png"
     hash: "80b4a18f95a1044ca533fd1f03263112e93bf1f42f52048214677ab57542b7eb"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label.png"
+    hidden: false
   - filename: "late-copy.pdf"
     name: "Article"
     media_type: "application/pdf"
@@ -37,12 +41,14 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/choose-your-label-barnard-college/late-copy.pdf"
     lang: "en"
+    hidden: false
   - filename: "off-our-backs-vol-3-no-6.bib"
     name: "Off Our Backs, vol. 3, no. 6 (Citation)"
     media_type: "text/x-bibtex"
     hash: "dc0270b4dc6056f5f145a6911cadd12d0032a9b24c9ba21168792a18127496ed"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/choose-your-label-barnard-college/off-our-backs-vol-3-no-6.bib"
+    hidden: false
   - filename: "off-our-backs-vol-3-no-6.pdf"
     name: "Off Our Backs, vol. 3, no. 6"
     media_type: "application/pdf"
@@ -50,6 +56,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/choose-your-label-barnard-college/off-our-backs-vol-3-no-6.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "JSTOR"
     url: "https://www.jstor.org/stable/community.28041797?seq=8"
@@ -60,4 +67,6 @@ identities:
 from_year: 1973
 decades:
   - 1970
+aliases:
+  - "choose-your-label-bernard-college"
 ---

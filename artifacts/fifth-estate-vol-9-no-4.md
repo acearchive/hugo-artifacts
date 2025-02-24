@@ -1,9 +1,9 @@
 ---
 id: "k8LDou8nu7G3"
+slug: "fifth-estate-vol-9-no-4"
 title: "*Fifth Estate*, vol. 9, no. 4"
 summary: "A reader calls out the news journal *Fifth Estate* for overlooking the oppression of asexuals"
 description: "A reader writes about their experience as an asexual and calls out the news journal *Fifth Estate* for overlooking the oppression of asexuals"
-url: "https://acearchive.lgbt/artifacts/fifth-estate-vol-9-no-4"
 files:
   - filename: "fifth-estate-letter-transcript.html"
     name: "Reader Submission (Transcript)"
@@ -12,12 +12,14 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/fifth-estate-vol-9-no-4/fifth-estate-letter-transcript.html"
     lang: "en"
+    hidden: false
   - filename: "fifth-estate-letter.bib"
     name: "Reader Submission (Citation)"
     media_type: "text/x-bibtex"
     hash: "10a7732b4b1d7f84709722f2c0c5b37af476d9d8c753fb5ceeaf6d1c50be3ccb"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/fifth-estate-vol-9-no-4/fifth-estate-letter.bib"
+    hidden: false
   - filename: "fifth-estate-letter.pdf"
     name: "Reader Submission"
     media_type: "application/pdf"
@@ -25,6 +27,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/fifth-estate-vol-9-no-4/fifth-estate-letter.pdf"
     lang: "en"
+    hidden: false
   - filename: "fifth-estate.pdf"
     name: "Fifth Estate"
     media_type: "application/pdf"
@@ -32,6 +35,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/fifth-estate-vol-9-no-4/fifth-estate.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "JSTOR"
     url: "https://www.jstor.org/stable/community.28036536?seq=22"
@@ -42,4 +46,5 @@ identities:
 from_year: 1974
 decades:
   - 1970
+aliases: []
 ---

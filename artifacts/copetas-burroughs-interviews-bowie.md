@@ -1,8 +1,8 @@
 ---
 id: "jHQ0bvOaYllU"
+slug: "copetas-burroughs-interviews-bowie"
 title: "William Burroughs interviews David Bowie"
 summary: "An interview with David Bowie in which he talks about asexuality"
-url: "https://acearchive.lgbt/artifacts/copetas-burroughs-interviews-bowie"
 files: []
 links:
   - name: "Article"
@@ -14,4 +14,5 @@ identities:
 from_year: 1974
 decades:
   - 1970
+aliases: []
 ---

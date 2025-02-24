@@ -1,8 +1,8 @@
 ---
 id: "Omh8r3LkwUJp"
+slug: "smidgen110-i-am-not-a-freak"
 title: "\"I Am Not a Freak!!!!\""
 summary: "A nonsexual person dispels some myths about their nonsexuality"
-url: "https://acearchive.lgbt/artifacts/smidgen110-i-am-not-a-freak"
 files: []
 links:
   - name: "Website"
@@ -15,4 +15,5 @@ identities:
 from_year: 2001
 decades:
   - 2000
+aliases: []
 ---

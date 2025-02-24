@@ -1,8 +1,8 @@
 ---
 id: "dLFWA8Z7fWoh"
+slug: "white-a-sexual-glossary"
 title: "\"A Sexual Glossary\""
 summary: "A satirical glossary of queer identities which includes \"a-sexual\""
-url: "https://acearchive.lgbt/artifacts/white-a-sexual-glossary"
 files:
   - filename: "a-sexual-glossary-transcript.html"
     name: "A Sexual Glossary (Transcript)"
@@ -11,12 +11,14 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/white-a-sexual-glossary/a-sexual-glossary-transcript.html"
     lang: "en"
+    hidden: false
   - filename: "a-sexual-glossary.bib"
     name: "A Sexual Glossary (Citation)"
     media_type: "text/x-bibtex"
     hash: "b97fad66f3fc329b62252998061388488e645749a0a75c60a4d24563b2d10f31"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/white-a-sexual-glossary/a-sexual-glossary.bib"
+    hidden: false
   - filename: "a-sexual-glossary.pdf"
     name: "A Sexual Glossary"
     media_type: "application/pdf"
@@ -24,6 +26,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/white-a-sexual-glossary/a-sexual-glossary.pdf"
     lang: "en"
+    hidden: false
   - filename: "aids-project-newsletter.pdf"
     name: "The AIDS Project Newsletter, July 1988"
     media_type: "application/pdf"
@@ -31,6 +34,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/white-a-sexual-glossary/aids-project-newsletter.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "USM Digital Commons"
     url: "https://digitalcommons.usm.maine.edu/aids_newsletter/14/"
@@ -43,4 +47,5 @@ identities:
 from_year: 1988
 decades:
   - 1980
+aliases: []
 ---

@@ -1,9 +1,9 @@
 ---
 id: "ehvbKRQ2Thgc"
+slug: "tv-guise-vol-1-iss-9"
 title: "*TV Guise*, vol. 1, iss. 9"
 summary: "An article in a newsjournal that calls on all kinds of queer folks, including asexuals, to form a PAC"
 description: "An article in a newsjournal that calls on all kinds of queer folks, including asexuals, to connect on issues of political need and form a PAC (CW: dated language about trans people)"
-url: "https://acearchive.lgbt/artifacts/tv-guise-vol-1-iss-9"
 files:
   - filename: "billie-jean-blabs.bib"
     name: "Citation"
@@ -11,6 +11,7 @@ files:
     hash: "4bb1a726dd769ce03d410ad0057f2e488b80f14dde11361c5d55d974192b4aa5"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tv-guise-vol-1-iss-9/billie-jean-blabs.bib"
+    hidden: false
   - filename: "tv-guise.pdf"
     name: "TV Guise"
     media_type: "application/pdf"
@@ -18,6 +19,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/tv-guise-vol-1-iss-9/tv-guise.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "Digital Transgender Archive"
     url: "https://www.digitaltransgenderarchive.net/files/1544bp20p"
@@ -30,4 +32,5 @@ identities:
 from_year: 1992
 decades:
   - 1990
+aliases: []
 ---

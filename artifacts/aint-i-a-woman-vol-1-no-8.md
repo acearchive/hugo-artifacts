@@ -1,9 +1,9 @@
 ---
 id: "GxEyG3ecHOUu"
+slug: "aint-i-a-woman-vol-1-no-8"
 title: "*Ain't I a Woman?*, vol. 1, no. 8"
 summary: "A reader mentions asexual women in a submission about oppression in queer relationships"
 description: "A Marxist reader of the feminist news journal *Ain't I a Woman?* mentions asexual women in a submission about oppression in queer relationships"
-url: "https://acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8"
 files:
   - filename: "aint-i-a-woman.bib"
     name: "Ain't I a Woman?, vol. 1, no. 8 (Citation)"
@@ -11,6 +11,7 @@ files:
     hash: "d84a97a71456f6290eacec11226ea08fc71cac110b29acadcca710313f089135"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8/aint-i-a-woman.bib"
+    hidden: false
   - filename: "aint-i-a-woman.pdf"
     name: "Ain't I a Woman?, vol. 1, no. 8"
     media_type: "application/pdf"
@@ -18,6 +19,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8/aint-i-a-woman.pdf"
     lang: "en"
+    hidden: false
   - filename: "from-our-readers.pdf"
     name: "Reader Submission"
     media_type: "application/pdf"
@@ -25,6 +27,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8/from-our-readers.pdf"
     lang: "en"
+    hidden: false
   - filename: "reader-submission-transcript.html"
     name: "Reader Submission (Transcript)"
     media_type: "text/html"
@@ -32,6 +35,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/aint-i-a-woman-vol-1-no-8/reader-submission-transcript.html"
     lang: "en"
+    hidden: false
 links:
   - name: "JSTOR"
     url: "https://www.jstor.org/stable/community.28032125?seq=2"
@@ -42,4 +46,5 @@ identities:
 from_year: 1970
 decades:
   - 1970
+aliases: []
 ---

@@ -1,8 +1,8 @@
 ---
 id: "PGQPnYtDNspJ"
+slug: "nordgren-manifesto-relationship-anarchy"
 title: "*The short instructional manifesto for relationship anarchy*"
 summary: "A pamphlet which first introduced the concept of relationship anarchy"
-url: "https://acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy"
 files:
   - filename: "short-instructional-manifesto-for-relationship-anarchy.html"
     name: "Standalone HTML"
@@ -11,6 +11,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy/short-instructional-manifesto-for-relationship-anarchy.html"
     lang: "en"
+    hidden: false
   - filename: "short-instructional-manifesto-for-relationship-anarchy.pdf"
     name: "PDF"
     media_type: "application/pdf"
@@ -18,6 +19,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy/short-instructional-manifesto-for-relationship-anarchy.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "The Anarchist Library"
     url: "https://theanarchistlibrary.org/library/andie-nordgren-the-short-instructional-manifesto-for-relationship-anarchy"
@@ -29,4 +31,5 @@ identities: []
 from_year: 2006
 decades:
   - 2000
+aliases: []
 ---

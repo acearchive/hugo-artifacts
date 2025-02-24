@@ -1,8 +1,8 @@
 ---
 id: "vyO83RCbA8dE"
+slug: "tngirltech-asexualism-page"
 title: "TNGirlTech’s Asexualism Page"
 summary: "A pre-AVEN FAQ page on asexuality"
-url: "https://acearchive.lgbt/artifacts/tngirltech-asexualism-page"
 files: []
 links:
   - name: "Website"
@@ -15,4 +15,5 @@ identities:
 from_year: 2001
 decades:
   - 2000
+aliases: []
 ---

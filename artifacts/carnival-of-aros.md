@@ -1,8 +1,8 @@
 ---
 id: "DCibebWCOSjJ"
+slug: "carnival-of-aros"
 title: "A Carnival of Aros"
 summary: "A monthly blogging carnival centered on the aromantic spectrum"
-url: "https://acearchive.lgbt/artifacts/carnival-of-aros"
 files: []
 links:
   - name: "Site"
@@ -17,4 +17,5 @@ to_year: 2023
 decades:
   - 2010
   - 2020
+aliases: []
 ---

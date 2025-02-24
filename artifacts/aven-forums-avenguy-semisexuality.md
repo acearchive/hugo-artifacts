@@ -1,9 +1,9 @@
 ---
 id: "TJOxYmz9d2ke"
+slug: "aven-forums-avenguy-semisexuality"
 title: "\"Semisexuality\""
 summary: "An early discussion about aspec identities between allosexual and asexual"
 description: "An early discussion about aspec identities between allosexual and asexual which predates terms like \"gray-asexual\" and \"demisexual\""
-url: "https://acearchive.lgbt/artifacts/aven-forums-avenguy-semisexuality"
 files: []
 links:
   - name: "Forum Thread"
@@ -15,4 +15,5 @@ identities:
 from_year: 2003
 decades:
   - 2000
+aliases: []
 ---

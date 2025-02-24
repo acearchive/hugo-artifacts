@@ -1,8 +1,8 @@
 ---
 id: "GLYGvjpYITp4"
+slug: "kaz-a-slash-romanticism"
 title: "\"A/romanticism\""
 summary: "The terms \"queerplatonic\" and \"zucchini\" are coined in the comments of a blog post on aromanticism"
-url: "https://acearchive.lgbt/artifacts/kaz-a-slash-romanticism"
 files:
   - filename: "coining-of-queerplatonic.warc"
     name: "WARC Archive"
@@ -10,6 +10,7 @@ files:
     hash: "01cf32151c0eab3e2a08e5503bb0b339333a40d5c77c407237c096e06f5a41fe"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/kaz-a-slash-romanticism/coining-of-queerplatonic.warc"
+    hidden: false
 links:
   - name: "Blog Post"
     url: "https://kaz.dreamwidth.org/238564.html"
@@ -25,4 +26,5 @@ identities:
 from_year: 2010
 decades:
   - 2010
+aliases: []
 ---

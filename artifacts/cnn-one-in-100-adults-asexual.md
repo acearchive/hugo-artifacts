@@ -1,9 +1,9 @@
 ---
 id: "7JQmFs7h1U5y"
+slug: "cnn-one-in-100-adults-asexual"
 title: "\"Study: One in 100 adults asexual\""
 summary: "An article by *CNN* about asexuality which mentions Anthony Bogaert's study"
 description: "An article by *CNN* about asexuality which mentions Anthony Bogaert's study on the prevalence of asexuality as well as AVEN"
-url: "https://acearchive.lgbt/artifacts/cnn-one-in-100-adults-asexual"
 files: []
 links:
   - name: "Article"
@@ -15,4 +15,5 @@ identities:
 from_year: 2004
 decades:
   - 2000
+aliases: []
 ---

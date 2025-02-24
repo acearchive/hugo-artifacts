@@ -1,8 +1,8 @@
 ---
 id: "U5YRvHfykQGR"
+slug: "meloukhia-word-of-the-day-queerplatonic"
 title: "\"Word of the Day: Queerplatonic\""
 summary: "The term \"queerplatonic\" is first introduced on Tumblr by its coiner"
-url: "https://acearchive.lgbt/artifacts/meloukhia-word-of-the-day-queerplatonic"
 files: []
 links:
   - name: "Blog Post"
@@ -15,4 +15,5 @@ identities:
 from_year: 2011
 decades:
   - 2010
+aliases: []
 ---

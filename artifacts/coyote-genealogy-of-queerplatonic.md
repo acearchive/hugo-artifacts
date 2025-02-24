@@ -1,8 +1,8 @@
 ---
 id: "w1Ie5VuRrbg8"
+slug: "coyote-genealogy-of-queerplatonic"
 title: "\"A Genealogy of Queerplatonic\""
 summary: "A blog post tracking the etymology and development of the term \"queerplatonic\""
-url: "https://acearchive.lgbt/artifacts/coyote-genealogy-of-queerplatonic"
 files: []
 links:
   - name: "Part 1"
@@ -17,4 +17,5 @@ identities:
 from_year: 2019
 decades:
   - 2010
+aliases: []
 ---

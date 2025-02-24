@@ -1,9 +1,9 @@
 ---
 id: "0TAcFGvq6fSM"
+slug: "bentler-typology-of-transsexualism"
 title: "\"A Typology of Transsexualism: Gender Identity Theory and Data\""
 summary: "An academic paper that classifies trans women into three groups—heterosexual, homosexual, and asexual"
 description: "A stigmatizing and pathologizing academic paper that classifies trans women into three groups—heterosexual, homosexual, and asexual (CW: transphobia, misgendering, pathologizing trans people)"
-url: "https://acearchive.lgbt/artifacts/bentler-typology-of-transsexualism"
 files:
   - filename: "typology-of-transsexualism.bib"
     name: "Citation"
@@ -11,6 +11,7 @@ files:
     hash: "35d1f8d903264cf76393f9ba3b998af97b45340ed98a51f9bad3f9dbaeeb6ae6"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/bentler-typology-of-transsexualism/typology-of-transsexualism.bib"
+    hidden: false
   - filename: "typology-of-transsexualism.pdf"
     name: "Paper"
     media_type: "application/pdf"
@@ -18,6 +19,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/bentler-typology-of-transsexualism/typology-of-transsexualism.pdf"
     lang: "en"
+    hidden: false
 links:
   - name: "Springer Link"
     url: "https://doi.org/10.1007/BF01541220"
@@ -29,4 +31,5 @@ identities:
 from_year: 1976
 decades:
   - 1970
+aliases: []
 ---

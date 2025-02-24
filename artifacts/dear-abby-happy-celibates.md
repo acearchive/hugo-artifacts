@@ -1,9 +1,9 @@
 ---
 id: "358ST884WFQJ"
+slug: "dear-abby-happy-celibates"
 title: "\"Happy Celibates Want No Change\""
 summary: "An asexual *Dear Abby* letter writer responds to a statement Abby made about abstinence"
 description: "An asexual *Dear Abby* letter writer responds to Abby's statement that \"no healthy normal man (or woman) is supposed to be 'happy' in abstinence\""
-url: "https://acearchive.lgbt/artifacts/dear-abby-happy-celibates"
 files:
   - filename: "dear-abby-happy-celibates-transcript/index.html"
     name: "Transcript"
@@ -12,12 +12,14 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/dear-abby-happy-celibates/dear-abby-happy-celibates-transcript/index.html"
     lang: "en"
+    hidden: false
   - filename: "dear-abby-happy-celibates.bib"
     name: "Citation"
     media_type: "text/x-bibtex"
     hash: "5c46f6812dcc8aa386be662573451b336c93de2800999a002d07c36bb02137d6"
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/dear-abby-happy-celibates/dear-abby-happy-celibates.bib"
+    hidden: false
   - filename: "dear-abby-happy-celibates.png"
     name: "Digital Scan"
     media_type: "image/png"
@@ -25,6 +27,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/dear-abby-happy-celibates/dear-abby-happy-celibates.png"
     lang: "en"
+    hidden: false
 links:
   - name: "Google News"
     url: "https://news.google.com/newspapers?id=u0dBAAAAIBAJ&sjid=6qgMAAAAIBAJ&pg=6478%2C148486"
@@ -35,4 +38,5 @@ identities:
 from_year: 1981
 decades:
   - 1980
+aliases: []
 ---

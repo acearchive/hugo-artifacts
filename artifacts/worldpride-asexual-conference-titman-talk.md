@@ -1,8 +1,8 @@
 ---
 id: "TgycQshRQMrl"
+slug: "worldpride-asexual-conference-titman-talk"
 title: "Nat Titman's talk at WorldPride Asexual Conference"
 summary: "A talk at WorldPride Asexual Conference 2012 on early asexual history"
-url: "https://acearchive.lgbt/artifacts/worldpride-asexual-conference-titman-talk"
 files:
   - filename: "worldpride-asexual-conference-titman-full.mp4"
     name: "Full Talk"
@@ -11,6 +11,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/worldpride-asexual-conference-titman-talk/worldpride-asexual-conference-titman-full.mp4"
     lang: "en"
+    hidden: false
   - filename: "worldpride-asexual-conference-titman-part-1.mp4"
     name: "Part 1 Only"
     media_type: "video/mp4"
@@ -18,6 +19,7 @@ files:
     hash_algorithm: "sha2-256"
     url: "https://files-dev.acearchive.lgbt/artifacts/worldpride-asexual-conference-titman-talk/worldpride-asexual-conference-titman-part-1.mp4"
     lang: "en"
+    hidden: false
 links:
   - name: "Part 1 Only"
     url: "https://youtu.be/Kwv-CLgSFNw"
@@ -30,4 +32,5 @@ identities:
 from_year: 2012
 decades:
   - 2010
+aliases: []
 ---
