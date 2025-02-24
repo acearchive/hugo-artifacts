@@ -5,10 +5,10 @@ title: "Sexuality: An AUS Women's Department Poster"
 summary: "A queer feminist poster by the Australian Union of Students (AUS) Women's Department. References both asexuality and celibacy."
 description: "Text on the poster reads: \"Sexuality. Homosexual, heterosexual, asexual, celibate, being in touch with our bodies. We demand the freedom to enjoy non-exploitative relationships. An AUS Women's Department poster.\" The poster is not dated but was likely published around the same time as the 1975 AUS Women's Department pamphlet titled \"Sexuality\"."
 files:
-  - filename: "aus-wd-sexuality-poster"
+  - filename: "aus-wd-sexuality-poster.pdf"
     name: "Poster"
     media_type: "application/pdf"
-    url: "https://files.acearchive.lgbt/artifacts/aus-wd-sexuality-poster/aus-wd-sexuality-poster"
+    url: "https://files.acearchive.lgbt/artifacts/aus-wd-sexuality-poster/aus-wd-sexuality-poster.pdf"
     hidden: false
 links:
   - name: "ANU Archives"
