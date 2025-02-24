@@ -4,16 +4,11 @@ slug: "kaz-a-slash-romanticism"
 title: "\"A/romanticism\""
 summary: "The terms \"queerplatonic\" and \"zucchini\" are coined in the comments of a blog post on aromanticism"
 files:
-  - name: "WARC Archive"
-    filename: "coining-of-queerplatonic.warc"
+  - filename: "coining-of-queerplatonic.warc"
+    name: "WARC Archive"
     media_type: "application/warc"
-    hash: "01cf32151c0eab3e2a08e5503bb0b339333a40d5c77c407237c096e06f5a41fe"
-    hash_algorithm: "sha2-256"
-    multihash: "122001cf32151c0eab3e2a08e5503bb0b339333a40d5c77c407237c096e06f5a41fe"
-    storage_key: "artifacts/122001cf32151c0eab3e2a08e5503bb0b339333a40d5c77c407237c096e06f5a41fe"
     url: "https://files.acearchive.lgbt/artifacts/kaz-a-slash-romanticism/coining-of-queerplatonic.warc"
     hidden: false
-    aliases: []
 links:
   - name: "Blog Post"
     url: "https://kaz.dreamwidth.org/238564.html"
@@ -24,8 +19,8 @@ people:
   - "Meloukhia"
 identities:
   - "aromantic"
-  - "wtfromantic"
   - "queerplatonic"
+  - "wtfromantic"
 from_year: 2010
 decades:
   - 2010

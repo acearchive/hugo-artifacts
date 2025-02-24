@@ -10,8 +10,8 @@ links:
 people: []
 identities:
   - "asexual"
-  - "lesbian"
   - "celibate"
+  - "lesbian"
 from_year: 1972
 decades:
   - 1970

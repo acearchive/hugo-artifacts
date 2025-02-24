@@ -10,8 +10,8 @@ links:
 people:
   - "Cor"
 identities:
-  - "wtfromantic"
   - "quoiromantic"
+  - "wtfromantic"
 from_year: 2012
 decades:
   - 2010

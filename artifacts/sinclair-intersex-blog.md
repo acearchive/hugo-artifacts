@@ -10,8 +10,8 @@ links:
 people:
   - "Jim Sinclair"
 identities:
-  - "intersex"
   - "asexual"
+  - "intersex"
 from_year: 1987
 to_year: 1999
 decades:

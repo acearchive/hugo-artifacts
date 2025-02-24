@@ -13,7 +13,7 @@ people:
   - "Sciatrix"
 identities:
   - "aromantic"
-  - "WTFromantic"
+  - "wtfromantic"
 from_year: 2011
 decades:
   - 2010

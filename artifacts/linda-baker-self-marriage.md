@@ -12,8 +12,8 @@ people:
   - "Linda Baker"
   - "Patricia Ward Biederman"
 identities:
-  - "sologamous"
   - "self-married"
+  - "sologamous"
 from_year: 1993
 decades:
   - 1990

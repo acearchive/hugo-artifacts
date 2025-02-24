@@ -9,8 +9,8 @@ links:
   - name: "American Archive of Public Broadcasting"
     url: "https://americanarchive.org/catalog/cpb-aacip-81-67wm3fwt"
 people:
-  - "Wilma Scott Heide"
   - "Samantha Dean"
+  - "Wilma Scott Heide"
 identities:
   - "asexual"
 from_year: 1973
