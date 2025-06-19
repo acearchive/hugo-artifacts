@@ -18,6 +18,6 @@ from_year: 2011
 decades:
   - 2010
 collections:
-  - "origins of identity labels"
+  - "terms and where they came from"
 aliases: []
 ---
