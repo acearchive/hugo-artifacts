@@ -24,6 +24,7 @@ identities: []
 from_year: 1869
 decades:
   - 1860
-collections: []
+collections:
+  - "terms and where they came from"
 aliases: []
 ---
