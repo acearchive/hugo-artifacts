@@ -28,5 +28,6 @@ identities:
 from_year: 1886
 decades:
   - 1880
+collections: []
 aliases: []
 ---

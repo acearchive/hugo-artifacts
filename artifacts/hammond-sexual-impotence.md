@@ -23,5 +23,6 @@ from_year: 1883
 to_year: 1887
 decades:
   - 1880
+collections: []
 aliases: []
 ---
