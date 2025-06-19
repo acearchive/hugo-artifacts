@@ -26,5 +26,6 @@ identities:
 from_year: 1976
 decades:
   - 1970
+collections: []
 aliases: []
 ---

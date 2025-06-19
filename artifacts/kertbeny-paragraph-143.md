@@ -24,5 +24,6 @@ identities: []
 from_year: 1869
 decades:
   - 1860
+collections: []
 aliases: []
 ---

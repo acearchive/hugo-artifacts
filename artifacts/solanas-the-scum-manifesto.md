@@ -17,5 +17,6 @@ identities:
 from_year: 1968
 decades:
   - 1960
+collections: []
 aliases: []
 ---

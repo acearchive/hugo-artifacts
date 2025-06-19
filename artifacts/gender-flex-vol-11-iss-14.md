@@ -26,5 +26,6 @@ from_year: 1992
 to_year: 1993
 decades:
   - 1990
+collections: []
 aliases: []
 ---

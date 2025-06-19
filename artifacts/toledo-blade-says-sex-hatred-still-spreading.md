@@ -19,5 +19,6 @@ identities:
 from_year: 1913
 decades:
   - 1910
+collections: []
 aliases: []
 ---

@@ -20,5 +20,6 @@ identities:
 from_year: 2021
 decades:
   - 2020
+collections: []
 aliases: []
 ---
