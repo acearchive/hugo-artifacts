@@ -20,6 +20,7 @@ identities:
 from_year: 2006
 decades:
   - 2000
-collections: []
+collections:
+  - "news coverage"
 aliases: []
 ---

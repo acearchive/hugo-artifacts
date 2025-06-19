@@ -31,6 +31,7 @@ identities:
 from_year: 1978
 decades:
   - 1970
-collections: []
+collections:
+  - "news coverage"
 aliases: []
 ---

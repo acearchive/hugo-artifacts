@@ -18,6 +18,7 @@ from_year: 2019
 decades:
   - 2010
 collections:
+  - "histories and timelines"
   - "terms and where they came from"
 aliases: []
 ---

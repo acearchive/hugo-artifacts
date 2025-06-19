@@ -15,6 +15,7 @@ from_year: 2010
 to_year: 2013
 decades:
   - 2010
-collections: []
+collections:
+  - "histories and timelines"
 aliases: []
 ---

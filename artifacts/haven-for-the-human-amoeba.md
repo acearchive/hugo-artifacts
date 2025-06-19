@@ -31,6 +31,7 @@ to_year: 2019
 decades:
   - 2000
   - 2010
-collections: []
+collections:
+  - "communities and community spaces"
 aliases: []
 ---

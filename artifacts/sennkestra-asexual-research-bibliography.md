@@ -26,6 +26,7 @@ decades:
   - 2000
   - 2010
   - 2020
-collections: []
+collections:
+  - "catalogs and bibliographies"
 aliases: []
 ---
