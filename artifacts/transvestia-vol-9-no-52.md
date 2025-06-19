@@ -26,6 +26,7 @@ identities:
 from_year: 1968
 decades:
   - 1960
-collections: []
+collections:
+  - "newsjournals and underground press"
 aliases: []
 ---

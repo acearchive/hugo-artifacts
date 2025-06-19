@@ -35,6 +35,7 @@ identities:
 from_year: 1974
 decades:
   - 1970
-collections: []
+collections:
+  - "newsjournals and underground press"
 aliases: []
 ---
