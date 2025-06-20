@@ -5,15 +5,10 @@ title: "*Off Our Backs*, vol. 3, no. 5"
 summary: "An issue of a feminist news journal that mentions asexuality"
 description: "An issue of a feminist news journal that mentions a workshop an asexuality led by Barbara Getz in a column titled \"Your Own Label\""
 files:
-  - filename: "off-our-backs-vol-3-no-5.bib"
-    name: "Citation"
-    media_type: "text/x-bibtex"
-    url: "https://files-dev.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/off-our-backs-vol-3-no-5.bib"
-    hidden: true
-  - filename: "off-our-backs-vol-3-no-5.pdf"
-    name: "Off Our Backs, vol. 3, no. 5"
+  - filename: "your-own-label.pdf"
+    name: "Your Own Label"
     media_type: "application/pdf"
-    url: "https://files-dev.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/off-our-backs-vol-3-no-5.pdf"
+    url: "https://files-dev.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/your-own-label.pdf"
     hidden: false
   - filename: "your-own-label-transcript/index.html"
     name: "Your Own Label (Transcript)"
@@ -25,15 +20,20 @@ files:
     media_type: "text/x-bibtex"
     url: "https://files-dev.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/your-own-label.bib"
     hidden: false
-  - filename: "your-own-label.pdf"
-    name: "Your Own Label"
+  - filename: "off-our-backs-vol-3-no-5.pdf"
+    name: "Off Our Backs, vol. 3, no. 5"
     media_type: "application/pdf"
-    url: "https://files-dev.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/your-own-label.pdf"
+    url: "https://files-dev.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/off-our-backs-vol-3-no-5.pdf"
     hidden: false
   - filename: "your-own-label.png"
     name: "Your Own Label (Digital Scan)"
     media_type: "image/png"
     url: "https://files-dev.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/your-own-label.png"
+    hidden: true
+  - filename: "off-our-backs-vol-3-no-5.bib"
+    name: "Citation"
+    media_type: "text/x-bibtex"
+    url: "https://files-dev.acearchive.lgbt/artifacts/off-our-backs-vol-3-no-5/off-our-backs-vol-3-no-5.bib"
     hidden: true
 links:
   - name: "JSTOR"
@@ -46,6 +46,7 @@ identities:
 from_year: 1973
 decades:
   - 1970
-collections: []
+collections:
+  - "newsjournals and underground press"
 aliases: []
 ---

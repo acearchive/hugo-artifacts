@@ -5,6 +5,11 @@ title: "*Fifth Estate*, vol. 9, no. 4"
 summary: "A reader calls out the news journal *Fifth Estate* for overlooking the oppression of asexuals"
 description: "A reader writes about their experience as an asexual and calls out the news journal *Fifth Estate* for overlooking the oppression of asexuals"
 files:
+  - filename: "fifth-estate-letter.pdf"
+    name: "Reader Submission"
+    media_type: "application/pdf"
+    url: "https://files-dev.acearchive.lgbt/artifacts/fifth-estate-vol-9-no-4/fifth-estate-letter.pdf"
+    hidden: false
   - filename: "fifth-estate-letter-transcript.html"
     name: "Reader Submission (Transcript)"
     media_type: "text/html"
@@ -14,11 +19,6 @@ files:
     name: "Reader Submission (Citation)"
     media_type: "text/x-bibtex"
     url: "https://files-dev.acearchive.lgbt/artifacts/fifth-estate-vol-9-no-4/fifth-estate-letter.bib"
-    hidden: false
-  - filename: "fifth-estate-letter.pdf"
-    name: "Reader Submission"
-    media_type: "application/pdf"
-    url: "https://files-dev.acearchive.lgbt/artifacts/fifth-estate-vol-9-no-4/fifth-estate-letter.pdf"
     hidden: false
   - filename: "fifth-estate.pdf"
     name: "Fifth Estate"
@@ -35,6 +35,7 @@ identities:
 from_year: 1974
 decades:
   - 1970
-collections: []
+collections:
+  - "newsjournals and underground press"
 aliases: []
 ---
