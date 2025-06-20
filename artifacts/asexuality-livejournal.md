@@ -15,6 +15,7 @@ identities:
 from_year: 2002
 decades:
   - 2000
-collections: []
+collections:
+  - "communities and community spaces"
 aliases: []
 ---

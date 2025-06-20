@@ -4,15 +4,15 @@ slug: "storms-sexual-orientation-self-perception"
 title: "\"Sexual Orientation and Self-Perception\""
 summary: "A study that reimagines the Kinsey Scale as a two-dimensional spectrum that accounts for asexuality"
 files:
-  - filename: "sexual-orientation-and-self-perception.bib"
-    name: "Citation"
-    media_type: "text/x-bibtex"
-    url: "https://files-dev.acearchive.lgbt/artifacts/storms-sexual-orientation-self-perception/sexual-orientation-and-self-perception.bib"
-    hidden: false
   - filename: "sexual-orientation-and-self-perception.pdf"
     name: "Paper"
     media_type: "application/pdf"
     url: "https://files-dev.acearchive.lgbt/artifacts/storms-sexual-orientation-self-perception/sexual-orientation-and-self-perception.pdf"
+    hidden: false
+  - filename: "sexual-orientation-and-self-perception.bib"
+    name: "Citation"
+    media_type: "text/x-bibtex"
+    url: "https://files-dev.acearchive.lgbt/artifacts/storms-sexual-orientation-self-perception/sexual-orientation-and-self-perception.bib"
     hidden: false
 links:
   - name: "Journal Page"

@@ -17,6 +17,7 @@ to_year: 2023
 decades:
   - 2010
   - 2020
-collections: []
+collections:
+  - "communities and community spaces"
 aliases: []
 ---

@@ -4,6 +4,11 @@ slug: "werther-the-female-impersonators"
 title: "*The Female Impersonators*"
 summary: "A book which describes \"anaphrodites,\" who never desire or pursue marriage, courtship, or sex"
 files:
+  - filename: "the-female-impersonators.pdf"
+    name: "Book"
+    media_type: "application/pdf"
+    url: "https://files-dev.acearchive.lgbt/artifacts/werther-the-female-impersonators/the-female-impersonators.pdf"
+    hidden: false
   - filename: "the-female-impersonators-transcript.txt"
     name: "OCR Transcript"
     media_type: "text/plain"
@@ -13,11 +18,6 @@ files:
     name: "Citation"
     media_type: "text/x-bibtex"
     url: "https://files-dev.acearchive.lgbt/artifacts/werther-the-female-impersonators/the-female-impersonators.bib"
-    hidden: false
-  - filename: "the-female-impersonators.pdf"
-    name: "Book"
-    media_type: "application/pdf"
-    url: "https://files-dev.acearchive.lgbt/artifacts/werther-the-female-impersonators/the-female-impersonators.pdf"
     hidden: false
 links:
   - name: "Internet Archive"

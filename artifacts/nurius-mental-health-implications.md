@@ -4,15 +4,15 @@ slug: "nurius-mental-health-implications"
 title: "\"Mental Health Implications of Sexual Orientation\""
 summary: "A study on the correlation between mental health and sexual orientation which includes asexual people as a sample group"
 files:
-  - filename: "mental-health-implications-of-sexual-orientation.bib"
-    name: "Citation"
-    media_type: "text/x-bibtex"
-    url: "https://files-dev.acearchive.lgbt/artifacts/nurius-mental-health-implications/mental-health-implications-of-sexual-orientation.bib"
-    hidden: false
   - filename: "mental-health-implications-of-sexual-orientation.pdf"
     name: "Paper"
     media_type: "application/pdf"
     url: "https://files-dev.acearchive.lgbt/artifacts/nurius-mental-health-implications/mental-health-implications-of-sexual-orientation.pdf"
+    hidden: false
+  - filename: "mental-health-implications-of-sexual-orientation.bib"
+    name: "Citation"
+    media_type: "text/x-bibtex"
+    url: "https://files-dev.acearchive.lgbt/artifacts/nurius-mental-health-implications/mental-health-implications-of-sexual-orientation.bib"
     hidden: false
 links:
   - name: "Taylor & Francis Online"

@@ -4,15 +4,15 @@ slug: "nordgren-manifesto-relationship-anarchy"
 title: "*The short instructional manifesto for relationship anarchy*"
 summary: "A pamphlet which first introduced the concept of relationship anarchy"
 files:
-  - filename: "short-instructional-manifesto-for-relationship-anarchy.html"
-    name: "Standalone HTML"
-    media_type: "text/html"
-    url: "https://files-dev.acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy/short-instructional-manifesto-for-relationship-anarchy.html"
-    hidden: false
   - filename: "short-instructional-manifesto-for-relationship-anarchy.pdf"
     name: "PDF"
     media_type: "application/pdf"
     url: "https://files-dev.acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy/short-instructional-manifesto-for-relationship-anarchy.pdf"
+    hidden: false
+  - filename: "short-instructional-manifesto-for-relationship-anarchy.html"
+    name: "Standalone HTML"
+    media_type: "text/html"
+    url: "https://files-dev.acearchive.lgbt/artifacts/nordgren-manifesto-relationship-anarchy/short-instructional-manifesto-for-relationship-anarchy.html"
     hidden: false
 links:
   - name: "The Anarchist Library"

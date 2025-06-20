@@ -5,15 +5,15 @@ title: "*Ein Weib?*"
 summary: "An early academic paper on queer identities where the author self-identities as asexual"
 description: "An early academic paper on queer identities where the author discusses asexuality using the label *sinnlichkeitslosigkeit* (asensuality) and self-identifies as such"
 files:
-  - filename: "ein-weib.bib"
-    name: "Citation"
-    media_type: "text/x-bibtex"
-    url: "https://files-dev.acearchive.lgbt/artifacts/trosse-ein-weib/ein-weib.bib"
-    hidden: false
   - filename: "ein-weib.pdf"
     name: "Original Paper"
     media_type: "application/pdf"
     url: "https://files-dev.acearchive.lgbt/artifacts/trosse-ein-weib/ein-weib.pdf"
+    hidden: false
+  - filename: "ein-weib.bib"
+    name: "Citation"
+    media_type: "text/x-bibtex"
+    url: "https://files-dev.acearchive.lgbt/artifacts/trosse-ein-weib/ein-weib.bib"
     hidden: false
 links:
   - name: "Google Books"
@@ -21,6 +21,7 @@ links:
 people:
   - "Emma Trosse"
 identities:
+  - "asensual"
   - "asexual"
 from_year: 1897
 decades:

@@ -5,6 +5,11 @@ title: "*Psychopathia Sexualis*"
 summary: "The first use of the term \"anesthesia sexual\" to refer to asexual people"
 description: "The first use of the term \"anesthesia sexual\" in medical literature to refer to asexual people, a term which would later be used by Magnus Hirschfeld"
 files:
+  - filename: "psychopathia-sexualis.pdf"
+    name: "Original Book"
+    media_type: "application/pdf"
+    url: "https://files-dev.acearchive.lgbt/artifacts/krafft-ebing-psychopathia-sexualis/psychopathia-sexualis.pdf"
+    hidden: false
   - filename: "psychopathia-sexualis-ocr-transcript.txt"
     name: "Fulltext OCR Transcript"
     media_type: "text/plain"
@@ -14,11 +19,6 @@ files:
     name: "Citation"
     media_type: "text/x-bibtex"
     url: "https://files-dev.acearchive.lgbt/artifacts/krafft-ebing-psychopathia-sexualis/psychopathia-sexualis.bib"
-    hidden: false
-  - filename: "psychopathia-sexualis.pdf"
-    name: "Original Book"
-    media_type: "application/pdf"
-    url: "https://files-dev.acearchive.lgbt/artifacts/krafft-ebing-psychopathia-sexualis/psychopathia-sexualis.pdf"
     hidden: false
 links: []
 people:

@@ -5,15 +5,15 @@ title: "*Sappho und Sokrates*"
 summary: "A formative academic work in legitimizing queer identities which recognizes asexual people"
 description: "A formative academic work in legitimizing queer identities which recognizes asexual people under the label \"anesthesia sexualis\""
 files:
-  - filename: "hirschfeld-sappho-und-sokrates.bib"
-    name: "Citation"
-    media_type: "text/x-bibtex"
-    url: "https://files-dev.acearchive.lgbt/artifacts/hirschfeld-sappho-und-sokrates/hirschfeld-sappho-und-sokrates.bib"
-    hidden: false
   - filename: "hirschfeld-sappho-und-sokrates.pdf"
     name: "Original Paper"
     media_type: "application/pdf"
     url: "https://files-dev.acearchive.lgbt/artifacts/hirschfeld-sappho-und-sokrates/hirschfeld-sappho-und-sokrates.pdf"
+    hidden: false
+  - filename: "hirschfeld-sappho-und-sokrates.bib"
+    name: "Citation"
+    media_type: "text/x-bibtex"
+    url: "https://files-dev.acearchive.lgbt/artifacts/hirschfeld-sappho-und-sokrates/hirschfeld-sappho-und-sokrates.bib"
     hidden: false
 links:
   - name: "University of Chicago Library"
