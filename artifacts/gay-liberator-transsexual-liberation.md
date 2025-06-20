@@ -5,10 +5,10 @@ title: "\"Transvestite and Transsexual Liberation\""
 summary: "An article on trans liberation which mentions asexuality"
 description: "An article in the Detroit Gay Liberator which asserts that trans liberation includes people of all orientations, including asexuals"
 files:
-  - filename: "detroit-gay-liberator.pdf"
-    name: "Detroit Gay Liberator, vol. 1, no. 8"
+  - filename: "transsexual-liberation.pdf"
+    name: "Article"
     media_type: "application/pdf"
-    url: "https://files.acearchive.lgbt/artifacts/gay-liberator-transsexual-liberation/detroit-gay-liberator.pdf"
+    url: "https://files.acearchive.lgbt/artifacts/gay-liberator-transsexual-liberation/transsexual-liberation.pdf"
     hidden: false
   - filename: "transsexual-liberation-transcript.html"
     name: "Article Transcript"
@@ -20,10 +20,10 @@ files:
     media_type: "text/x-bibtex"
     url: "https://files.acearchive.lgbt/artifacts/gay-liberator-transsexual-liberation/transsexual-liberation.bib"
     hidden: false
-  - filename: "transsexual-liberation.pdf"
-    name: "Article"
+  - filename: "detroit-gay-liberator.pdf"
+    name: "Detroit Gay Liberator, vol. 1, no. 8"
     media_type: "application/pdf"
-    url: "https://files.acearchive.lgbt/artifacts/gay-liberator-transsexual-liberation/transsexual-liberation.pdf"
+    url: "https://files.acearchive.lgbt/artifacts/gay-liberator-transsexual-liberation/detroit-gay-liberator.pdf"
     hidden: false
 links:
   - name: "JSTOR"

@@ -5,21 +5,6 @@ title: "\"Choose Your Label\" Barnard College"
 summary: "A photo of activists at Barnard College inviting people to choose their own label"
 description: "A photo published in the feminist news journal *Off Our Backs* depicting activists at Barnard College inviting people to choose their own label, with \"asexual\" as one of the options"
 files:
-  - filename: "choose-your-label-transcript/choose-your-label.png"
-    name: "Photo"
-    media_type: "image/png"
-    url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/choose-your-label.png"
-    hidden: true
-  - filename: "choose-your-label-transcript/index.html"
-    name: "Article Transcript"
-    media_type: "text/html"
-    url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/index.html"
-    hidden: false
-  - filename: "choose-your-label-transcript/margaret-sloan-and-gloria-steinem.png"
-    name: "Photo"
-    media_type: "image/png"
-    url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/margaret-sloan-and-gloria-steinem.png"
-    hidden: true
   - filename: "choose-your-label.png"
     name: "Photo"
     media_type: "image/png"
@@ -30,15 +15,30 @@ files:
     media_type: "application/pdf"
     url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/late-copy.pdf"
     hidden: false
-  - filename: "off-our-backs-vol-3-no-6.bib"
-    name: "Off Our Backs, vol. 3, no. 6 (Citation)"
-    media_type: "text/x-bibtex"
-    url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/off-our-backs-vol-3-no-6.bib"
+  - filename: "choose-your-label-transcript/index.html"
+    name: "Article Transcript"
+    media_type: "text/html"
+    url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/index.html"
     hidden: false
+  - filename: "choose-your-label-transcript/choose-your-label.png"
+    name: "Photo"
+    media_type: "image/png"
+    url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/choose-your-label.png"
+    hidden: true
+  - filename: "choose-your-label-transcript/margaret-sloan-and-gloria-steinem.png"
+    name: "Photo"
+    media_type: "image/png"
+    url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/choose-your-label-transcript/margaret-sloan-and-gloria-steinem.png"
+    hidden: true
   - filename: "off-our-backs-vol-3-no-6.pdf"
     name: "Off Our Backs, vol. 3, no. 6"
     media_type: "application/pdf"
     url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/off-our-backs-vol-3-no-6.pdf"
+    hidden: false
+  - filename: "off-our-backs-vol-3-no-6.bib"
+    name: "Off Our Backs, vol. 3, no. 6 (Citation)"
+    media_type: "text/x-bibtex"
+    url: "https://files.acearchive.lgbt/artifacts/choose-your-label-barnard-college/off-our-backs-vol-3-no-6.bib"
     hidden: false
 links:
   - name: "JSTOR"

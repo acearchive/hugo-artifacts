@@ -5,15 +5,15 @@ title: "*The Mismeasure of Desire: The Science, Theory, and Ethics of Sexual Ori
 summary: "A book on human sexuality that points out how the Kinsey scale fails to account for asexuals"
 description: "A book on human sexuality that points out how Alfred Kinsey's one-dimensional scale of sexual orientation fails to account for asexuals"
 files:
-  - filename: "the-mismeasure-of-desire.bib"
-    name: "Citation"
-    media_type: "text/x-bibtex"
-    url: "https://files.acearchive.lgbt/artifacts/stein-mismeasure-of-desire/the-mismeasure-of-desire.bib"
-    hidden: false
   - filename: "the-mismeasure-of-desire.pdf"
     name: "Book"
     media_type: "application/pdf"
     url: "https://files.acearchive.lgbt/artifacts/stein-mismeasure-of-desire/the-mismeasure-of-desire.pdf"
+    hidden: false
+  - filename: "the-mismeasure-of-desire.bib"
+    name: "Citation"
+    media_type: "text/x-bibtex"
+    url: "https://files.acearchive.lgbt/artifacts/stein-mismeasure-of-desire/the-mismeasure-of-desire.bib"
     hidden: false
 links:
   - name: "Google Books"

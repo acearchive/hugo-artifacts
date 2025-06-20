@@ -5,6 +5,11 @@ title: "*The Satanic Bible*"
 summary: "A book describing asexuals as being \"sexually subliminated\" by non-sexual interests"
 description: "A book describing asexuals as being \"sexually subliminated\" by non-sexual interests and favoring those over sex"
 files:
+  - filename: "the-satanic-bible.pdf"
+    name: "Book"
+    media_type: "application/pdf"
+    url: "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible.pdf"
+    hidden: false
   - filename: "the-satanic-bible-transcript.txt"
     name: "OCR Transcript"
     media_type: "text/plain"
@@ -14,11 +19,6 @@ files:
     name: "Citation"
     media_type: "text/x-bibtex"
     url: "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible.bib"
-    hidden: false
-  - filename: "the-satanic-bible.pdf"
-    name: "Book"
-    media_type: "application/pdf"
-    url: "https://files.acearchive.lgbt/artifacts/lavey-the-satanic-bible/the-satanic-bible.pdf"
     hidden: false
 links:
   - name: "Internet Archive"
