@@ -19,8 +19,8 @@ people:
   - "Meloukhia"
 identities:
   - "aromantic"
-  - "queerplatonic"
   - "wtfromantic"
+  - "queerplatonic"
 from_year: 2010
 decades:
   - 2010

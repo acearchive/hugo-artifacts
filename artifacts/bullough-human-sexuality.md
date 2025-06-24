@@ -19,11 +19,11 @@ links:
   - name: "Internet Archive"
     url: "https://archive.org/details/humansexuality00arie/page/372/mode/2up"
 people:
-  - "Bonnie Bullough"
   - "Vern L. Bullough"
+  - "Bonnie Bullough"
 identities:
-  - "anerotic"
   - "asexual"
+  - "anerotic"
 from_year: 1994
 decades:
   - 1990

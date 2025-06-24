@@ -22,8 +22,8 @@ people:
   - "Ann Landers"
 identities:
   - "asexual"
-  - "bisexual"
   - "homosexual"
+  - "bisexual"
 from_year: 1992
 decades:
   - 1990

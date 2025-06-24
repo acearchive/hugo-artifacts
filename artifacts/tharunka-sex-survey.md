@@ -20,8 +20,8 @@ links:
 people: []
 identities:
   - "asexual"
-  - "bisexual"
   - "homosexual"
+  - "bisexual"
 from_year: 1980
 decades:
   - 1980

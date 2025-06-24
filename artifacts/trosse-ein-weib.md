@@ -21,8 +21,8 @@ links:
 people:
   - "Emma Trosse"
 identities:
-  - "asensual"
   - "asexual"
+  - "asensual"
 from_year: 1897
 decades:
   - 1890

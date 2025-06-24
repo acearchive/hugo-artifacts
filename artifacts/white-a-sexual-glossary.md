@@ -30,8 +30,8 @@ links:
 people:
   - "Diane White"
 identities:
-  - "antisexual"
   - "asexual"
+  - "antisexual"
   - "nonsexual"
 from_year: 1988
 decades:

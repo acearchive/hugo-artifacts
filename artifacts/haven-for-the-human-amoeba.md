@@ -14,17 +14,17 @@ links:
   - name: "Browsable Archive"
     url: "https://hha.acearchive.lgbt/"
 people:
+  - "Nat Titman"
   - "David Jay"
   - "Jim Sinclair"
-  - "Nat Titman"
   - "TNGirlTech"
   - "maxnova100"
 identities:
-  - "antisexual"
-  - "aromantic"
   - "asexual"
+  - "aromantic"
   - "intersex"
   - "neuter"
+  - "antisexual"
   - "nonsexual"
 from_year: 2000
 to_year: 2019

@@ -15,8 +15,8 @@ links:
 people:
   - "Jaclyn Hernandez"
 identities:
-  - "aromantic"
   - "asexual"
+  - "aromantic"
 from_year: 2021
 decades:
   - 2020

@@ -8,8 +8,8 @@ links:
   - name: "Site"
     url: "https://carnivalofaros.wordpress.com/"
 people:
-  - "Sennkestra"
   - "Siggy"
+  - "Sennkestra"
 identities:
   - "aromantic"
 from_year: 2019

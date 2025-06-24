@@ -15,15 +15,15 @@ links:
 people:
   - "t.pagan-guerra"
 identities:
-  - "aromantic"
   - "asexual"
+  - "aromantic"
   - "demisexual"
 from_year: 1993
 to_year: 2023
 decades:
-  - 1990
   - 2010
   - 2020
+  - 1990
 collections:
   - "catalogs and bibliographies"
 aliases: []

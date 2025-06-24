@@ -22,8 +22,8 @@ people:
   - "Art Hoppe"
   - "C. Wordsworth Gates"
 identities:
-  - "a"
   - "asexual"
+  - "a"
 from_year: 1979
 decades:
   - 1970
