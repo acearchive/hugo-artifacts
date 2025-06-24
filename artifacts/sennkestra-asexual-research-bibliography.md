@@ -21,11 +21,11 @@ from_year: 1977
 to_year: 2022
 decades:
   - 1970
-  - 1980
-  - 1990
   - 2000
   - 2010
   - 2020
+  - 1980
+  - 1990
 collections:
   - "catalogs and bibliographies"
 aliases: []

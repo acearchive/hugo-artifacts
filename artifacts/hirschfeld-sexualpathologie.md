@@ -28,9 +28,9 @@ links:
 people:
   - "Magnus Hirschfeld"
 identities:
-  - "anerotic"
   - "asexual"
   - "automonosexual"
+  - "anerotic"
 from_year: 1921
 decades:
   - 1920

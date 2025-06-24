@@ -39,8 +39,8 @@ links: []
 people: []
 identities:
   - "asexual"
-  - "celibate"
   - "homosexual"
+  - "celibate"
 from_year: 1975
 decades:
   - 1970

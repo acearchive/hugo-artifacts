@@ -9,8 +9,8 @@ links:
   - name: "Wayback Machine"
     url: "https://web.archive.org/web/20031229035929/http://motorcycleaupairboy.com/interviews/1992/observer.htm"
 people:
-  - "Morrissey"
   - "Robert Chalmers"
+  - "Morrissey"
 identities:
   - "asexual"
   - "celibate"

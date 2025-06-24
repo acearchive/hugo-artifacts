@@ -25,8 +25,8 @@ links:
 people:
   - "Ralph Werther"
 identities:
-  - "anaphrodite"
   - "asexual"
+  - "anaphrodite"
 from_year: 1922
 decades:
   - 1920

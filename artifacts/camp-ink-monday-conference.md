@@ -26,8 +26,8 @@ links:
 people: []
 identities:
   - "asexual"
-  - "bisexual"
   - "homosexual"
+  - "bisexual"
 from_year: 1975
 decades:
   - 1970

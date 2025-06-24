@@ -21,10 +21,10 @@ links:
 people:
   - "Ray Blanchard"
 identities:
-  - "analloerotic"
   - "asexual"
-  - "automonosexual"
   - "transgender"
+  - "analloerotic"
+  - "automonosexual"
 from_year: 1989
 decades:
   - 1980
