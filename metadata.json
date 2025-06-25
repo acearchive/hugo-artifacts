@@ -2,27 +2,33 @@
   "tags": [
     {
       "name": "catalogs and bibliographies",
-      "kind": "collection"
+      "kind": "collection",
+      "description": "Lists of published works about asexuality"
     },
     {
       "name": "communities and community spaces",
-      "kind": "collection"
+      "kind": "collection",
+      "description": "Current and former online and offline spaces where asexual people connect"
     },
     {
       "name": "histories and timelines",
-      "kind": "collection"
+      "kind": "collection",
+      "description": "Historical accounts of the asexual community and how it has changed over time"
     },
     {
       "name": "news coverage",
-      "kind": "collection"
+      "kind": "collection",
+      "description": "News coverage about asexuality and the asexual community"
     },
     {
       "name": "newsjournals and underground press",
-      "kind": "collection"
+      "kind": "collection",
+      "description": "Underground, indie, and alternative publications that cover asexuality"
     },
     {
       "name": "terms and where they came from",
-      "kind": "collection"
+      "kind": "collection",
+      "description": "The origins of terms and labels used by the asexual community"
     },
     {
       "name": "1860",
