@@ -1,0 +1,563 @@
+{
+  "tags": [
+    {
+      "name": "catalogs and bibliographies",
+      "kind": "collection"
+    },
+    {
+      "name": "communities and community spaces",
+      "kind": "collection"
+    },
+    {
+      "name": "histories and timelines",
+      "kind": "collection"
+    },
+    {
+      "name": "news coverage",
+      "kind": "collection"
+    },
+    {
+      "name": "newsjournals and underground press",
+      "kind": "collection"
+    },
+    {
+      "name": "terms and where they came from",
+      "kind": "collection"
+    },
+    {
+      "name": "1860",
+      "kind": "decade"
+    },
+    {
+      "name": "1880",
+      "kind": "decade"
+    },
+    {
+      "name": "1890",
+      "kind": "decade"
+    },
+    {
+      "name": "1910",
+      "kind": "decade"
+    },
+    {
+      "name": "1920",
+      "kind": "decade"
+    },
+    {
+      "name": "1930",
+      "kind": "decade"
+    },
+    {
+      "name": "1960",
+      "kind": "decade"
+    },
+    {
+      "name": "1970",
+      "kind": "decade"
+    },
+    {
+      "name": "1980",
+      "kind": "decade"
+    },
+    {
+      "name": "1990",
+      "kind": "decade"
+    },
+    {
+      "name": "2000",
+      "kind": "decade"
+    },
+    {
+      "name": "2010",
+      "kind": "decade"
+    },
+    {
+      "name": "2020",
+      "kind": "decade"
+    },
+    {
+      "name": "a",
+      "kind": "identity"
+    },
+    {
+      "name": "analloerotic",
+      "kind": "identity"
+    },
+    {
+      "name": "anaphrodite",
+      "kind": "identity"
+    },
+    {
+      "name": "anerotic",
+      "kind": "identity"
+    },
+    {
+      "name": "antisexual",
+      "kind": "identity"
+    },
+    {
+      "name": "aromantic",
+      "kind": "identity",
+      "description": "Often defined as someone who does not experience romantic attraction"
+    },
+    {
+      "name": "asensual",
+      "kind": "identity"
+    },
+    {
+      "name": "asexual",
+      "kind": "identity",
+      "description": "Often defined as someone who does not experience sexual attraction"
+    },
+    {
+      "name": "autoerotic",
+      "kind": "identity"
+    },
+    {
+      "name": "automonosexual",
+      "kind": "identity"
+    },
+    {
+      "name": "bisexual",
+      "kind": "identity"
+    },
+    {
+      "name": "celibate",
+      "kind": "identity"
+    },
+    {
+      "name": "demisexual",
+      "kind": "identity"
+    },
+    {
+      "name": "disabled",
+      "kind": "identity"
+    },
+    {
+      "name": "gray-asexual",
+      "kind": "identity"
+    },
+    {
+      "name": "homosexual",
+      "kind": "identity"
+    },
+    {
+      "name": "intersex",
+      "kind": "identity"
+    },
+    {
+      "name": "lesbian",
+      "kind": "identity"
+    },
+    {
+      "name": "monosexual",
+      "kind": "identity"
+    },
+    {
+      "name": "neuter",
+      "kind": "identity"
+    },
+    {
+      "name": "non-binary",
+      "kind": "identity"
+    },
+    {
+      "name": "nonlibidoist",
+      "kind": "identity"
+    },
+    {
+      "name": "nonlimerent",
+      "kind": "identity"
+    },
+    {
+      "name": "nonsexual",
+      "kind": "identity"
+    },
+    {
+      "name": "onosexual",
+      "kind": "identity"
+    },
+    {
+      "name": "queerplatonic",
+      "kind": "identity"
+    },
+    {
+      "name": "quoiromantic",
+      "kind": "identity",
+      "description": "Not differentiating between romantic and platonic attraction, also sometimes called WTFromantic"
+    },
+    {
+      "name": "self-married",
+      "kind": "identity"
+    },
+    {
+      "name": "sologamous",
+      "kind": "identity"
+    },
+    {
+      "name": "spinster",
+      "kind": "identity"
+    },
+    {
+      "name": "transgender",
+      "kind": "identity"
+    },
+    {
+      "name": "transsexual",
+      "kind": "identity"
+    },
+    {
+      "name": "transvestite",
+      "kind": "identity"
+    },
+    {
+      "name": "wtfromantic",
+      "kind": "identity"
+    },
+    {
+      "name": "Abigail Van Buren",
+      "kind": "person"
+    },
+    {
+      "name": "Andie Nordgren",
+      "kind": "person"
+    },
+    {
+      "name": "Andrew Hinderliter",
+      "kind": "person"
+    },
+    {
+      "name": "Ann Landers",
+      "kind": "person"
+    },
+    {
+      "name": "Anthony Bogaert",
+      "kind": "person"
+    },
+    {
+      "name": "Anton Szandor Lavey",
+      "kind": "person"
+    },
+    {
+      "name": "Art Hoppe",
+      "kind": "person"
+    },
+    {
+      "name": "Arthur Bell",
+      "kind": "person"
+    },
+    {
+      "name": "B Liber",
+      "kind": "person"
+    },
+    {
+      "name": "Barbara Getz",
+      "kind": "person"
+    },
+    {
+      "name": "Barbara Karkabi",
+      "kind": "person"
+    },
+    {
+      "name": "Billie Jean Jones",
+      "kind": "person"
+    },
+    {
+      "name": "Bonnie Bullough",
+      "kind": "person"
+    },
+    {
+      "name": "Brian Kelliher",
+      "kind": "person"
+    },
+    {
+      "name": "C. Wordsworth Gates",
+      "kind": "person"
+    },
+    {
+      "name": "Claia Bryja",
+      "kind": "person"
+    },
+    {
+      "name": "Compton Mackenzie",
+      "kind": "person"
+    },
+    {
+      "name": "Cor",
+      "kind": "person"
+    },
+    {
+      "name": "Coyote",
+      "kind": "person"
+    },
+    {
+      "name": "Crawford Barton",
+      "kind": "person"
+    },
+    {
+      "name": "David Bowie",
+      "kind": "person"
+    },
+    {
+      "name": "David Jay",
+      "kind": "person"
+    },
+    {
+      "name": "Dennis Dailey",
+      "kind": "person"
+    },
+    {
+      "name": "Diane White",
+      "kind": "person"
+    },
+    {
+      "name": "Dorothy Tennov",
+      "kind": "person"
+    },
+    {
+      "name": "E. O. Line",
+      "kind": "person"
+    },
+    {
+      "name": "Edward Stein",
+      "kind": "person"
+    },
+    {
+      "name": "Elizabeth Brake",
+      "kind": "person"
+    },
+    {
+      "name": "Elizabeth Kaye",
+      "kind": "person"
+    },
+    {
+      "name": "Emma Trosse",
+      "kind": "person"
+    },
+    {
+      "name": "Esther D. Rothblum",
+      "kind": "person"
+    },
+    {
+      "name": "Frank Sanello",
+      "kind": "person"
+    },
+    {
+      "name": "Georgia Dullea",
+      "kind": "person"
+    },
+    {
+      "name": "Harold Nederland",
+      "kind": "person"
+    },
+    {
+      "name": "Helen Bottel",
+      "kind": "person"
+    },
+    {
+      "name": "Jaclyn Hernandez",
+      "kind": "person"
+    },
+    {
+      "name": "Jill Tweedie",
+      "kind": "person"
+    },
+    {
+      "name": "Jim Sinclair",
+      "kind": "person"
+    },
+    {
+      "name": "John Briggs",
+      "kind": "person"
+    },
+    {
+      "name": "KSpaz",
+      "kind": "person"
+    },
+    {
+      "name": "Karl-Maria Kertbeny",
+      "kind": "person"
+    },
+    {
+      "name": "Kathleen A. Brehony",
+      "kind": "person"
+    },
+    {
+      "name": "Kaz",
+      "kind": "person"
+    },
+    {
+      "name": "Leonore Tiefer",
+      "kind": "person"
+    },
+    {
+      "name": "Linda Baker",
+      "kind": "person"
+    },
+    {
+      "name": "Lisa Orlando",
+      "kind": "person"
+    },
+    {
+      "name": "Magnus Hirschfeld",
+      "kind": "person"
+    },
+    {
+      "name": "Mary Duenwald",
+      "kind": "person"
+    },
+    {
+      "name": "Meloukhia",
+      "kind": "person"
+    },
+    {
+      "name": "Michael D. Storms",
+      "kind": "person"
+    },
+    {
+      "name": "Michael Hernandez",
+      "kind": "person"
+    },
+    {
+      "name": "Morrissey",
+      "kind": "person"
+    },
+    {
+      "name": "Myra T. Johnson",
+      "kind": "person"
+    },
+    {
+      "name": "Nat Titman",
+      "kind": "person"
+    },
+    {
+      "name": "Patricia Ward Biederman",
+      "kind": "person"
+    },
+    {
+      "name": "Paula S. Nurius",
+      "kind": "person"
+    },
+    {
+      "name": "Peter M. Bentler",
+      "kind": "person"
+    },
+    {
+      "name": "Raisin",
+      "kind": "person"
+    },
+    {
+      "name": "Ralph Werther",
+      "kind": "person"
+    },
+    {
+      "name": "Ray Blanchard",
+      "kind": "person"
+    },
+    {
+      "name": "Richard von Krafft-Ebing",
+      "kind": "person"
+    },
+    {
+      "name": "Robert Chalmers",
+      "kind": "person"
+    },
+    {
+      "name": "Samantha Dean",
+      "kind": "person"
+    },
+    {
+      "name": "Sciatrix",
+      "kind": "person"
+    },
+    {
+      "name": "Sennkestra",
+      "kind": "person"
+    },
+    {
+      "name": "Shirl Kasper",
+      "kind": "person"
+    },
+    {
+      "name": "Siggy",
+      "kind": "person"
+    },
+    {
+      "name": "Swankivy",
+      "kind": "person"
+    },
+    {
+      "name": "Sylvia Pagán Westphal",
+      "kind": "person"
+    },
+    {
+      "name": "TNGirlTech",
+      "kind": "person"
+    },
+    {
+      "name": "Takahiro Horie",
+      "kind": "person"
+    },
+    {
+      "name": "Tim Radford",
+      "kind": "person"
+    },
+    {
+      "name": "Valerie Solanas",
+      "kind": "person"
+    },
+    {
+      "name": "Vern L. Bullough",
+      "kind": "person"
+    },
+    {
+      "name": "Veronica Smith",
+      "kind": "person"
+    },
+    {
+      "name": "Warren Farrell",
+      "kind": "person"
+    },
+    {
+      "name": "William A Hammond",
+      "kind": "person"
+    },
+    {
+      "name": "Wilma Scott Heide",
+      "kind": "person"
+    },
+    {
+      "name": "Zoe O'Reilly",
+      "kind": "person"
+    },
+    {
+      "name": "bristrek",
+      "kind": "person"
+    },
+    {
+      "name": "hexaquark",
+      "kind": "person"
+    },
+    {
+      "name": "maxnova100",
+      "kind": "person"
+    },
+    {
+      "name": "smidgen110",
+      "kind": "person"
+    },
+    {
+      "name": "sonofzeal",
+      "kind": "person"
+    },
+    {
+      "name": "standup",
+      "kind": "person"
+    },
+    {
+      "name": "t.pagan-guerra",
+      "kind": "person"
+    }
+  ]
+}
