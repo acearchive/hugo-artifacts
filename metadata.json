@@ -1,6 +1,10 @@
 {
   "tags": [
     {
+      "name": "Histories and Timelines",
+      "kind": "collection"
+    },
+    {
       "name": "catalogs and bibliographies",
       "kind": "collection",
       "description": "Lists of published works about asexuality."
