@@ -1,3 +1,5 @@
+⚠️ **[DEPRECATED]: Migrating the project to [Omeka S](https://omeka.org/s/) has made this repo obsolete.**
+
 # hugo-artifacts
 
 This repository contains static assets which are generated and committed
